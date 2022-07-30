@@ -1,0 +1,25 @@
+{
+    "name": "Puçuko",
+    "description": "Puçuko",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/303.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1514235600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38353
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Artvin"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

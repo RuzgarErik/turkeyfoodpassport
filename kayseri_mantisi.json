@@ -1,0 +1,25 @@
+{
+    "name": "Kayseri Mantısı",
+    "description": "Kayseri Mantısı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/113.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1244581200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37972
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kayseri"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

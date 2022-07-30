@@ -1,0 +1,25 @@
+{
+    "name": "Simav Kestanesi",
+    "description": "Simav Kestanesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f5966295-025d-4c2e-9497-b82fe8e368fe.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1655758800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1526
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kütahya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

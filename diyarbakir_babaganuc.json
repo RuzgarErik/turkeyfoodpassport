@@ -1,0 +1,25 @@
+{
+    "name": "Diyarbakır Babaganuç",
+    "description": "Diyarbakır Babaganuç",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/a2421198-56df-42f8-8a54-0bb9274b1369.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1638997200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2904
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Diyarbakır"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

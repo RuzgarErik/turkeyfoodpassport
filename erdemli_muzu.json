@@ -1,0 +1,25 @@
+{
+    "name": "Erdemli Muzu",
+    "description": "Erdemli Muzu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/565c5520-59b0-40cf-91e8-17ddacd62e08.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1608238800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 790
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Mersin"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

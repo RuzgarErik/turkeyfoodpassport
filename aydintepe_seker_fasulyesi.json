@@ -1,0 +1,25 @@
+{
+    "name": "Aydıntepe Şeker Fasulyesi",
+    "description": "Aydıntepe Şeker Fasulyesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/1ef5182b-8520-4f98-a36a-3465a7f6ac2b.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1623186000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1625
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bayburt"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

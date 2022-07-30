@@ -1,0 +1,25 @@
+{
+    "name": "Belen Kömürçukuru Pekmezi",
+    "description": "Belen Kömürçukuru Pekmezi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0c67823b-2e57-435a-bc7c-a138754c93a4.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1627419600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2655
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Hatay"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

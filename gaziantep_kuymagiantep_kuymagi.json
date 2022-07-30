@@ -1,0 +1,25 @@
+{
+    "name": "Gaziantep Kuymağı/Antep Kuymağı",
+    "description": "Gaziantep Kuymağı/Antep Kuymağı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/bc917103-857a-47a5-b5fc-7566ac920248.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1607288400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2284
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

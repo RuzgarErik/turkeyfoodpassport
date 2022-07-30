@@ -1,0 +1,25 @@
+{
+    "name": "Gaziantep Şöbiyeti / Antep Şöbiyeti",
+    "description": "Gaziantep Şöbiyeti / Antep Şöbiyeti",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/40be9628-ae94-4ed6-ac30-f818b69fc0a4.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1649192400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3843
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

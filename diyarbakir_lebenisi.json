@@ -1,0 +1,25 @@
+{
+    "name": "Diyarbakır Lebenisi",
+    "description": "Diyarbakır Lebenisi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5699ccc2-20fc-44b1-b53e-974496162d95.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1633899600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2475
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Diyarbakır"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

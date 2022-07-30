@@ -1,0 +1,25 @@
+{
+    "name": "Diyarbakır Kemikli Kebabı",
+    "description": "Diyarbakır Kemikli Kebabı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5cc18e81-3a58-4ad3-9805-e198a14d504c.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1656363600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2922
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Diyarbakır"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

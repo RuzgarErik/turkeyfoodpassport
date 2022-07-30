@@ -1,0 +1,25 @@
+{
+    "name": "İnce Isparta (Hasgül) El Halısı",
+    "description": "İnce Isparta (Hasgül) El Halısı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/6f58f363-b65f-4007-bc6a-dd12e09672d0.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 879458400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37884
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar ve kilimler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Isparta"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

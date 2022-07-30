@@ -1,0 +1,25 @@
+{
+    "name": "Nazilli Kar Helvası",
+    "description": "Nazilli Kar Helvası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/354.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1527714000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38062
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Dondurmalar ve yenilebilir buzlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Aydın"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

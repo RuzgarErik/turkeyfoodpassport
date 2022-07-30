@@ -1,0 +1,25 @@
+{
+    "name": "Şevketi Bostan / Şevket-i Bostan",
+    "description": "Şevketi Bostan / Şevket-i Bostan",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/1315ea83-3ce2-49f3-94a6-8ef671d4b503.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1628629200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3142
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": ""
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

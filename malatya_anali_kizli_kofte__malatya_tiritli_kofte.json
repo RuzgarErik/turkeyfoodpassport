@@ -1,0 +1,25 @@
+{
+    "name": "Malatya Analı Kızlı Köfte / Malatya Tiritli Köfte",
+    "description": "Malatya Analı Kızlı Köfte / Malatya Tiritli Köfte",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/6509988d-b349-4c09-9a9d-cb6c92245974.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1632430800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 4026
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Malatya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

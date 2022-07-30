@@ -1,0 +1,25 @@
+{
+    "name": "Sandıklı Saç Eti",
+    "description": "Sandıklı Saç Eti",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/905c7d32-6d7a-4682-97ad-b9e39f8102ae.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1642626000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3642
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Afyonkarahisar"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

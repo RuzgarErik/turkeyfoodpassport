@@ -1,0 +1,25 @@
+{
+    "name": "Urfa Tiriti (Şanlıurfa Tiriti)",
+    "description": "Urfa Tiriti (Şanlıurfa Tiriti)",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/382.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1535922000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38336
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Şanlıurfa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

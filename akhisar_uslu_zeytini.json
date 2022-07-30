@@ -1,0 +1,25 @@
+{
+    "name": "Akhisar Uslu Zeytini",
+    "description": "Akhisar Uslu Zeytini",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/1305f460-bc59-464d-a5e5-73ca6564ff39.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1355349600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38036
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Manisa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

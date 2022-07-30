@@ -1,0 +1,25 @@
+{
+    "name": "Boyabat Sırık Kebabı",
+    "description": "Boyabat Sırık Kebabı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e958bfa1-0b10-40cd-a29d-dfdfb017eeb4.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1601240400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38575
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Sinop"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

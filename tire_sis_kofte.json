@@ -1,0 +1,25 @@
+{
+    "name": "Tire Şiş Köfte",
+    "description": "Tire Şiş Köfte",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0de7fac3-a5fe-4b53-b75c-d16011351d9e.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1613077200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1845
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "İzmir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

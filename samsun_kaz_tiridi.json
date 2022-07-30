@@ -1,0 +1,25 @@
+{
+    "name": "Samsun Kaz Tiridi",
+    "description": "Samsun Kaz Tiridi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/7e57dee9-1639-47c5-bc82-d2d6aabeda8a.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1373317200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38060
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Samsun"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

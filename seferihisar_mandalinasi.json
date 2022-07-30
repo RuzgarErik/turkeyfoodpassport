@@ -1,0 +1,25 @@
+{
+    "name": "Seferihisar Mandalinası",
+    "description": "Seferihisar Mandalinası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/411b198d-e1e2-451d-9181-15b62063de75.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1562187600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38102
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "İzmir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

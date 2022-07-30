@@ -1,0 +1,25 @@
+{
+    "name": "Kayseri Yağlaması",
+    "description": "Kayseri Yağlaması",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/6240dd96-d702-486d-a3dd-78b61a76a854.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1626037200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3563
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kayseri"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

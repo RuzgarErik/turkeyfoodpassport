@@ -1,0 +1,25 @@
+{
+    "name": "Gümüşhane Şeker Fasulyesi",
+    "description": "Gümüşhane Şeker Fasulyesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f808e30b-6a1d-44f6-887a-52e97d615857.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1575320400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38544
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gümüşhane"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

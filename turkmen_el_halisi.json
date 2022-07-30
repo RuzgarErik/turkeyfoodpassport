@@ -1,0 +1,25 @@
+{
+    "name": "Türkmen El Halısı",
+    "description": "Türkmen El Halısı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e8ebab55-6169-4ef9-a883-f2efb14c8776.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 879458400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37872
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar ve kilimler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Afyonkarahisar"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Silifke Çileği",
+    "description": "Silifke Çileği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/45f46bc7-264f-4262-8054-688e19e3c423.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1569877200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38591
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Mersin"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

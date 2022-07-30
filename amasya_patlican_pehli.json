@@ -1,0 +1,25 @@
+{
+    "name": "Amasya Patlıcan Pehli",
+    "description": "Amasya Patlıcan Pehli",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/a773c023-a801-4609-b6da-ca0f76eb858f.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1649106000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 4662
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Amasya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

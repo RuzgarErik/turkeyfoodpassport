@@ -1,0 +1,25 @@
+{
+    "name": "Şanlıurfa Biberi",
+    "description": "Şanlıurfa Biberi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/33.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1014674400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37895
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Şanlıurfa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

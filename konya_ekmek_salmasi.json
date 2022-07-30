@@ -1,0 +1,25 @@
+{
+    "name": "Konya Ekmek Salması",
+    "description": "Konya Ekmek Salması",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/2c279f48-4fbc-4fd9-9de7-7787c23c0b94.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1652821200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2564
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Konya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

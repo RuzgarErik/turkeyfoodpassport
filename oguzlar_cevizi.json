@@ -1,0 +1,25 @@
+{
+    "name": "Oğuzlar Cevizi",
+    "description": "Oğuzlar Cevizi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/68dd34f9-7d08-4ea2-91bb-6db374771d7f.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1584046800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38583
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Çorum"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

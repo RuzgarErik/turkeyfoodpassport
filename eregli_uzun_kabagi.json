@@ -1,0 +1,25 @@
+{
+    "name": "Ereğli Uzun Kabağı",
+    "description": "Ereğli Uzun Kabağı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/167a2b18-6ea6-4dad-a538-1d11bc056fd2.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1611608400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38454
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Konya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

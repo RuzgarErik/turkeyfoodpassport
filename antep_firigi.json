@@ -1,0 +1,25 @@
+{
+    "name": "Antep Firiği",
+    "description": "Antep Firiği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/244.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1511470800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38247
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

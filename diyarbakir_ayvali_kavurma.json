@@ -1,0 +1,25 @@
+{
+    "name": "Diyarbakır Ayvalı Kavurma",
+    "description": "Diyarbakır Ayvalı Kavurma",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5ded46e0-7d78-41d2-890c-dd26e05aaeb5.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1654549200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2465
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Diyarbakır"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

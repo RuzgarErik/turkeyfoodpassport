@@ -1,0 +1,25 @@
+{
+    "name": "Erzurum Küflü Civil Peyniri (Göğermiş Peynir)",
+    "description": "Erzurum Küflü Civil Peyniri (Göğermiş Peynir)",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ae1301eb-dab4-42ea-a7b1-ab23bd46f62c.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1354226400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38020
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Peynirler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Erzurum"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

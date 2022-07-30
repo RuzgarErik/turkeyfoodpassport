@@ -1,0 +1,25 @@
+{
+    "name": "Gaziantep Şekerli Peynirli Böreği/ Antep Şekerli Peynirli Böreği",
+    "description": "Gaziantep Şekerli Peynirli Böreği/ Antep Şekerli Peynirli Böreği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/7708250c-224a-4099-bfa5-a014d13931e5.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1628197200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2290
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

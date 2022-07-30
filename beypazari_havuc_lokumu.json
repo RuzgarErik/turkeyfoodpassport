@@ -1,0 +1,25 @@
+{
+    "name": "Beypazarı Havuç Lokumu",
+    "description": "Beypazarı Havuç Lokumu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/6a68cddd-bf3f-4852-b258-f5c449f64da3.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1642626000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 923
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Çikolata, şekerleme ve türevi ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Ankara"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

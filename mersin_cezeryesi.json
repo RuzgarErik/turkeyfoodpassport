@@ -1,0 +1,25 @@
+{
+    "name": "Mersin Cezeryesi",
+    "description": "Mersin Cezeryesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/97e47738-a00d-473f-be29-7918c54634b2.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1042581600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37907
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Çikolata, şekerleme ve türevi ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Mersin"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

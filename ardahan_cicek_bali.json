@@ -1,0 +1,25 @@
+{
+    "name": "Ardahan Çiçek Balı",
+    "description": "Ardahan Çiçek Balı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/213.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1496264400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38103
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Bal"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Ardahan"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

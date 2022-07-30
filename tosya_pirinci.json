@@ -1,0 +1,25 @@
+{
+    "name": "Tosya Pirinci",
+    "description": "Tosya Pirinci",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/230.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1510088400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38144
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kastamonu"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

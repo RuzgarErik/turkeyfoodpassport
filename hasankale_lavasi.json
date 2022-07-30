@@ -1,0 +1,25 @@
+{
+    "name": "Hasankale Lavaşı",
+    "description": "Hasankale Lavaşı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/28c20470-b277-448d-83c6-4c747cf80bbc.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1643922000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1064
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Erzurum"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

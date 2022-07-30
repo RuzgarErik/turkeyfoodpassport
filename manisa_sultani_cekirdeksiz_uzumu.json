@@ -1,0 +1,25 @@
+{
+    "name": "Manisa Sultani Çekirdeksiz Üzümü",
+    "description": "Manisa Sultani Çekirdeksiz Üzümü",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/65621eb8-2c81-4c14-ba26-2280b19bf799.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1550437200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38399
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Manisa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

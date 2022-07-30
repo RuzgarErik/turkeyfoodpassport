@@ -1,0 +1,25 @@
+{
+    "name": "Amasya Misket Elması",
+    "description": "Amasya Misket Elması",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/49c11cd1-f5f7-42d7-ba91-d74ca53bf6d7.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1552510800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38182
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Amasya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

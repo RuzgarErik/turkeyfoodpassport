@@ -1,0 +1,25 @@
+{
+    "name": "Vakfıkebir Ekmeği",
+    "description": "Vakfıkebir Ekmeği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/372.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1533243600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38438
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Trabzon"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

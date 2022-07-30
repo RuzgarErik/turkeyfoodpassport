@@ -1,0 +1,25 @@
+{
+    "name": "Ömerli Karfoki Üzümü",
+    "description": "Ömerli Karfoki Üzümü",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0bf92a9d-0a2a-4924-8da3-9cd6abafdad2.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1612731600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38263
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Mardin"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

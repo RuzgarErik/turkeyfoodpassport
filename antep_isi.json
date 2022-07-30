@@ -1,0 +1,25 @@
+{
+    "name": "Antep İşi",
+    "description": "Antep İşi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5e7fa11d-bd48-4c1a-837a-70cbd28f7967.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1480971600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38064
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Dokumalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

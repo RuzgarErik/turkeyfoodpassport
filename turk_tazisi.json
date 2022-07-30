@@ -1,0 +1,25 @@
+{
+    "name": "Türk Tazısı",
+    "description": "Türk Tazısı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c310a7b0-10cd-4ea5-aca1-ef450c24bcf1.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1039471200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37903
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Türkiye"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

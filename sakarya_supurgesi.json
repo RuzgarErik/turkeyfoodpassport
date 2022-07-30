@@ -1,0 +1,25 @@
+{
+    "name": "Sakarya Süpürgesi",
+    "description": "Sakarya Süpürgesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/75f0b11c-ca87-46b5-b411-01e56bd7b04e.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1526245200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38205
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Sakarya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

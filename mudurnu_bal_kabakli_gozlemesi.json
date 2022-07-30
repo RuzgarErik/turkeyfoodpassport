@@ -1,0 +1,25 @@
+{
+    "name": "Mudurnu Bal Kabaklı Gözlemesi",
+    "description": "Mudurnu Bal Kabaklı Gözlemesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5a37b0a3-affe-4740-8884-f124f2ca4c3d.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1618174800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 842
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bolu"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Bayburt Ketesi",
+    "description": "Bayburt Ketesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f97fefd3-523d-48b0-84bd-7fcba1beba80.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1591563600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38475
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bayburt"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

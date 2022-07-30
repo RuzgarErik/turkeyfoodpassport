@@ -1,0 +1,25 @@
+{
+    "name": "Nevşehir Simidi",
+    "description": "Nevşehir Simidi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/1a493f1b-7a9c-404b-9987-c257ce30fcaa.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1607288400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2285
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Nevşehir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

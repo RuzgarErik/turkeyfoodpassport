@@ -1,0 +1,25 @@
+{
+    "name": "Nallıhan Örtmesi",
+    "description": "Nallıhan Örtmesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/342.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1523221200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38173
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Dokumalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Ankara"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

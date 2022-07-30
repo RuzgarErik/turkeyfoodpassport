@@ -1,0 +1,25 @@
+{
+    "name": "Zara Balı",
+    "description": "Zara Balı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/fe257e82-69cb-4f3c-a45c-cdb13ba7d6a5.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1650920400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3043
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Bal"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Sivas"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Muğla Beyaz Mermeri",
+    "description": "Muğla Beyaz Mermeri",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/cfe68567-1b0e-4681-9953-5cb67e494be8.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1587243600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2002
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Muğla"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

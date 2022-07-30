@@ -1,0 +1,25 @@
+{
+    "name": "Erzurum Kesme Aşı Çorbası",
+    "description": "Erzurum Kesme Aşı Çorbası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5b8273ae-0443-4dab-8196-f107a00ec8f8.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1649797200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3762
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Erzurum"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "İskilip Dolması",
+    "description": "İskilip Dolması",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d078150d-1529-40bb-8ea1-c476c793f001.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1271624400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37950
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Çorum"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

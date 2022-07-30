@@ -1,0 +1,25 @@
+{
+    "name": "Rize Muhlaması",
+    "description": "Rize Muhlaması",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/031f8611-8da4-4ed7-af7f-916aa40bd3a5.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1616706000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38649
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Rize"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

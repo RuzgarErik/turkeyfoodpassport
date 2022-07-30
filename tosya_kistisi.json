@@ -1,0 +1,25 @@
+{
+    "name": "Tosya Kıstısı",
+    "description": "Tosya Kıstısı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/34b0c15b-681b-44a9-b7e1-9f6c8c22624b.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1578862800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 126
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar, kilimler ve dokumalar dışında kalan el sanatı ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kastamonu"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

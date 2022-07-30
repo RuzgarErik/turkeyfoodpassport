@@ -1,0 +1,25 @@
+{
+    "name": "Mardin Taşı",
+    "description": "Mardin Taşı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/36315786-7252-43c9-ac90-c5a3c878bd24.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1302814800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38010
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Mardin"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

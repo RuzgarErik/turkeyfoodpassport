@@ -1,0 +1,25 @@
+{
+    "name": "Amasya Toyga Çorbası",
+    "description": "Amasya Toyga Çorbası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/dbaa5f92-a6ac-4d86-8ffd-dd472a619b28.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1638306000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3122
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Amasya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Edirne Tava Ciğeri",
+    "description": "Edirne Tava Ciğeri",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/128.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1267048800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37971
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Edirne"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

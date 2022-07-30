@@ -1,0 +1,25 @@
+{
+    "name": "Giresun Tombul Fındığı",
+    "description": "Giresun Tombul Fındığı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0512bfd7-1d78-4f96-b77c-4e92191976b5.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1002661200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37899
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Giresun"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

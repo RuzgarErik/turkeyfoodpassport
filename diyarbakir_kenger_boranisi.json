@@ -1,0 +1,25 @@
+{
+    "name": "Diyarbakır Kenger Boranisi",
+    "description": "Diyarbakır Kenger Boranisi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b3166197-2042-4fdf-8c75-6cf721ffa53e.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1629406800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2473
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Diyarbakır"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

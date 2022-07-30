@@ -1,0 +1,25 @@
+{
+    "name": "Burdur Ceviz Ezmesi",
+    "description": "Burdur Ceviz Ezmesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/117.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1255381200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37998
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Çikolata, şekerleme ve türevi ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Burdur"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

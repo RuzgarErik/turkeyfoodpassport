@@ -1,0 +1,25 @@
+{
+    "name": "Kilis Tava",
+    "description": "Kilis Tava",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/77042773-4a63-4fc5-b578-30e333d72a35.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1643749200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 4545
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kilis"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

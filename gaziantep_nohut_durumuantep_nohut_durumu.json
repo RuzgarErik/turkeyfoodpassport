@@ -1,0 +1,25 @@
+{
+    "name": "Gaziantep Nohut Dürümü/Antep Nohut Dürümü",
+    "description": "Gaziantep Nohut Dürümü/Antep Nohut Dürümü",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/3bda20ed-5ed4-4c68-96c2-33c30f69a3be.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1608152400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1805
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

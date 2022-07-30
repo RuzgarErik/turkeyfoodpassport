@@ -1,0 +1,25 @@
+{
+    "name": "Sivrihisar İncili Küpe",
+    "description": "Sivrihisar İncili Küpe",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/59a24c83-ad93-4b5a-889b-c86b230738f8.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1600290000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 442
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar, kilimler ve dokumalar dışında kalan el sanatı ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Eskişehir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Antep Meyan Şerbeti (Gaziantep Meyan Şerbeti, Antep Meyankökü Şerbeti)",
+    "description": "Antep Meyan Şerbeti (Gaziantep Meyan Şerbeti, Antep Meyankökü Şerbeti)",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/cac1cc7a-c9fa-4c2a-b07a-2d5af0f5a8fb.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1561928400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38295
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Alkolsüz içecekler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

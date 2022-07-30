@@ -1,0 +1,25 @@
+{
+    "name": "Çubuk Homaçası",
+    "description": "Çubuk Homaçası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/1a4419ff-4c96-418b-aaa1-3cbc46370b2e.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1653253200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 4463
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Ankara"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

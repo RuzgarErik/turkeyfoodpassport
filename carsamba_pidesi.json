@@ -1,0 +1,25 @@
+{
+    "name": "Çarşamba Pidesi",
+    "description": "Çarşamba Pidesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0a0003c3-26dd-4f5e-b3ae-39d12e0da143.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1521579600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38241
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Samsun"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

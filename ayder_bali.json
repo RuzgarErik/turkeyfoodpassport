@@ -1,0 +1,25 @@
+{
+    "name": "Ayder Balı",
+    "description": "Ayder Balı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/7dd98973-f767-4bba-8e3a-6dfa13da7328.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1649970000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 830
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Bal"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Rize"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

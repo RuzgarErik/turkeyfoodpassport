@@ -1,0 +1,25 @@
+{
+    "name": "Malatya Dalbastı Kirazı",
+    "description": "Malatya Dalbastı Kirazı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/267.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1512680400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38120
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Malatya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

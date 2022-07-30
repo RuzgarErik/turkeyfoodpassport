@@ -1,0 +1,25 @@
+{
+    "name": "Rize Baston Ekmek",
+    "description": "Rize Baston Ekmek",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/3a7fba87-3f07-4520-8500-704a4a576148.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1561496400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38542
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Rize"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

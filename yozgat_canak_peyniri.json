@@ -1,0 +1,25 @@
+{
+    "name": "Yozgat Çanak Peyniri",
+    "description": "Yozgat Çanak Peyniri",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5f50ad7c-bad5-4e98-bded-329d630ea302.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1513544400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38046
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Peynirler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Yozgat"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

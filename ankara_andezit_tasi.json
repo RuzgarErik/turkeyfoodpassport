@@ -1,0 +1,25 @@
+{
+    "name": "Ankara Andezit Taşı",
+    "description": "Ankara Andezit Taşı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/86f36925-4d72-4aa2-8b38-9085fa2677a1.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1640552400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3343
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Ankara"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

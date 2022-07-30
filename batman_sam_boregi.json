@@ -1,0 +1,25 @@
+{
+    "name": "Batman Şam Böreği",
+    "description": "Batman Şam Böreği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/302.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1514322000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38354
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Batman"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

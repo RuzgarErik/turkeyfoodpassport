@@ -1,0 +1,25 @@
+{
+    "name": "Adana İçli Köfte",
+    "description": "Adana İçli Köfte",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f313bbb3-3344-4506-9028-86beb587824a.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1601240400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1216
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Adana"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

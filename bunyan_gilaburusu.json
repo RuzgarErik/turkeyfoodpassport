@@ -1,0 +1,25 @@
+{
+    "name": "Bünyan Gilaburusu",
+    "description": "Bünyan Gilaburusu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/389.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1540155600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38250
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kayseri"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

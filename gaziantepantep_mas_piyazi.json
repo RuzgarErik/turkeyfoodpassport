@@ -1,0 +1,25 @@
+{
+    "name": "Gaziantep/Antep Maş Piyazı",
+    "description": "Gaziantep/Antep Maş Piyazı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/97c52102-f325-4a0f-aa90-d429a9ea53a7.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1630530000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 4262
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

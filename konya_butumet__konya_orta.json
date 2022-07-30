@@ -1,0 +1,25 @@
+{
+    "name": "Konya Bütümet / Konya Orta",
+    "description": "Konya Bütümet / Konya Orta",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f925e46b-18fe-4acc-92f9-99aa753a0e51.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1635282000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2578
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Konya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Rize Kavurması",
+    "description": "Rize Kavurması",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/355eefc4-f03c-457c-b44b-8cec95e603a5.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1571086800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38464
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş İşlenmemiş Et Ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Rize"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

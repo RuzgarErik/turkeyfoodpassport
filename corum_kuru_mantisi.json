@@ -1,0 +1,25 @@
+{
+    "name": "Çorum Kuru Mantısı",
+    "description": "Çorum Kuru Mantısı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5e3da7c7-7362-40e6-bd12-3851aa6114a5.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1640120400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1506
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Çorum"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

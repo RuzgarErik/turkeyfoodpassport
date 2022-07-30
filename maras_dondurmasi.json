@@ -1,0 +1,25 @@
+{
+    "name": "Maraş Dondurması",
+    "description": "Maraş Dondurması",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/344.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1523998800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38338
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Dondurmalar ve yenilebilir buzlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kahramanmaraş"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

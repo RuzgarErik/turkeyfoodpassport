@@ -1,0 +1,25 @@
+{
+    "name": "Giresun Sivri Fındığı",
+    "description": "Giresun Sivri Fındığı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/bafe5ac6-fb20-4b48-a405-ac6fb5ea30d5.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1568754000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38643
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Giresun"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Diyarbakır Kulak Çorbası",
+    "description": "Diyarbakır Kulak Çorbası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/072eeb3b-9f6c-4c6c-a263-09f19e94538f.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1654549200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2914
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Diyarbakır"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

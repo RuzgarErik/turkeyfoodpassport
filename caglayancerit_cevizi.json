@@ -1,0 +1,25 @@
+{
+    "name": "Çağlayancerit Cevizi",
+    "description": "Çağlayancerit Cevizi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ceee054d-0c0d-4ae5-985b-71f836496c29.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1375131600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38058
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kahramanmaraş"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

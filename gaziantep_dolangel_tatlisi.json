@@ -1,0 +1,25 @@
+{
+    "name": "Gaziantep Dolangel Tatlısı",
+    "description": "Gaziantep Dolangel Tatlısı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/47ee1322-23d4-4368-87c3-b96cb5214cc3.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1636923600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2842
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

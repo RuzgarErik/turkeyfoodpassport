@@ -1,0 +1,25 @@
+{
+    "name": "Akhisar Domat Zeytini",
+    "description": "Akhisar Domat Zeytini",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/166.JPG",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1355349600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38037
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Manisa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

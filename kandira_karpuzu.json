@@ -1,0 +1,25 @@
+{
+    "name": "Kandıra Karpuzu",
+    "description": "Kandıra Karpuzu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c4f42694-bbcb-4f0d-94b7-1820f1344823.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1624827600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2444
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kocaeli"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

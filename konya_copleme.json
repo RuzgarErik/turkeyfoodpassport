@@ -1,0 +1,25 @@
+{
+    "name": "Konya Çöpleme",
+    "description": "Konya Çöpleme",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d9068a99-18c6-4ff7-b863-7cdd88427b84.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1635282000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2580
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Konya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

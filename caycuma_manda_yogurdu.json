@@ -1,0 +1,25 @@
+{
+    "name": "Çaycuma Manda Yoğurdu",
+    "description": "Çaycuma Manda Yoğurdu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/46fcf696-4c1c-4b86-ac8e-5195e42b3181.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1588885200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38480
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Peynirler ve tereyağı dışında kalan süt ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Zonguldak"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

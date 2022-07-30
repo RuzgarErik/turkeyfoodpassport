@@ -1,0 +1,25 @@
+{
+    "name": "Diyarbakır Ciğer Kebabı",
+    "description": "Diyarbakır Ciğer Kebabı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/09950ae2-a019-4d2e-9f6a-40c8552a6fc9.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1653944400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2382
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Diyarbakır"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

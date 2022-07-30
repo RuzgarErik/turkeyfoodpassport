@@ -1,0 +1,25 @@
+{
+    "name": "Türk Defnesi",
+    "description": "Türk Defnesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e9aa6c01-4e01-4cae-8c96-8adaeebbe985.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1629234000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2342
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yiyecekler için çeşni / lezzet vericiler, soslar ve tuz"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": ""
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

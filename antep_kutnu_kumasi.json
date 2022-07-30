@@ -1,0 +1,25 @@
+{
+    "name": "Antep Kutnu Kumaşı",
+    "description": "Antep Kutnu Kumaşı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/199.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1472072400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38152
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Dokumalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

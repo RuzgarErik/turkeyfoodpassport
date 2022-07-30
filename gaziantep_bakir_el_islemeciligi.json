@@ -1,0 +1,25 @@
+{
+    "name": "Gaziantep Bakır El Işlemeciliği",
+    "description": "Gaziantep Bakır El Işlemeciliği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/af809be5-b269-41a2-85d7-7d5a413cb545.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1338843600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38030
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar, kilimler ve dokumalar dışında kalan el sanatı ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

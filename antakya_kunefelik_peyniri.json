@@ -1,0 +1,25 @@
+{
+    "name": "Antakya Künefelik Peyniri",
+    "description": "Antakya Künefelik Peyniri",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/86ae7627-67e0-424b-a680-6f418a2656b1.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1640120400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38616
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Peynirler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Hatay"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

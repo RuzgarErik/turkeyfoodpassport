@@ -1,0 +1,25 @@
+{
+    "name": "Kütahya Bitli Helva",
+    "description": "Kütahya Bitli Helva",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/4b99a057-235c-417f-ae15-f57347d24d43.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1612299600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1819
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Çikolata, şekerleme ve türevi ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kütahya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

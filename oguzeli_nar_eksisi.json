@@ -1,0 +1,25 @@
+{
+    "name": "Oğuzeli Nar Ekşisi",
+    "description": "Oğuzeli Nar Ekşisi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b902ee6d-e039-412b-92c9-c8af37e6cdd0.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1606942800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38405
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yiyecekler için çeşni / lezzet vericiler, soslar ve tuz"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

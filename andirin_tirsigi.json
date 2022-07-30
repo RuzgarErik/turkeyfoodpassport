@@ -1,0 +1,25 @@
+{
+    "name": "Andırın Tirşiği",
+    "description": "Andırın Tirşiği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/8751d3ef-618e-409e-a261-30d445bb5b3e.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1366837200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38025
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kahramanmaraş"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

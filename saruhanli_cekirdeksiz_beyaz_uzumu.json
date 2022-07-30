@@ -1,0 +1,25 @@
+{
+    "name": "Saruhanlı Çekirdeksiz Beyaz Üzümü",
+    "description": "Saruhanlı Çekirdeksiz Beyaz Üzümü",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/752739dc-4f66-4f5f-a438-4793d3b5142f.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1628715600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2743
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Manisa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "İncirliova Deve Sucuğu",
+    "description": "İncirliova Deve Sucuğu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/8f608ff8-2f88-47c4-8eda-2edd7d1f7213.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1616965200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38412
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş İşlenmemiş Et Ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Aydın"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

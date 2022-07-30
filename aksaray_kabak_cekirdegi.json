@@ -1,0 +1,25 @@
+{
+    "name": "Aksaray Kabak Çekirdeği",
+    "description": "Aksaray Kabak Çekirdeği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/7ebbcba3-00a3-4638-8918-ab1427535578.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1613077200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38652
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Aksaray"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

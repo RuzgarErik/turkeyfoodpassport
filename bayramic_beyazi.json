@@ -1,0 +1,25 @@
+{
+    "name": "Bayramiç Beyazı",
+    "description": "Bayramiç Beyazı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/157.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1325368800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38035
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Çanakkale"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

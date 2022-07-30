@@ -1,0 +1,25 @@
+{
+    "name": "Gümüşhane Sironu",
+    "description": "Gümüşhane Sironu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/3ae986b7-fe1e-4921-a362-a4793b53527b.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1509051600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38116
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gümüşhane"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Kandıra Bezi",
+    "description": "Kandıra Bezi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/396.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1542920400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38474
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Dokumalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kocaeli"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Diyarbakır Patlıcan Meftunesi",
+    "description": "Diyarbakır Patlıcan Meftunesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/747a665e-a3c3-4963-bcff-0339830d4b38.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1654549200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2925
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Diyarbakır"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Beypazarı Cevizli Tatlı Sucuk",
+    "description": "Beypazarı Cevizli Tatlı Sucuk",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/17653f9e-2610-45a7-9434-f20c136e1705.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1649278800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 742
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Çikolata, şekerleme ve türevi ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Ankara"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

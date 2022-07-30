@@ -1,0 +1,25 @@
+{
+    "name": "Nevşehir Kabak Çekirdeği",
+    "description": "Nevşehir Kabak Çekirdeği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/4986ada0-21e5-4b48-9b61-e1cd6026b0ba.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1549832400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38393
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Nevşehir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

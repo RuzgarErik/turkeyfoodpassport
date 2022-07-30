@@ -1,0 +1,25 @@
+{
+    "name": "Göynük Kabaklı Yufka Tatlısı",
+    "description": "Göynük Kabaklı Yufka Tatlısı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/265c26d4-3e9d-4889-a9e4-47c5aec7de97.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1607288400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2186
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bolu"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

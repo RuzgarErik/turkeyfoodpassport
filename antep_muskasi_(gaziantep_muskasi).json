@@ -1,0 +1,25 @@
+{
+    "name": "Antep Muskası (Gaziantep Muskası)",
+    "description": "Antep Muskası (Gaziantep Muskası)",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/360.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1528837200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38293
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Çikolata, şekerleme ve türevi ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

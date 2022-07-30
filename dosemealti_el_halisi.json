@@ -1,0 +1,25 @@
+{
+    "name": "Döşemealtı El Halısı",
+    "description": "Döşemealtı El Halısı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/fbb900a4-17ae-4313-b31a-fef9e2f86186.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1625691600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2492
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar ve kilimler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Antalya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

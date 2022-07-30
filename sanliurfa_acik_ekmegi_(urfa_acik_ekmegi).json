@@ -1,0 +1,25 @@
+{
+    "name": "Şanlıurfa Açık Ekmeği (Urfa Açık Ekmeği)",
+    "description": "Şanlıurfa Açık Ekmeği (Urfa Açık Ekmeği)",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/295.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1513717200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38317
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Şanlıurfa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

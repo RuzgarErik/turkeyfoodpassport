@@ -1,0 +1,25 @@
+{
+    "name": "Kahta Bademli İrmik Helvası",
+    "description": "Kahta Bademli İrmik Helvası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5141d985-aa47-4743-9ee3-99af8d2b7acf.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1616533200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1563
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Adıyaman"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Çatak Cevizi",
+    "description": "Çatak Cevizi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/16dc29b7-5ef9-45f2-8705-7147975b6406.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1628197200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2656
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Van"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

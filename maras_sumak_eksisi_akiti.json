@@ -1,0 +1,25 @@
+{
+    "name": "Maraş Sumak Ekşisi Akıtı",
+    "description": "Maraş Sumak Ekşisi Akıtı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/343.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1523566800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38219
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yiyecekler için çeşni / lezzet vericiler, soslar ve tuz"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kahramanmaraş"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

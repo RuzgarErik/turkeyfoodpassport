@@ -1,0 +1,25 @@
+{
+    "name": "Nevşehir Testi Kebabı",
+    "description": "Nevşehir Testi Kebabı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/2a3dbbad-25ac-410e-ba03-5dc7d36f0c1f.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1628456400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3064
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Nevşehir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

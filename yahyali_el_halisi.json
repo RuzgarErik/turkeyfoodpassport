@@ -1,0 +1,25 @@
+{
+    "name": "Yahyalı El Halısı",
+    "description": "Yahyalı El Halısı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/59071c80-dbe6-4ed0-8b2e-7066513a5392.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 879458400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37881
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar ve kilimler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kayseri"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

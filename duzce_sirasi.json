@@ -1,0 +1,25 @@
+{
+    "name": "Düzce Şırası",
+    "description": "Düzce Şırası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/a2229628-254b-4981-b8df-00edf3351635.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1604610000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38396
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Alkolsüz içecekler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Düzce"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

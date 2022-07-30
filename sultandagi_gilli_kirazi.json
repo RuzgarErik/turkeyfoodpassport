@@ -1,0 +1,25 @@
+{
+    "name": "Sultandağı Gılli Kirazı",
+    "description": "Sultandağı Gılli Kirazı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/aaeaaae8-27af-4545-806e-a74d1c1598a5.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1610053200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38637
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Afyonkarahisar"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

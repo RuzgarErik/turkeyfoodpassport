@@ -1,0 +1,25 @@
+{
+    "name": "Meriç Kara Kavunu",
+    "description": "Meriç Kara Kavunu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f83c560d-d645-4dcd-a485-775f5e617a10.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1615323600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1802
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Edirne"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

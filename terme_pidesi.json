@@ -1,0 +1,25 @@
+{
+    "name": "Terme Pidesi",
+    "description": "Terme Pidesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e8dca363-b7a9-4bb6-a502-97f04adaf371.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1267480800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37996
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Samsun"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

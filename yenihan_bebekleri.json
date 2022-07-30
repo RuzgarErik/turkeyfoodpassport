@@ -1,0 +1,25 @@
+{
+    "name": "Yenihan Bebekleri",
+    "description": "Yenihan Bebekleri",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/7294f70b-bbae-4a85-bf11-bb43bde062ca.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1602190800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38504
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar, kilimler ve dokumalar dışında kalan el sanatı ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Sivas"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Malatya Kayısı Çekirdeği",
+    "description": "Malatya Kayısı Çekirdeği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/23497e4c-8e83-48c9-a7e3-174ed1c637f0.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1602709200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38596
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Malatya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

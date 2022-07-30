@@ -1,0 +1,25 @@
+{
+    "name": "Tekirdağ Köftesi",
+    "description": "Tekirdağ Köftesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d7c21a14-afe6-4668-910a-a868d01d5e83.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1596747600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38185
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Tekirdağ"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

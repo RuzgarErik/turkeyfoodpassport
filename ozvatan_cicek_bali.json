@@ -1,0 +1,25 @@
+{
+    "name": "Özvatan Çiçek Balı",
+    "description": "Özvatan Çiçek Balı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0146dc5a-0c96-4440-bbb3-f2985a2f858a.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1605474000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38627
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Bal"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kayseri"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

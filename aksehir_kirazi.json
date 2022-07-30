@@ -1,0 +1,25 @@
+{
+    "name": "Akşehir Kirazı",
+    "description": "Akşehir Kirazı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/75.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1123102800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37932
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Konya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

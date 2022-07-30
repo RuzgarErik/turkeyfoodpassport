@@ -1,0 +1,25 @@
+{
+    "name": "Şanlıurfa Tırnaklı Ekmeği",
+    "description": "Şanlıurfa Tırnaklı Ekmeği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/368919df-a65d-4c5c-b8e6-f6ce34253809.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1521493200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38194
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Şanlıurfa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

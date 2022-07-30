@@ -1,0 +1,25 @@
+{
+    "name": "Bolu Sarı Patatesi",
+    "description": "Bolu Sarı Patatesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f0393f6c-c287-4850-af4f-78e19c36f6da.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1604955600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 323
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bolu"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Konya Etliekmek",
+    "description": "Konya Etliekmek",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/214.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1496955600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38077
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Konya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

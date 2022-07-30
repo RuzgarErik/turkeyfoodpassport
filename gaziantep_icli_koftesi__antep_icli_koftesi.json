@@ -1,0 +1,25 @@
+{
+    "name": "Gaziantep İçli Köftesi / Antep İçli Köftesi",
+    "description": "Gaziantep İçli Köftesi / Antep İçli Köftesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/2dc0c4ac-2bb5-4f3c-b1ae-649076f234c3.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1626037200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2726
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Tefenni Rezenesi",
+    "description": "Tefenni Rezenesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b44a79e3-0cfc-4ffc-a0ae-8a4864e2a798.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1630875600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1985
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Burdur"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

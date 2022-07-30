@@ -1,0 +1,25 @@
+{
+    "name": "Çavuşdağı Kuru Fasulyesi",
+    "description": "Çavuşdağı Kuru Fasulyesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d0ed3f46-6801-4b53-89d4-af9a90f28f59.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1627851600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 624
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "İzmir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Şile Bezi",
+    "description": "Şile Bezi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/272.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1513026000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38136
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Dokumalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "İstanbul"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

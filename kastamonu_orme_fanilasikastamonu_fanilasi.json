@@ -1,0 +1,25 @@
+{
+    "name": "Kastamonu Örme Fanilası/Kastamonu Fanilası",
+    "description": "Kastamonu Örme Fanilası/Kastamonu Fanilası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/137225cf-b104-429a-a91b-c06b32cf64d3.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1605819600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 584
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Dokumalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kastamonu"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Çarşamba Kıvratması",
+    "description": "Çarşamba Kıvratması",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/7f2a2209-ba5d-4e10-8b02-880663ef8e96.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1620594000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1826
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Samsun"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

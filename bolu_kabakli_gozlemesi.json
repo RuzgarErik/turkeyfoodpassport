@@ -1,0 +1,25 @@
+{
+    "name": "Bolu Kabaklı Gözlemesi",
+    "description": "Bolu Kabaklı Gözlemesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c595c90c-14da-4e37-a329-2787aa2ea27b.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1604955600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 322
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bolu"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

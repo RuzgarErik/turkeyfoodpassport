@@ -1,0 +1,25 @@
+{
+    "name": "Senirkent Gelin Fesi",
+    "description": "Senirkent Gelin Fesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/aa335a89-c8f4-4d2a-8aa2-18321e08e19b.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1629752400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1585
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar, kilimler ve dokumalar dışında kalan el sanatı ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Isparta"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

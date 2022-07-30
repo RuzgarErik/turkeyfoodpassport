@@ -1,0 +1,25 @@
+{
+    "name": "Diyarbakır Nardan Aşı",
+    "description": "Diyarbakır Nardan Aşı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/53998552-33fa-4aec-9a84-5f8809007a67.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1646859600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2878
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Diyarbakır"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

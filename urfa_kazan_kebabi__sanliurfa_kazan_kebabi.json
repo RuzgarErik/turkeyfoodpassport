@@ -1,0 +1,25 @@
+{
+    "name": "Urfa Kazan Kebabı / Şanlıurfa Kazan Kebabı",
+    "description": "Urfa Kazan Kebabı / Şanlıurfa Kazan Kebabı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ea0ecfec-19ba-4fbe-bdff-f413a9e2a2a2.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1545771600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38099
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Şanlıurfa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

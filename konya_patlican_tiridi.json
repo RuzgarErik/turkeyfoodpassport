@@ -1,0 +1,25 @@
+{
+    "name": "Konya Patlıcan Tiridi",
+    "description": "Konya Patlıcan Tiridi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/baac6765-61d3-465a-a355-91cf1763b3b3.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1642626000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2586
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Konya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

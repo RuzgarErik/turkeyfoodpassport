@@ -1,0 +1,25 @@
+{
+    "name": "Sorgun Yağlısı",
+    "description": "Sorgun Yağlısı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c60c98d4-5543-4d15-9e24-3034c723e01b.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1613077200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1528
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Yozgat"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Gaziantep Arap Köftesi / Antep Arap Köftesi",
+    "description": "Gaziantep Arap Köftesi / Antep Arap Köftesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/995a8948-b512-4485-aac8-ea23e5b6c871.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1634590800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2162
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

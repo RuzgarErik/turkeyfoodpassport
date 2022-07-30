@@ -1,0 +1,25 @@
+{
+    "name": "Yalova Kivisi",
+    "description": "Yalova Kivisi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/99097530-67ba-4b43-9e76-13546096c0e0.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1629147600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2445
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Yalova"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

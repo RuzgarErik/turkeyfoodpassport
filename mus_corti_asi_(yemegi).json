@@ -1,0 +1,25 @@
+{
+    "name": "Muş Çorti Aşı (Yemeği)",
+    "description": "Muş Çorti Aşı (Yemeği)",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/409.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1547067600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38345
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Muş"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

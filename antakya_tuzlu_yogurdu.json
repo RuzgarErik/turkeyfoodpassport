@@ -1,0 +1,25 @@
+{
+    "name": "Antakya Tuzlu Yoğurdu",
+    "description": "Antakya Tuzlu Yoğurdu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/50393317-00a9-45f5-8c53-33a1c3525d9b.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1599685200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 422
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Peynirler ve tereyağı dışında kalan süt ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Hatay"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Antep Zahter Balı / Gaziantep Zahter Balı",
+    "description": "Antep Zahter Balı / Gaziantep Zahter Balı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/952f434b-7c93-4dd4-9aaa-ebd1902dc6cb.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1648069200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 5445
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Bal"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

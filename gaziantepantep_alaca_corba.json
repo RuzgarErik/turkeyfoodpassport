@@ -1,0 +1,25 @@
+{
+    "name": "Gaziantep/Antep Alaca Çorba",
+    "description": "Gaziantep/Antep Alaca Çorba",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/4dcfdfda-aa8c-4f99-9e76-4d15e178cc3e.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1623186000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2188
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

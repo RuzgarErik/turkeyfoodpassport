@@ -1,0 +1,25 @@
+{
+    "name": "Diyarbakır Kabak Meftunesi",
+    "description": "Diyarbakır Kabak Meftunesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/3a617f6b-c015-43fd-902e-a59eda454ca5.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1629406800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2308
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Diyarbakır"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

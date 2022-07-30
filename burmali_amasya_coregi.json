@@ -1,0 +1,25 @@
+{
+    "name": "Burmalı Amasya Çöreği",
+    "description": "Burmalı Amasya Çöreği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/4589ba06-3b62-4ab0-83a2-0cb9079f2adf.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1654549200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 5242
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Amasya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

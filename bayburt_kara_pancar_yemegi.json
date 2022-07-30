@@ -1,0 +1,25 @@
+{
+    "name": "Bayburt Kara Pancar Yemeği",
+    "description": "Bayburt Kara Pancar Yemeği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/6f31e9f8-664a-48db-9e08-4fee1e7e161d.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1613595600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2702
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bayburt"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

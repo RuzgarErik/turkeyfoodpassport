@@ -1,0 +1,25 @@
+{
+    "name": "Gediz Tarhanası",
+    "description": "Gediz Tarhanası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/41367f22-3342-4f5e-ad1e-61c7b9328bcb.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1652389200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3567
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kütahya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

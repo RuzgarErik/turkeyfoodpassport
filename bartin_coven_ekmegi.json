@@ -1,0 +1,25 @@
+{
+    "name": "Bartın Çöven Ekmeği",
+    "description": "Bartın Çöven Ekmeği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/4056d9fb-ed5c-4d59-a457-6fa0f05e381c.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1646859600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 4624
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bartın"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

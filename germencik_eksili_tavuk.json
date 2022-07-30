@@ -1,0 +1,25 @@
+{
+    "name": "Germencik Ekşili Tavuk",
+    "description": "Germencik Ekşili Tavuk",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/a50caffc-51e9-4ad4-a4ca-d12154e5a58c.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1606078800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1633
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Aydın"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Pınarbaşı Uzunyayla Çerkes Peyniri",
+    "description": "Pınarbaşı Uzunyayla Çerkes Peyniri",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/1905be0f-38d6-4d7a-9c11-48c9f3ebdc7b.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1618347600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1636
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Peynirler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kayseri"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

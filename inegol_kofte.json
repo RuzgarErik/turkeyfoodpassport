@@ -1,0 +1,25 @@
+{
+    "name": "İnegöl Köfte",
+    "description": "İnegöl Köfte",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/78.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1141077600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37916
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bursa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Çameli Elmalı Bezi",
+    "description": "Çameli Elmalı Bezi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/57f084fb-1a30-4546-9aa1-6f14ea0ee192.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1606078800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 162
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Dokumalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Denizli"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

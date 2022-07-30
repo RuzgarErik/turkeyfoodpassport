@@ -1,0 +1,25 @@
+{
+    "name": "Van Savatlı Gümüş İşlemesi",
+    "description": "Van Savatlı Gümüş İşlemesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/242.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1511384400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38300
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar, kilimler ve dokumalar dışında kalan el sanatı ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Van"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

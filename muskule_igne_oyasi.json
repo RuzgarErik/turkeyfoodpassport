@@ -1,0 +1,25 @@
+{
+    "name": "Müşküle İğne Oyası",
+    "description": "Müşküle İğne Oyası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b6b8fbde-eafe-4b8c-b5e7-7f3ea4a78141.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1629406800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3004
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar, kilimler ve dokumalar dışında kalan el sanatı ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bursa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

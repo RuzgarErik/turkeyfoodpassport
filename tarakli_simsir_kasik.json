@@ -1,0 +1,25 @@
+{
+    "name": "Taraklı Şimşir Kaşık",
+    "description": "Taraklı Şimşir Kaşık",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/59d892fa-d6a9-42a4-827e-c7767439cffc.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1628456400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2286
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar, kilimler ve dokumalar dışında kalan el sanatı ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Sakarya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Urfa Ağzı Açık / Şanlıurfa Ağzı Açık",
+    "description": "Urfa Ağzı Açık / Şanlıurfa Ağzı Açık",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f9c1e9ee-5f48-4421-99ca-157c0873a245.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1655845200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 4407
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Şanlıurfa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

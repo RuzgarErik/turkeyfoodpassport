@@ -1,0 +1,25 @@
+{
+    "name": "Suruç Narı",
+    "description": "Suruç Narı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/3b466220-67b2-41b2-b981-d7889ff86ce1.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1627333200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2344
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Şanlıurfa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

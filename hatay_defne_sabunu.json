@@ -1,0 +1,25 @@
+{
+    "name": "Hatay Defne Sabunu",
+    "description": "Hatay Defne Sabunu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/219.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1508101200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38259
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Hatay"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

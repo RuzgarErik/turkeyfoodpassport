@@ -1,0 +1,25 @@
+{
+    "name": "Narman Şeker Fasulyesi",
+    "description": "Narman Şeker Fasulyesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e642ee0c-d3ed-4b08-8da1-2ed11918ce57.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1595192400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38634
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Erzurum"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

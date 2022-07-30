@@ -1,0 +1,25 @@
+{
+    "name": "Buldan Kestanesi",
+    "description": "Buldan Kestanesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/a7585398-6809-40fe-ba10-298aed37d6b1.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1605819600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1185
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Denizli"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

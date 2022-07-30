@@ -1,0 +1,25 @@
+{
+    "name": "Afyonkarahisar Çullama Köfte",
+    "description": "Afyonkarahisar Çullama Köfte",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/4e8ed2ed-0ff8-4587-a7b1-b379a4a85db5.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1615928400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2068
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Afyonkarahisar"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Adana Karpuzu",
+    "description": "Adana Karpuzu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/3362dd7f-b79c-4566-b0eb-04f47b933b41.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1595883600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38292
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Adana"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

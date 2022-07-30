@@ -1,0 +1,25 @@
+{
+    "name": "Kastamonu Üryani Eriği",
+    "description": "Kastamonu Üryani Eriği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/6294450d-9be8-4dad-baac-43d55769fe7a.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1626469200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 644
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kastamonu"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

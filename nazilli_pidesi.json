@@ -1,0 +1,25 @@
+{
+    "name": "Nazilli Pidesi",
+    "description": "Nazilli Pidesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ad267fe0-d494-4c47-b4e3-e873a5f525a5.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1605646800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 281
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Aydın"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

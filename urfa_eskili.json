@@ -1,0 +1,25 @@
+{
+    "name": "Urfa Eşkili",
+    "description": "Urfa Eşkili",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/215.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1496955600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38094
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Şanlıurfa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

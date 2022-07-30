@@ -1,0 +1,25 @@
+{
+    "name": "Köyceğiz Portakalı",
+    "description": "Köyceğiz Portakalı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/48f07116-0202-4d5b-a11d-60b420a7777f.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1653339600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 4469
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Muğla"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

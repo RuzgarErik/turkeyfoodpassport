@@ -1,0 +1,25 @@
+{
+    "name": "Bahçesaray Cevizi",
+    "description": "Bahçesaray Cevizi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5efeed17-74c2-4a4a-9018-7269c46cae07.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1646686800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 5005
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Van"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

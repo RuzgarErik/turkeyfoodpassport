@@ -1,0 +1,25 @@
+{
+    "name": "Gaziantep Cağırtlak Kebabı/ Antep Cağırtlak Kebabı / Gaziantep Cartlak Kebabı / Antep Cartlak Kebabı",
+    "description": "Gaziantep Cağırtlak Kebabı/ Antep Cağırtlak Kebabı / Gaziantep Cartlak Kebabı / Antep Cartlak Kebabı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/2edf4310-9972-4ec8-9337-e1bc74eb26ff.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1628456400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3323
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

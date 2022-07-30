@@ -1,0 +1,25 @@
+{
+    "name": "Bartın Yumurtalı Isput Yemeği",
+    "description": "Bartın Yumurtalı Isput Yemeği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5a0cf699-692b-4b64-ac30-7853b08e0d60.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1646859600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 4626
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bartın"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

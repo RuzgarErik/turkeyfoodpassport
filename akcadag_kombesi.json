@@ -1,0 +1,25 @@
+{
+    "name": "Akçadağ Kömbesi",
+    "description": "Akçadağ Kömbesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/df1d7592-c97d-43eb-8007-fb9215ba64f8.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1618520400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38557
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Malatya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

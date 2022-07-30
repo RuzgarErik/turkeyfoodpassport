@@ -1,0 +1,25 @@
+{
+    "name": "Konya Kayısı Hoşafı / Konya Zerdali Hoşafı",
+    "description": "Konya Kayısı Hoşafı / Konya Zerdali Hoşafı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/95d032fa-6c23-4cca-a089-f5c7c7f1b720.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1628197200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2663
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Konya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

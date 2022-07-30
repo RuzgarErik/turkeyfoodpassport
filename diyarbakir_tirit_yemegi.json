@@ -1,0 +1,25 @@
+{
+    "name": "Diyarbakır Tirit Yemeği",
+    "description": "Diyarbakır Tirit Yemeği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b03d7777-87ea-40f7-99cc-12ea0019ff20.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1629406800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2918
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Diyarbakır"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

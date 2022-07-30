@@ -1,0 +1,25 @@
+{
+    "name": "Afyon İlibada Sarması/Afyon İlibada Dolması/Afyonkarahisar İlibada Sarması/Afyonkarahisar İlibada Dolması",
+    "description": "Afyon İlibada Sarması/Afyon İlibada Dolması/Afyonkarahisar İlibada Sarması/Afyonkarahisar İlibada Dolması",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/8877e3b3-e008-44ce-baa2-306349213cdc.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1615323600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2071
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Afyonkarahisar"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Malatya Kurabiyesi",
+    "description": "Malatya Kurabiyesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/9ed80f06-bb2c-4010-8dec-e140d1762ba0.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1638824400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3863
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Malatya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

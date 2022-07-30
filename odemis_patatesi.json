@@ -1,0 +1,25 @@
+{
+    "name": "Ödemiş Patatesi",
+    "description": "Ödemiş Patatesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/145943ed-0215-4fa7-85db-16106399c42d.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1049749200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37910
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "İzmir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Mardin Kibe",
+    "description": "Mardin Kibe",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e7e4b6c8-40cd-44f8-9ef4-6e57dfe08147.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1261519200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37989
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Mardin"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

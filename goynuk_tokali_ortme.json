@@ -1,0 +1,25 @@
+{
+    "name": "Göynük Tokalı Örtme",
+    "description": "Göynük Tokalı Örtme",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/90d97d6d-1bca-48ad-9658-cbde7db4f92d.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1505682000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38158
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Dokumalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bolu"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

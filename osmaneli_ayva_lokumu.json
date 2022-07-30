@@ -1,0 +1,25 @@
+{
+    "name": "Osmaneli Ayva Lokumu",
+    "description": "Osmaneli Ayva Lokumu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0e621582-9833-4a54-9fd0-3426f5210e46.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1614027600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1505
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Çikolata, şekerleme ve türevi ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bilecik"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

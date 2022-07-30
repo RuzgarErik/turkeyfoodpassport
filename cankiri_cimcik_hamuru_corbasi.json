@@ -1,0 +1,25 @@
+{
+    "name": "Çankırı Cimcik Hamuru Çorbası",
+    "description": "Çankırı Cimcik Hamuru Çorbası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/2c8119b6-e815-4390-95a0-0eff10169f62.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1653598800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3188
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Çankırı"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

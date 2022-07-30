@@ -1,0 +1,25 @@
+{
+    "name": "Tokat Yazması",
+    "description": "Tokat Yazması",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e305d63a-9dda-404b-8c64-80fd4962845b.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1582664400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38392
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar, kilimler ve dokumalar dışında kalan el sanatı ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Tokat"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

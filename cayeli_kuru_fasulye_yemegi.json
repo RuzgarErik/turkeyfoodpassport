@@ -1,0 +1,25 @@
+{
+    "name": "Çayeli Kuru Fasulye Yemeği",
+    "description": "Çayeli Kuru Fasulye Yemeği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/312.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1514840400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38273
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Rize"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

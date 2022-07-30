@@ -1,0 +1,25 @@
+{
+    "name": "İspir Kuru Fasulyesi",
+    "description": "İspir Kuru Fasulyesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/141.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1296424800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38001
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Erzurum"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

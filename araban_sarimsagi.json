@@ -1,0 +1,25 @@
+{
+    "name": "Araban Sarımsağı",
+    "description": "Araban Sarımsağı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/82e547c8-11fa-43ec-9314-844fafbd0eab.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1598907600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 130
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

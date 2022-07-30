@@ -1,0 +1,25 @@
+{
+    "name": "Kuytucak Narı",
+    "description": "Kuytucak Narı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/aca2f07f-e21f-4288-a985-af7c35b5abed.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1613336400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38433
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Adana"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Eskişehir Simidi",
+    "description": "Eskişehir Simidi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b138f308-35d8-4896-8eea-017d15fd3fae.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1649019600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1482
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Eskişehir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

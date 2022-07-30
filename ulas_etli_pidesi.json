@@ -1,0 +1,25 @@
+{
+    "name": "Ulaş Etli Pidesi",
+    "description": "Ulaş Etli Pidesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/2d66c8d6-5c13-4ce8-9953-7d34feef485c.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1594674000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38551
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Sivas"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

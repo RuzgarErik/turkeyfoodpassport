@@ -1,0 +1,25 @@
+{
+    "name": "Ankara Döneri",
+    "description": "Ankara Döneri",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c5846093-9951-459a-b5ba-7262026c4591.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1512421200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38140
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Ankara"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

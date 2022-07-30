@@ -1,0 +1,25 @@
+{
+    "name": "Malatya Peyniri",
+    "description": "Malatya Peyniri",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/70c08cb1-207b-407d-bc04-6cef3137dab8.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1657054800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2883
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Peynirler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Malatya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

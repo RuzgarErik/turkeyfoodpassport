@@ -1,0 +1,25 @@
+{
+    "name": "Konya Domalan Yemeği",
+    "description": "Konya Domalan Yemeği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/a440020a-9a28-46ac-9067-95a55420114b.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1629406800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2608
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Konya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

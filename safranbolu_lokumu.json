@@ -1,0 +1,25 @@
+{
+    "name": "Safranbolu Lokumu",
+    "description": "Safranbolu Lokumu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/183.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1405371600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37970
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Çikolata, şekerleme ve türevi ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Karabük"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

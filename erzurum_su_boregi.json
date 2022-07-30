@@ -1,0 +1,25 @@
+{
+    "name": "Erzurum Su Böreği",
+    "description": "Erzurum Su Böreği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b37e6426-ab4e-4a94-bb28-d61244c2e62a.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1595883600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 105
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Erzurum"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

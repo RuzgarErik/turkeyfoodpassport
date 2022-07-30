@@ -1,0 +1,25 @@
+{
+    "name": "Diyarbakır Ayvalı Köfte",
+    "description": "Diyarbakır Ayvalı Köfte",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d35753b3-7824-4de7-a594-cdef42f77768.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1642971600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2903
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Diyarbakır"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

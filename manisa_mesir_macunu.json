@@ -1,0 +1,25 @@
+{
+    "name": "Manisa Mesir Macunu",
+    "description": "Manisa Mesir Macunu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/bf8433d3-1ec7-4af5-a8c4-9c09e19946d2.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1521579600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38106
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Manisa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

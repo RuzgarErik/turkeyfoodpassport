@@ -1,0 +1,25 @@
+{
+    "name": "Ankara Tiftiği",
+    "description": "Ankara Tiftiği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/71e71c6c-327b-4c47-a0df-0c60d1b0981a.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1626382800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1810
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Ankara"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

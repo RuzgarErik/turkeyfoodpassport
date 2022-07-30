@@ -1,0 +1,25 @@
+{
+    "name": "Gümüşhane Dölek Güveci",
+    "description": "Gümüşhane Dölek Güveci",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/93cbf380-5429-40af-ab81-222e2deb95fb.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1618174800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1507
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar, kilimler ve dokumalar dışında kalan el sanatı ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gümüşhane"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

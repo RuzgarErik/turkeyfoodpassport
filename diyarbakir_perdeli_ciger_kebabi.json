@@ -1,0 +1,25 @@
+{
+    "name": "Diyarbakır Perdeli Ciğer Kebabı",
+    "description": "Diyarbakır Perdeli Ciğer Kebabı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/46c1a9a9-6b25-4eb2-b777-2ea23de16038.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1656363600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2310
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Diyarbakır"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

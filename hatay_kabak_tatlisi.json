@@ -1,0 +1,25 @@
+{
+    "name": "Hatay Kabak Tatlısı",
+    "description": "Hatay Kabak Tatlısı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/03d532fe-dba6-4c4d-8981-66a97fe30222.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1633381200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3164
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Hatay"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

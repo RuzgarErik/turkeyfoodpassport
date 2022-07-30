@@ -1,0 +1,25 @@
+{
+    "name": "Aksaray Un Kurabiyesi / Aksaray Asker Kurabiyesi",
+    "description": "Aksaray Un Kurabiyesi / Aksaray Asker Kurabiyesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5e3a7914-a6c6-4d52-944e-44d7c353079c.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1655154000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 5282
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Aksaray"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

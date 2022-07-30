@@ -1,0 +1,25 @@
+{
+    "name": "Demirci Hünnabı",
+    "description": "Demirci Hünnabı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/dfc4d598-5399-453f-9816-74fab0970bd0.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1595365200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38255
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Manisa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

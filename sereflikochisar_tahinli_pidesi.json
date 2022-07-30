@@ -1,0 +1,25 @@
+{
+    "name": "Şereflikoçhisar Tahinli Pidesi",
+    "description": "Şereflikoçhisar Tahinli Pidesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/56189c60-4f77-42c5-9ea7-da41c3cd0a8f.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1639083600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3342
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Ankara"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

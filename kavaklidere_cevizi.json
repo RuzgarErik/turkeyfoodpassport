@@ -1,0 +1,25 @@
+{
+    "name": "Kavaklıdere Cevizi",
+    "description": "Kavaklıdere Cevizi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/2385de95-a50a-49c8-86a3-9f0a72f0e0a6.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1598562000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38226
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Muğla"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

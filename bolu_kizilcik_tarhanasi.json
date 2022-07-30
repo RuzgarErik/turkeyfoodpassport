@@ -1,0 +1,25 @@
+{
+    "name": "Bolu Kızılcık Tarhanası",
+    "description": "Bolu Kızılcık Tarhanası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/252.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1512075600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38309
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bolu"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

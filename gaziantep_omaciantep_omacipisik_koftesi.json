@@ -1,0 +1,25 @@
+{
+    "name": "Gaziantep Omacı/Antep Omacı/Pisik Köftesi",
+    "description": "Gaziantep Omacı/Antep Omacı/Pisik Köftesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/3bd12522-1896-4944-b14b-67376e0a020f.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1650229200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 4962
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

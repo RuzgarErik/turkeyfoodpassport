@@ -1,0 +1,25 @@
+{
+    "name": "Gaziantep Sarımsak Aşı",
+    "description": "Gaziantep Sarımsak Aşı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e16b8746-cc7a-4240-9de3-47a783c3c0bb.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1605474000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38279
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

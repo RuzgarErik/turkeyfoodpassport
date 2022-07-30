@@ -1,0 +1,25 @@
+{
+    "name": "Kırşehir Çirleme Yemeği",
+    "description": "Kırşehir Çirleme Yemeği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/65acc576-7a8b-422a-9a28-72b057c0f835.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1636923600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1962
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kırşehir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

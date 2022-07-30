@@ -1,0 +1,25 @@
+{
+    "name": "Erzurum Demir Tatlısı",
+    "description": "Erzurum Demir Tatlısı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/29be58b3-bea7-4ce0-a3a0-87fe05e3e1f4.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1640552400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3702
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Erzurum"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

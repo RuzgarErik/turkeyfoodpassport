@@ -1,0 +1,25 @@
+{
+    "name": "Gaziantep Börek Çorbası / Antep Börek Çorbası",
+    "description": "Gaziantep Börek Çorbası / Antep Börek Çorbası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/9d35a7bd-fcb8-43ee-85d8-248ca0501c8d.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1625173200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2364
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

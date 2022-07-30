@@ -1,0 +1,25 @@
+{
+    "name": "Tarsus Kebabı",
+    "description": "Tarsus Kebabı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0ae56b71-d4b9-46ae-82ef-63b7f8a8d942.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1600290000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1063
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Mersin"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

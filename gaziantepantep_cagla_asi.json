@@ -1,0 +1,25 @@
+{
+    "name": "Gaziantep/Antep Çağla Aşı",
+    "description": "Gaziantep/Antep Çağla Aşı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0bc2179f-bbda-439c-af91-92d51d172edc.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1642971600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3522
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

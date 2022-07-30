@@ -1,0 +1,25 @@
+{
+    "name": "Gaziantep Yağlı Köfte / Antep Yağlı Köfte",
+    "description": "Gaziantep Yağlı Köfte / Antep Yağlı Köfte",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/cb94d135-09ea-4689-893c-bb362256075e.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1625086800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2265
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

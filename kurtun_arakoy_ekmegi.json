@@ -1,0 +1,25 @@
+{
+    "name": "Kürtün Araköy Ekmeği",
+    "description": "Kürtün Araköy Ekmeği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/caa727b9-bae4-4745-a720-0b09f51bfe8b.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1567544400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38533
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gümüşhane"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

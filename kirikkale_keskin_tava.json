@@ -1,0 +1,25 @@
+{
+    "name": "Kırıkkale Keskin Tava",
+    "description": "Kırıkkale Keskin Tava",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/311.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1514149200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38360
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kırıkkale"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

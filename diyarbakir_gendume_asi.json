@@ -1,0 +1,25 @@
+{
+    "name": "Diyarbakır Gendüme Aşı",
+    "description": "Diyarbakır Gendüme Aşı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c95a0716-0909-49ed-bd75-96ee55c96924.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1652216400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2469
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Diyarbakır"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Urla Sakız Enginarı",
+    "description": "Urla Sakız Enginarı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/245.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1511470800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38304
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "İzmir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

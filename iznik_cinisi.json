@@ -1,0 +1,25 @@
+{
+    "name": "İznik Çinisi",
+    "description": "İznik Çinisi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/137.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1262124000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37949
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar, kilimler ve dokumalar dışında kalan el sanatı ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bursa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

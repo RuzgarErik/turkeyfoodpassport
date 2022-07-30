@@ -1,0 +1,25 @@
+{
+    "name": "Edirne Beyaz Peyniri",
+    "description": "Edirne Beyaz Peyniri",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/82e2bd66-6f9d-4d29-843b-083c54be140b.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1193086800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37941
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Peynirler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Edirne"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

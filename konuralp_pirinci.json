@@ -1,0 +1,25 @@
+{
+    "name": "Konuralp Pirinci",
+    "description": "Konuralp Pirinci",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ffdf0935-4df1-460a-91f9-7ad495c01318.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1561410000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38291
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Düzce"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

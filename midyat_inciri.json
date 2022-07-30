@@ -1,0 +1,25 @@
+{
+    "name": "Midyat İnciri",
+    "description": "Midyat İnciri",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c5c9d983-c2c5-4c32-8689-b058246ec379.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1615323600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1125
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Mardin"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Gaziantep Süzek Yapması / Antep Süzek Yapması",
+    "description": "Gaziantep Süzek Yapması / Antep Süzek Yapması",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e2308419-4545-4fe1-a50c-b36dd3b2df0a.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1621026000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2728
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

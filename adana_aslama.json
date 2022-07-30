@@ -1,0 +1,25 @@
+{
+    "name": "Adana Aşlama",
+    "description": "Adana Aşlama",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/3b0d8418-eca8-4010-bb81-ca49d134d2f2.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1603659600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1213
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Alkolsüz içecekler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Adana"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

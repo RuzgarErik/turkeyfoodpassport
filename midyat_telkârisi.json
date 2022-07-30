@@ -1,0 +1,25 @@
+{
+    "name": "Midyat Telkârisi",
+    "description": "Midyat Telkârisi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/28e316fa-e891-44a5-a2c7-aa291cac67a8.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1628456400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3084
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar, kilimler ve dokumalar dışında kalan el sanatı ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Mardin"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Karacasu Çömleği",
+    "description": "Karacasu Çömleği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/037063fe-9a97-4548-b8f0-03b07ed9ee34.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1606078800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 502
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar, kilimler ve dokumalar dışında kalan el sanatı ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Aydın"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

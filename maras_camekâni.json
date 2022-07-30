@@ -1,0 +1,25 @@
+{
+    "name": "Maraş Camekânı",
+    "description": "Maraş Camekânı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5da26177-03e7-47c9-b068-ebc07a31d9b3.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1628456400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2920
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar, kilimler ve dokumalar dışında kalan el sanatı ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kahramanmaraş"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Düzce Kestane Kabağı",
+    "description": "Düzce Kestane Kabağı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/7629c1f0-6038-4000-9b72-cac12955503c.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1603746000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 404
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Düzce"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

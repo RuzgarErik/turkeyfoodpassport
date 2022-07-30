@@ -1,0 +1,25 @@
+{
+    "name": "Çakallı Menemeni",
+    "description": "Çakallı Menemeni",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f6f71e1d-9a0f-420a-927c-abc7c6655728.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1582578000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 802
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": ""
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

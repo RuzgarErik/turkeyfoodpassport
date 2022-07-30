@@ -1,0 +1,25 @@
+{
+    "name": "Tavşanlı Leblebisi",
+    "description": "Tavşanlı Leblebisi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/60.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1094418000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37915
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kütahya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

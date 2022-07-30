@@ -1,0 +1,25 @@
+{
+    "name": "Tokat Ekmeği",
+    "description": "Tokat Ekmeği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/15e5ceff-2ee9-4845-9864-b6be8a9d1dfa.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1631826000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 4225
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Tokat"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Tarsus Biberiyesi",
+    "description": "Tarsus Biberiyesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/8a2aff91-2067-4981-b13a-775acc59fac6.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1643835600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3205
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yiyecekler için çeşni / lezzet vericiler, soslar ve tuz"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Mersin"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

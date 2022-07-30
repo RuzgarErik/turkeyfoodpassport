@@ -1,0 +1,25 @@
+{
+    "name": "Dedebağ Keşkeği / Karacasu Keşkeği",
+    "description": "Dedebağ Keşkeği / Karacasu Keşkeği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d2fac3b8-4289-4454-b2a3-f52a2c18e050.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1615237200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1004
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Aydın"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

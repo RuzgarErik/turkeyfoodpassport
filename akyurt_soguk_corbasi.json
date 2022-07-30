@@ -1,0 +1,25 @@
+{
+    "name": "Akyurt Soğuk Çorbası",
+    "description": "Akyurt Soğuk Çorbası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/9f9ae7ce-2bf5-49b6-9675-6374d25b15bf.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1646168400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3382
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Ankara"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

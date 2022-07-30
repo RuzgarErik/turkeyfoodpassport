@@ -1,0 +1,25 @@
+{
+    "name": "Diyarbakır Patlıcanlı Kazan Kebabı",
+    "description": "Diyarbakır Patlıcanlı Kazan Kebabı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/91e68839-8d1c-4867-a43f-69ec03798c48.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1654549200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2926
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Diyarbakır"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

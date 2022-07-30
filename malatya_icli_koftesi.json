@@ -1,0 +1,25 @@
+{
+    "name": "Malatya İçli Köftesi",
+    "description": "Malatya İçli Köftesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/4d27b80a-2139-4f8c-a696-6e3730ed5f47.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1628542800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2762
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Malatya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

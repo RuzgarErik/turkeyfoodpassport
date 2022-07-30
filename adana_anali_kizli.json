@@ -1,0 +1,25 @@
+{
+    "name": "Adana Analı Kızlı",
+    "description": "Adana Analı Kızlı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0bfc00b3-5792-45e9-9579-4df386dbfe64.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1603659600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1242
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Adana"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

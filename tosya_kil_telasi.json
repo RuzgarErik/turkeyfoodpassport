@@ -1,0 +1,25 @@
+{
+    "name": "Tosya Kıl Telası",
+    "description": "Tosya Kıl Telası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/72e94f4e-3e5b-44c6-ba67-70aa102af671.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1628456400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2443
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Dokumalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kastamonu"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

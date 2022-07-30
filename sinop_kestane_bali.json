@@ -1,0 +1,25 @@
+{
+    "name": "Sinop Kestane Balı",
+    "description": "Sinop Kestane Balı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c8722e86-e797-4e24-b8a1-048d93343ed6.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1610485200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1803
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Bal"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Sinop"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

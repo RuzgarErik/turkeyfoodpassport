@@ -1,0 +1,25 @@
+{
+    "name": "Milas Yağlı Zeytini",
+    "description": "Milas Yağlı Zeytini",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/afed2ab7-8128-462e-b2fe-a0b393a5132a.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1566939600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38457
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Muğla"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

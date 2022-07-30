@@ -1,0 +1,25 @@
+{
+    "name": "Kayseri Gül Baklavası",
+    "description": "Kayseri Gül Baklavası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/36a61e97-80f7-49fb-adb4-16a7104cc555.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1654549200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 4883
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kayseri"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

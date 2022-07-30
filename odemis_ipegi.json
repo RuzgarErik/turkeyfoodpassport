@@ -1,0 +1,25 @@
+{
+    "name": "Ödemiş İpeği",
+    "description": "Ödemiş İpeği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/1b223d32-724a-423a-9100-1fce8e0f922c.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1644440400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2723
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "İzmir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

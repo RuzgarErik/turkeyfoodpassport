@@ -1,0 +1,25 @@
+{
+    "name": "Kaymaklı Çöreği",
+    "description": "Kaymaklı Çöreği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5e34df6e-23fe-4702-bd24-c01f4d29befd.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1641762000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 4484
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Nevşehir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

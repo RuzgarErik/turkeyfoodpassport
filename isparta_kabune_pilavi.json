@@ -1,0 +1,25 @@
+{
+    "name": "Isparta Kabune Pilavı",
+    "description": "Isparta Kabune Pilavı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/355.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1527627600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38072
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Isparta"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

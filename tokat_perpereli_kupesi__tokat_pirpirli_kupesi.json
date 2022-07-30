@@ -1,0 +1,25 @@
+{
+    "name": "Tokat Perpereli Küpesi / Tokat Pırpırlı Küpesi",
+    "description": "Tokat Perpereli Küpesi / Tokat Pırpırlı Küpesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/179cbe08-48ce-483f-97b5-bf7d2ceba746.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1630011600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3583
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar, kilimler ve dokumalar dışında kalan el sanatı ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Tokat"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

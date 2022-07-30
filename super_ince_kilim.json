@@ -1,0 +1,25 @@
+{
+    "name": "Süper İnce Kilim",
+    "description": "Süper İnce Kilim",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/4f7d7a4a-4ede-48ff-b08f-fe79883f856c.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 879458400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37887
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar ve kilimler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Afyonkarahisar"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

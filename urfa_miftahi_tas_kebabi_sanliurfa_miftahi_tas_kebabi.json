@@ -1,0 +1,25 @@
+{
+    "name": "Urfa Miftahi Tas Kebabı/ Şanlıurfa Miftahi Tas Kebabı",
+    "description": "Urfa Miftahi Tas Kebabı/ Şanlıurfa Miftahi Tas Kebabı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0a4819c5-5b03-415b-97ef-9e72afc8c8c1.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1654462800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 5823
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Şanlıurfa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

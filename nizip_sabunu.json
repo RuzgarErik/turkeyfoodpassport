@@ -1,0 +1,25 @@
+{
+    "name": "Nizip Sabunu",
+    "description": "Nizip Sabunu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0739b079-ef00-426e-bfd3-50e7ca9360e9.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1521493200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38080
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

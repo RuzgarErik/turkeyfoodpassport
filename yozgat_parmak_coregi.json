@@ -1,0 +1,25 @@
+{
+    "name": "Yozgat Parmak Çöreği",
+    "description": "Yozgat Parmak Çöreği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ef89d5f6-c4ec-4ff0-b3a3-fefaa9385691.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1388095200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38045
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Yozgat"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

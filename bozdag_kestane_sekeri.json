@@ -1,0 +1,25 @@
+{
+    "name": "Bozdağ Kestane Şekeri",
+    "description": "Bozdağ Kestane Şekeri",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/2f615ec7-1b24-4f30-9fd5-876d98856e50.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 974844000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37891
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Çikolata, şekerleme ve türevi ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "İzmir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

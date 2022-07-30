@@ -1,0 +1,25 @@
+{
+    "name": "Gaziantep / Antep Yarım Tava",
+    "description": "Gaziantep / Antep Yarım Tava",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b88eacb2-130b-42e7-bec3-65cebdaff334.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1649797200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 5324
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

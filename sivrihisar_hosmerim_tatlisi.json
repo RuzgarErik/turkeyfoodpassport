@@ -1,0 +1,25 @@
+{
+    "name": "Sivrihisar Höşmerim Tatlısı",
+    "description": "Sivrihisar Höşmerim Tatlısı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e0d01036-5638-4489-a6a4-7101d71fce9c.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1601240400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1208
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Eskişehir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

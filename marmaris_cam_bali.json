@@ -1,0 +1,25 @@
+{
+    "name": "Marmaris Çam Balı",
+    "description": "Marmaris Çam Balı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/9a4bea3e-a8ae-47f8-87ac-0892266672da.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1572987600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38243
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Bal"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Muğla"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

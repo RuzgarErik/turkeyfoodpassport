@@ -1,0 +1,25 @@
+{
+    "name": "Tarsus Şalgamı",
+    "description": "Tarsus Şalgamı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e59f7a55-13a5-4409-b6d7-7b6603463a11.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1170885600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37947
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Alkolsüz içecekler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Mersin"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

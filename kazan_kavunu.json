@@ -1,0 +1,25 @@
+{
+    "name": "Kazan Kavunu",
+    "description": "Kazan Kavunu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/58ea4368-c2c2-4617-86aa-5dba61dde7f7.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1621803600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2442
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Ankara"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

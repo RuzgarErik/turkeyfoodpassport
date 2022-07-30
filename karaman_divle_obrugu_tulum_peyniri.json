@@ -1,0 +1,25 @@
+{
+    "name": "Karaman Divle Obruğu Tulum Peyniri",
+    "description": "Karaman Divle Obruğu Tulum Peyniri",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/270.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1512680400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38160
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Peynirler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Karaman"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

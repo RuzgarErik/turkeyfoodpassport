@@ -1,0 +1,25 @@
+{
+    "name": "Kandıra Dartısı",
+    "description": "Kandıra Dartısı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ad32eab2-3c1a-4847-970b-b0b3b0febafc.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1651784400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2446
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Peynirler ve tereyağı dışında kalan süt ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kocaeli"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

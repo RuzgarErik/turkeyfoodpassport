@@ -1,0 +1,25 @@
+{
+    "name": "Antep Allı Yeşilli Dolma /Antep Nakışlı Dolma /Antep Yaz Dolması",
+    "description": "Antep Allı Yeşilli Dolma /Antep Nakışlı Dolma /Antep Yaz Dolması",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ba679a2f-f604-4b71-8e8f-f690b232983e.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1625086800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2264
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

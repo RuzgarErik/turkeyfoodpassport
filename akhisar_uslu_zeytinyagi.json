@@ -1,0 +1,25 @@
+{
+    "name": "Akhisar Uslu Zeytinyağı",
+    "description": "Akhisar Uslu Zeytinyağı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c314978b-3487-4028-85be-eeb1919003c5.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1648414800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38404
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Tereyağı dâhil katı ve sıvı yağlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Manisa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

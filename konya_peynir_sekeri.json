@@ -1,0 +1,25 @@
+{
+    "name": "Konya Peynir Şekeri",
+    "description": "Konya Peynir Şekeri",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/6d583d07-5d58-4ff3-a0a7-3eb6bf04fe6a.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1549832400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38107
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Çikolata, şekerleme ve türevi ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Konya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

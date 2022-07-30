@@ -1,0 +1,25 @@
+{
+    "name": "Amasya Baklalı Dolması",
+    "description": "Amasya Baklalı Dolması",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/a9f7f113-91f9-42f0-bb34-e57225dda700.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1629147600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3102
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Amasya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

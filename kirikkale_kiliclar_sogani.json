@@ -1,0 +1,25 @@
+{
+    "name": "Kırıkkale Kılıçlar Soğanı",
+    "description": "Kırıkkale Kılıçlar Soğanı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/365.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1530824400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38148
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kırıkkale"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

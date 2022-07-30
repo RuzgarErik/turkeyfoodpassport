@@ -1,0 +1,25 @@
+{
+    "name": "Bayburt Yalancı Dolma",
+    "description": "Bayburt Yalancı Dolma",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/fbdb4c3a-51a9-4b2d-b24c-24b427aed20e.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1628456400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1523
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bayburt"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

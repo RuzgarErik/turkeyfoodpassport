@@ -1,0 +1,25 @@
+{
+    "name": "Cimin Üzümü",
+    "description": "Cimin Üzümü",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/37.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1024952400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37900
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Erzincan"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

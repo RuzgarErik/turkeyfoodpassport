@@ -1,0 +1,25 @@
+{
+    "name": "Gaziantep Tene Katması / Antep Tene Katması",
+    "description": "Gaziantep Tene Katması / Antep Tene Katması",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/8b94beed-14bf-4172-997e-b202f393de13.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1618866000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2267
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

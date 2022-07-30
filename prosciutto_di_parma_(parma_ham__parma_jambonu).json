@@ -1,0 +1,25 @@
+{
+    "name": "Prosciutto Di Parma (Parma Ham / Parma Jambonu)",
+    "description": "Prosciutto Di Parma (Parma Ham / Parma Jambonu)",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/bc1ec5b7-44ae-47a1-bad8-26f321b2bf6f.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1361224800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37988
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş İşlenmemiş Et Ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Yurtdışı"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

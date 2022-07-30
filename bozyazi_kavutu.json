@@ -1,0 +1,25 @@
+{
+    "name": "Bozyazı Kavutu",
+    "description": "Bozyazı Kavutu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5f45401b-9d8a-44a2-a895-beb69342b52f.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1599080400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38600
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Çikolata, şekerleme ve türevi ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Mersin"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

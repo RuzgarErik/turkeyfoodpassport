@@ -1,0 +1,25 @@
+{
+    "name": "Sivrihisar Dövme Sucuğu",
+    "description": "Sivrihisar Dövme Sucuğu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/8089eca7-0b63-405d-9bc2-990c996ae79a.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1603659600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 163
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş İşlenmemiş Et Ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Eskişehir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

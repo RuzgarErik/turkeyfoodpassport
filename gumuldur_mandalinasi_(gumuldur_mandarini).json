@@ -1,0 +1,25 @@
+{
+    "name": "Gümüldür Mandalinası (Gümüldür Mandarini)",
+    "description": "Gümüldür Mandalinası (Gümüldür Mandarini)",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/19917196-ed8f-4d6b-8b55-d252154eaff3.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1597698000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38163
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "İzmir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

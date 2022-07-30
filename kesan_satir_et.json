@@ -1,0 +1,25 @@
+{
+    "name": "Keşan Satır Et",
+    "description": "Keşan Satır Et",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/153.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1328565600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38000
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Edirne"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Ankara Erkeç Pastırması",
+    "description": "Ankara Erkeç Pastırması",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/06dab4af-f27b-4af1-b42c-8fddc4daa73c.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1546894800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38257
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş İşlenmemiş Et Ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Ankara"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

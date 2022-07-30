@@ -1,0 +1,25 @@
+{
+    "name": "Mardin Bulguru",
+    "description": "Mardin Bulguru",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d13961eb-eb63-408d-8ad4-ab2b73ffd172.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1571173200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38252
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Mardin"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

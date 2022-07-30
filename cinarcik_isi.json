@@ -1,0 +1,25 @@
+{
+    "name": "Çınarcık İşi",
+    "description": "Çınarcık İşi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/277.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1513544400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38342
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Dokumalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Yalova"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

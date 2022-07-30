@@ -1,0 +1,25 @@
+{
+    "name": "Tire Beledi Dokuması",
+    "description": "Tire Beledi Dokuması",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d4ec5c3f-0560-4b9f-91a3-330b404e3c89.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1608152400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1762
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Dokumalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "İzmir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Divriği Pilavı /Alatlı Pilavı",
+    "description": "Divriği Pilavı /Alatlı Pilavı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/89a54552-cf67-4a74-a7f1-38808ed34b9f.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1602190800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38503
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Sivas"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

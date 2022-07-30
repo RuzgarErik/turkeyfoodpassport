@@ -1,0 +1,25 @@
+{
+    "name": "Çankırı Küpecik Peyniri",
+    "description": "Çankırı Küpecik Peyniri",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/87d6a437-bfad-4f6d-b17e-2793d5d0fc66.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1633035600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38471
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Peynirler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Çankırı"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

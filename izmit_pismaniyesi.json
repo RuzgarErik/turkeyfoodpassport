@@ -1,0 +1,25 @@
+{
+    "name": "İzmit Pişmaniyesi",
+    "description": "İzmit Pişmaniyesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/34.JPG",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1021928400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37896
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Çikolata, şekerleme ve türevi ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kocaeli"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

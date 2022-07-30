@@ -1,0 +1,25 @@
+{
+    "name": "Maraş İşi / Maraş Sim Sırma",
+    "description": "Maraş İşi / Maraş Sim Sırma",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/1aff6c52-e73b-4d1c-b617-6b05cd1972d4.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1612990800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38193
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar, kilimler ve dokumalar dışında kalan el sanatı ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kahramanmaraş"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

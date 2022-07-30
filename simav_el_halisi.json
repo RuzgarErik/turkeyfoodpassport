@@ -1,0 +1,25 @@
+{
+    "name": "Simav El Halısı",
+    "description": "Simav El Halısı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/685c281a-d537-42e2-9e48-b5a4acd813b6.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 879458400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37867
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar ve kilimler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kütahya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

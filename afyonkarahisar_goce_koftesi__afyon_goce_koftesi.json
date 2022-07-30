@@ -1,0 +1,25 @@
+{
+    "name": "Afyonkarahisar Göce Köftesi / Afyon Göce Köftesi",
+    "description": "Afyonkarahisar Göce Köftesi / Afyon Göce Köftesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/cf0fb714-4eca-4dfe-8763-b5ab8acd4a9d.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1636923600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2069
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Afyonkarahisar"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

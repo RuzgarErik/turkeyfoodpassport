@@ -1,0 +1,25 @@
+{
+    "name": "Safranbolu Kıtırı",
+    "description": "Safranbolu Kıtırı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e4d82a0c-21f8-49db-a418-bb97136bec45.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1609275600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 522
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Karabük"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

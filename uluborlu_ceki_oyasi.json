@@ -1,0 +1,25 @@
+{
+    "name": "Uluborlu Çeki Oyası",
+    "description": "Uluborlu Çeki Oyası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b4a0a601-eb26-4968-b8ad-e4f3b64e92c8.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1652043600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3494
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar, kilimler ve dokumalar dışında kalan el sanatı ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Isparta"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

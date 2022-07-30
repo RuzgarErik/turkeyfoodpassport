@@ -1,0 +1,25 @@
+{
+    "name": "Düzce Köftesi",
+    "description": "Düzce Köftesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/308.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1514408400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38367
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Düzce"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

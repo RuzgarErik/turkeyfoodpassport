@@ -1,0 +1,25 @@
+{
+    "name": "Gaziantep Buhara Pilavı / Antep Buhara Pilavı",
+    "description": "Gaziantep Buhara Pilavı / Antep Buhara Pilavı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/944a3954-dc8a-42c0-87d9-db829fb2163c.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1645563600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2488
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

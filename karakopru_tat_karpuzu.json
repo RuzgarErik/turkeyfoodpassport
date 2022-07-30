@@ -1,0 +1,25 @@
+{
+    "name": "Karaköprü Tat Karpuzu",
+    "description": "Karaköprü Tat Karpuzu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d3d2be5b-5778-446a-968f-b61ad5fc9072.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1651093200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1813
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Şanlıurfa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

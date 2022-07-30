@@ -1,0 +1,25 @@
+{
+    "name": "Isparta Gül Suyu",
+    "description": "Isparta Gül Suyu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/1895dac0-d8db-4711-a726-2e56400eb40b.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1632085200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3045
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Isparta"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

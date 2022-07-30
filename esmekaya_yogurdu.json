@@ -1,0 +1,25 @@
+{
+    "name": "Eşmekaya Yoğurdu",
+    "description": "Eşmekaya Yoğurdu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f268eabb-7d9d-46e4-be0a-dbc220129cbc.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1621890000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38653
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Peynirler ve tereyağı dışında kalan süt ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Aksaray"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

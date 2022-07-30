@@ -1,0 +1,25 @@
+{
+    "name": "Erdemli Lamas Limonu",
+    "description": "Erdemli Lamas Limonu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/7e933792-75f1-4b37-9e24-9a4797f78c4e.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1571605200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38586
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Mersin"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

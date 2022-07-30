@@ -1,0 +1,25 @@
+{
+    "name": "Posof Elması / Badele Elması",
+    "description": "Posof Elması / Badele Elması",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/37270265-6c55-43f4-9bb4-ae05d1e16a5b.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1555880400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38410
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Ardahan"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

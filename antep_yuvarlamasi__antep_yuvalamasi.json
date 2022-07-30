@@ -1,0 +1,25 @@
+{
+    "name": "Antep Yuvarlaması / Antep Yuvalaması",
+    "description": "Antep Yuvarlaması / Antep Yuvalaması",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c041122f-f7c6-45c1-af58-6dda11ad5cd3.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1484254800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38161
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

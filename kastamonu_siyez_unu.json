@@ -1,0 +1,25 @@
+{
+    "name": "Kastamonu Siyez Unu",
+    "description": "Kastamonu Siyez Unu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/30ea64c0-eae3-4f0a-938b-030de13a71fc.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1621285200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38601
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kastamonu"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

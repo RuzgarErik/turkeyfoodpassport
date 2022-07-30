@@ -1,0 +1,25 @@
+{
+    "name": "Tavşanlı Güveci / Tavşanlı Göveci",
+    "description": "Tavşanlı Güveci / Tavşanlı Göveci",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/fac38599-94a3-4814-8f0a-fc0864fe13dc.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1653598800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 4623
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kütahya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

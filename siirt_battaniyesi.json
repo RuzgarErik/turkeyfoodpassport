@@ -1,0 +1,25 @@
+{
+    "name": "Siirt Battaniyesi",
+    "description": "Siirt Battaniyesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/29ffadce-1776-49f8-ab8f-cf6973b0d8c4.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1089838800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37920
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar, kilimler ve dokumalar dışında kalan el sanatı ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Siirt"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

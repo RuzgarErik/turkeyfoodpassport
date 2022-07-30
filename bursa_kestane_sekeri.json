@@ -1,0 +1,25 @@
+{
+    "name": "Bursa Kestane Şekeri",
+    "description": "Bursa Kestane Şekeri",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/70639342-5a0d-4c32-8d01-0a11ca2e0961.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1611090000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 405
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Çikolata, şekerleme ve türevi ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bursa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

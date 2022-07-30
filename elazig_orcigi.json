@@ -1,0 +1,25 @@
+{
+    "name": "Elazığ Orciği",
+    "description": "Elazığ Orciği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/398.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1543525200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38231
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Çikolata, şekerleme ve türevi ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Elazığ"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

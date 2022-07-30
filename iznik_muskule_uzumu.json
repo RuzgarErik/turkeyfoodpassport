@@ -1,0 +1,25 @@
+{
+    "name": "İznik Müşküle Üzümü",
+    "description": "İznik Müşküle Üzümü",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/23359b9b-c154-489c-8277-49a383cd6a74.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1629406800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3003
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bursa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

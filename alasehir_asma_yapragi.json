@@ -1,0 +1,25 @@
+{
+    "name": "Alaşehir Asma Yaprağı",
+    "description": "Alaşehir Asma Yaprağı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/afa93a2b-2cf8-4908-af32-0cd5b26b0621.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1631826000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3629
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Manisa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

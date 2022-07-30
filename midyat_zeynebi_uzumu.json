@@ -1,0 +1,25 @@
+{
+    "name": "Midyat Zeynebi Üzümü",
+    "description": "Midyat Zeynebi Üzümü",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b19a2b36-dba2-4d14-81b7-3d19a8bb0f7e.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1644267600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1142
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Mardin"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

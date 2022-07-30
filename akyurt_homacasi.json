@@ -1,0 +1,25 @@
+{
+    "name": "Akyurt Homaçası",
+    "description": "Akyurt Homaçası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/dad570c8-f7d0-458f-bfd1-d398804d89bb.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1640206800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3207
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Ankara"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

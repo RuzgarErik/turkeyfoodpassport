@@ -1,0 +1,25 @@
+{
+    "name": "Afyon Pastırması",
+    "description": "Afyon Pastırması",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/73.JPG",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1122930000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37935
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş İşlenmemiş Et Ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Afyonkarahisar"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

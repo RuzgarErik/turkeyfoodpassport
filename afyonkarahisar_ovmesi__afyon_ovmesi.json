@@ -1,0 +1,25 @@
+{
+    "name": "Afyonkarahisar Övmesi / Afyon Övmesi",
+    "description": "Afyonkarahisar Övmesi / Afyon Övmesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/729e1c2f-dd33-4e1e-b1c4-d2a2222810b8.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1653253200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 4465
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Afyonkarahisar"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

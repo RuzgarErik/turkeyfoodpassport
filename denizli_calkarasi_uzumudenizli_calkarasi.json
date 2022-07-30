@@ -1,0 +1,25 @@
+{
+    "name": "Denizli Çalkarası Üzümü/Denizli Çalkarası",
+    "description": "Denizli Çalkarası Üzümü/Denizli Çalkarası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/245474cf-b0d5-4152-a748-871fc58cd8f3.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1607288400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38547
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Denizli"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Konya Kuru Kabak Sarması",
+    "description": "Konya Kuru Kabak Sarması",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/185cb823-5b2e-4bc8-a5f1-feedfaeefe5c.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1632430800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2662
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Konya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

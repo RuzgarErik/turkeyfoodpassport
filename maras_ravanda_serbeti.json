@@ -1,0 +1,25 @@
+{
+    "name": "Maraş Ravanda Şerbeti",
+    "description": "Maraş Ravanda Şerbeti",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ed72ef26-c2ce-43dc-8168-c0a10e473658.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1649970000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2943
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Alkolsüz içecekler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kahramanmaraş"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Adana Bici Bici",
+    "description": "Adana Bici Bici",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f1cc89c5-1dc9-4389-9f69-f75025a097da.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1600290000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1215
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Dondurmalar ve yenilebilir buzlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Adana"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

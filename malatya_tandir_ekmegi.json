@@ -1,0 +1,25 @@
+{
+    "name": "Malatya Tandır Ekmeği",
+    "description": "Malatya Tandır Ekmeği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/94c49460-c119-4049-bf64-17328ef94517.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1635109200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3498
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Malatya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

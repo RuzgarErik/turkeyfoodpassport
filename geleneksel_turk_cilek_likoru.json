@@ -1,0 +1,25 @@
+{
+    "name": "Geleneksel Türk Çilek Likörü",
+    "description": "Geleneksel Türk Çilek Likörü",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b1b893ad-0995-481b-9b53-32534aff6130.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1307653200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37957
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Biralar ve diğer alkollü içkiler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Türkiye"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

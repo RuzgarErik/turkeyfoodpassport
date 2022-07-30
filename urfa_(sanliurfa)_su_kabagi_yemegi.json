@@ -1,0 +1,25 @@
+{
+    "name": "Urfa (Şanlıurfa) Su Kabağı Yemeği",
+    "description": "Urfa (Şanlıurfa) Su Kabağı Yemeği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/328.JPG",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1519160400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38319
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Şanlıurfa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

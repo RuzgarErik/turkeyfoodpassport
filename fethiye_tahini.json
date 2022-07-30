@@ -1,0 +1,25 @@
+{
+    "name": "Fethiye Tahini",
+    "description": "Fethiye Tahini",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0eaeeead-388c-4476-812e-5527af8e6f06.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1616446800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 382
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Muğla"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

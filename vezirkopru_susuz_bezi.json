@@ -1,0 +1,25 @@
+{
+    "name": "Vezirköprü Susuz Bezi",
+    "description": "Vezirköprü Susuz Bezi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0a3d09a7-6a3a-4bd8-8f7c-a276e764bb25.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1577048400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38587
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Dokumalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Samsun"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

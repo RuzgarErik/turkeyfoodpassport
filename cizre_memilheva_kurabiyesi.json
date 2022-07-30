@@ -1,0 +1,25 @@
+{
+    "name": "Cizre Memilheva Kurabiyesi",
+    "description": "Cizre Memilheva Kurabiyesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b7f21854-a6b8-4c0c-91f2-2f959f15cf1f.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1612299600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1402
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Şırnak"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

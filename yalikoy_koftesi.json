@@ -1,0 +1,25 @@
+{
+    "name": "Yalıköy Köftesi",
+    "description": "Yalıköy Köftesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/6124bb02-8727-448b-a0b1-8abd4f2d1afe.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1643144400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 4742
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Ordu"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

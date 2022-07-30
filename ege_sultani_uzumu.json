@@ -1,0 +1,25 @@
+{
+    "name": "Ege Sultani Üzümü",
+    "description": "Ege Sultani Üzümü",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/61.JPG",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1101679200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37919
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "İzmir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

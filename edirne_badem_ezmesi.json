@@ -1,0 +1,25 @@
+{
+    "name": "Edirne Badem Ezmesi",
+    "description": "Edirne Badem Ezmesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/cdf13031-1cb0-4dc3-8ca4-5e879c95b4a1.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1611522000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38083
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Çikolata, şekerleme ve türevi ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Edirne"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

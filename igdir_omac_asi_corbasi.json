@@ -1,0 +1,25 @@
+{
+    "name": "Iğdır Omaç Aşı Çorbası",
+    "description": "Iğdır Omaç Aşı Çorbası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/a5401525-25a6-4235-9bdd-b2309f6910bd.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1629925200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2843
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Iğdır"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

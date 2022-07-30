@@ -1,0 +1,25 @@
+{
+    "name": "Kelkit Ketesi",
+    "description": "Kelkit Ketesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/20dd75e2-3a50-440b-b5c5-8762f225dc80.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1638392400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2422
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gümüşhane"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Gerede Keşi",
+    "description": "Gerede Keşi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/6da604a0-11c8-4cff-b9bd-3d9f1a4c0305.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1618347600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1282
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Peynirler ve tereyağı dışında kalan süt ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bolu"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

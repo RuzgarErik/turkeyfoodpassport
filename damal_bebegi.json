@@ -1,0 +1,25 @@
+{
+    "name": "Damal Bebeği",
+    "description": "Damal Bebeği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d713e32f-b230-4b82-9751-ac81dbf2a73a.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1049749200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37914
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar, kilimler ve dokumalar dışında kalan el sanatı ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Ardahan"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

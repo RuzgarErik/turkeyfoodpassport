@@ -1,0 +1,25 @@
+{
+    "name": "Bolu Göynük Uğut Tatlısı",
+    "description": "Bolu Göynük Uğut Tatlısı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/16542411-3f79-47a3-bd9e-22b58882a162.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1607461200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38208
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bolu"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

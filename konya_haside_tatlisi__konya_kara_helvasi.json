@@ -1,0 +1,25 @@
+{
+    "name": "Konya Haside Tatlısı / Konya Kara Helvası",
+    "description": "Konya Haside Tatlısı / Konya Kara Helvası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f529b679-9f46-4e23-a508-6b38ffe8d9b2.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1629406800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2607
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Konya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

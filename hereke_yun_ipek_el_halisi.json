@@ -1,0 +1,25 @@
+{
+    "name": "Hereke Yün İpek El Halısı",
+    "description": "Hereke Yün İpek El Halısı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5022dbe2-989c-4e3f-a460-f8acf767e50c.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 879458400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37865
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar ve kilimler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kocaeli"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

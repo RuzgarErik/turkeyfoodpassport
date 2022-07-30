@@ -1,0 +1,25 @@
+{
+    "name": "Konya Cimcik",
+    "description": "Konya Cimcik",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e2b8ccbb-c307-4444-9ec1-66452b5a0dce.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1635282000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2581
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Konya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

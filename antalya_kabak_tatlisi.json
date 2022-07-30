@@ -1,0 +1,25 @@
+{
+    "name": "Antalya Kabak Tatlısı",
+    "description": "Antalya Kabak Tatlısı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/dc193856-dec6-4c5f-82bc-9d39bea7a402.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1618174800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 943
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Antalya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

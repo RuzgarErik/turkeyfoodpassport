@@ -1,0 +1,25 @@
+{
+    "name": "Eldivan Yağlı Çöreği",
+    "description": "Eldivan Yağlı Çöreği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/fd8aae61-a75c-4c02-a618-1486230d8ddf.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1633381200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3862
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Çankırı"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

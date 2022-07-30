@@ -1,0 +1,25 @@
+{
+    "name": "Merzifon Keşkeği",
+    "description": "Merzifon Keşkeği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/186.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1419890400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38056
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Amasya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Paşa Helvası",
+    "description": "Paşa Helvası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/1288667f-896d-48fc-a73c-9a835fca57c5.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1609794000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1815
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kütahya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

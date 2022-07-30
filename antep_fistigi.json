@@ -1,0 +1,25 @@
+{
+    "name": "Antep Fıstığı",
+    "description": "Antep Fıstığı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/1e8253c5-8602-4ac0-82b9-a12fd111d86b.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 958510800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37889
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

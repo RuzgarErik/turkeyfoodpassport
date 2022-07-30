@@ -1,0 +1,25 @@
+{
+    "name": "Pamukova Ceviz Ezmesi",
+    "description": "Pamukova Ceviz Ezmesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c014aba1-2353-43dc-abc9-6c34875e1d29.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1627333200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2305
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Çikolata, şekerleme ve türevi ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Sakarya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

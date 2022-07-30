@@ -1,0 +1,25 @@
+{
+    "name": "Antep Dolmalık Biber Kurusu / Gaziantep Dolmalık Biber Kurusu",
+    "description": "Antep Dolmalık Biber Kurusu / Gaziantep Dolmalık Biber Kurusu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/597bc12a-20ac-4337-8a6b-101cdfe61702.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1620594000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38511
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

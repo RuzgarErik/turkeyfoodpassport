@@ -1,0 +1,25 @@
+{
+    "name": "Adapazarı Dartılı Keşkek",
+    "description": "Adapazarı Dartılı Keşkek",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/168.JPG",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1357596000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38013
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Sakarya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

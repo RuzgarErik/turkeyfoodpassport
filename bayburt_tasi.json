@@ -1,0 +1,25 @@
+{
+    "name": "Bayburt Taşı",
+    "description": "Bayburt Taşı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/374315f8-3001-4101-b99a-38b38aaad44e.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1562187600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38366
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bayburt"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Mardin  İmlebbes",
+    "description": "Mardin  İmlebbes",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/124.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1261519200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37994
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Çikolata, şekerleme ve türevi ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Mardin"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

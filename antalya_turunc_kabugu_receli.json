@@ -1,0 +1,25 @@
+{
+    "name": "Antalya Turunç Kabuğu Reçeli",
+    "description": "Antalya Turunç Kabuğu Reçeli",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/6d2a8e96-c509-4cf4-b87a-0f6b1c11ec10.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1621976400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38671
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Antalya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

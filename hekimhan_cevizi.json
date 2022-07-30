@@ -1,0 +1,25 @@
+{
+    "name": "Hekimhan Cevizi",
+    "description": "Hekimhan Cevizi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/10afe7c4-2b6b-4e65-810c-b231c49be2fb.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1558904400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38187
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Malatya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

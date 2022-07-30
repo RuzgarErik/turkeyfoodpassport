@@ -1,0 +1,25 @@
+{
+    "name": "Erbaa Narince Bağ Yaprağı",
+    "description": "Erbaa Narince Bağ Yaprağı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/258.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1512421200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38203
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Tokat"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Yomra Elması",
+    "description": "Yomra Elması",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/16dc4a74-284a-4c58-97fd-446cefddedca.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1607979600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1703
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Trabzon"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

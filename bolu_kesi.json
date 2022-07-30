@@ -1,0 +1,25 @@
+{
+    "name": "Bolu Keşi",
+    "description": "Bolu Keşi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c2e53c35-7801-46b0-972c-aec6947155e2.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1600722000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38211
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Peynirler ve tereyağı dışında kalan süt ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bolu"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

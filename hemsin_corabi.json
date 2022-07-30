@@ -1,0 +1,25 @@
+{
+    "name": "Hemşin Çorabı",
+    "description": "Hemşin Çorabı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/779ee9fe-cfbd-49ac-a910-e7da64a865c4.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1628456400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3630
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar, kilimler ve dokumalar dışında kalan el sanatı ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Rize"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "İzmir Kumrusu",
+    "description": "İzmir Kumrusu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/262.JPG",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1512594000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38142
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "İzmir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

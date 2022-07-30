@@ -1,0 +1,25 @@
+{
+    "name": "Honaz Kirazı",
+    "description": "Honaz Kirazı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b417bd68-aa5c-4e3e-9e30-56fcb4580bac.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1616360400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 783
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Denizli"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

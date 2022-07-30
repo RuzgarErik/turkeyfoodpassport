@@ -1,0 +1,25 @@
+{
+    "name": "Sinop Kotrası",
+    "description": "Sinop Kotrası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/37d8bafd-0323-4578-b4cc-7c6de19baf44.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1638392400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3943
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar, kilimler ve dokumalar dışında kalan el sanatı ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Sinop"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Bucak Salebi",
+    "description": "Bucak Salebi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/864caa9d-65c3-48cd-b2e7-21fffbda14e6.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1628542800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1524
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Burdur"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

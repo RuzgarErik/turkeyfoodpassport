@@ -1,0 +1,25 @@
+{
+    "name": "Geyikli Zeytinyağı",
+    "description": "Geyikli Zeytinyağı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/76159b6c-df3a-4835-877d-dafdf2494b97.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1614546000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1724
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Tereyağı dâhil katı ve sıvı yağlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Çanakkale"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Karacabey Soğanı",
+    "description": "Karacabey Soğanı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/247.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1511989200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38146
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bursa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Sincik El Dokuma Halısı",
+    "description": "Sincik El Dokuma Halısı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/abf9673c-cea9-4cfd-b7f1-05f72811ff62.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1585861200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38612
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar ve kilimler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Adıyaman"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

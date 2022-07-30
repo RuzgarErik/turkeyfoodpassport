@@ -1,0 +1,25 @@
+{
+    "name": "Diyarbakır Kuru Dolması",
+    "description": "Diyarbakır Kuru Dolması",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/43ad437f-080c-41cc-9e9f-33ee6b1c32b9.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1629406800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2474
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Diyarbakır"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

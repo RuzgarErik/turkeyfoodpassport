@@ -1,0 +1,25 @@
+{
+    "name": "Hatay İpeği",
+    "description": "Hatay İpeği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/4dbb6726-8fc3-45f7-879a-8ca7f7934ff0.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1511989200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38282
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Dokumalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Hatay"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

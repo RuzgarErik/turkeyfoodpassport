@@ -1,0 +1,25 @@
+{
+    "name": "Muğla Göce Tarhanası",
+    "description": "Muğla Göce Tarhanası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/bcdb5cd5-95d8-4726-95c9-96b88ab869d2.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1568754000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38190
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Muğla"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

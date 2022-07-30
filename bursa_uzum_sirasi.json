@@ -1,0 +1,25 @@
+{
+    "name": "Bursa Üzüm Şırası",
+    "description": "Bursa Üzüm Şırası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/576248be-7311-47f9-bb35-1bdbbcec2a5e.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1628456400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3197
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Alkolsüz içecekler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bursa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

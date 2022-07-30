@@ -1,0 +1,25 @@
+{
+    "name": "Erzurum  Pekmezli Baklavası",
+    "description": "Erzurum  Pekmezli Baklavası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/deb09db4-1193-450a-a2a7-36bec74a1fa3.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1611090000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1203
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Erzurum"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

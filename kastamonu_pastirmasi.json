@@ -1,0 +1,25 @@
+{
+    "name": "Kastamonu Pastırması",
+    "description": "Kastamonu Pastırması",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/26db2c35-7036-479d-9cf2-104cf9596027.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1616965200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38472
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş İşlenmemiş Et Ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kastamonu"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

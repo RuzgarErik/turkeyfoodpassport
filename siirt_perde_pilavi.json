@@ -1,0 +1,25 @@
+{
+    "name": "Siirt Perde Pilavı",
+    "description": "Siirt Perde Pilavı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d16f101b-0c98-4564-8e37-4d6f59814338.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1089838800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37923
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Siirt"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

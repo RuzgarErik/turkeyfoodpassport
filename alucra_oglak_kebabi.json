@@ -1,0 +1,25 @@
+{
+    "name": "Alucra Oğlak Kebabı",
+    "description": "Alucra Oğlak Kebabı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/6a83188b-d9fb-404c-badf-616ef8cf2275.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1603746000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 83
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Giresun"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

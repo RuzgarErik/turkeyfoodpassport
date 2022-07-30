@@ -1,0 +1,25 @@
+{
+    "name": "Champagne",
+    "description": "Champagne",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ee9f2b29-ad99-4ccb-a622-d4195865c86f.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1490821200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38051
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Biralar ve diğer alkollü içkiler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Yurtdışı"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

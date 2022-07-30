@@ -1,0 +1,25 @@
+{
+    "name": "Eflani Cember Bezi",
+    "description": "Eflani Cember Bezi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/191.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1446498000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37997
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Dokumalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Karabük"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

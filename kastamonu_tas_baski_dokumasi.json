@@ -1,0 +1,25 @@
+{
+    "name": "Kastamonu Taş Baskı Dokuması",
+    "description": "Kastamonu Taş Baskı Dokuması",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/803d6704-589f-41ad-a9ba-10c6e7123bf7.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1571346000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38607
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Dokumalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kastamonu"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Kadınhanı Tahinli Pidesi",
+    "description": "Kadınhanı Tahinli Pidesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/171.JPG",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1361484000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38029
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Konya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

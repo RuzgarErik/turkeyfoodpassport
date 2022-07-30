@@ -1,0 +1,25 @@
+{
+    "name": "Kozan Portakalı",
+    "description": "Kozan Portakalı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/59bf70b4-9608-4b83-bcff-1be37d7d428e.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1600203600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38677
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Adana"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

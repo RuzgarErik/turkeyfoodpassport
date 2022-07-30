@@ -1,0 +1,25 @@
+{
+    "name": "Aydın Çam Fıstığı",
+    "description": "Aydın Çam Fıstığı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/901fc71c-b21c-4673-8838-1f0cbe6b64f4.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1626382800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 610
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Aydın"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

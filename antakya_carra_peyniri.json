@@ -1,0 +1,25 @@
+{
+    "name": "Antakya Carra Peyniri",
+    "description": "Antakya Carra Peyniri",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/48b81cee-e112-483a-b73c-f31e108701ab.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1613595600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 647
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Peynirler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Hatay"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

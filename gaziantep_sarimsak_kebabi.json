@@ -1,0 +1,25 @@
+{
+    "name": "Gaziantep Sarımsak Kebabı",
+    "description": "Gaziantep Sarımsak Kebabı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b66ce096-6dc1-4033-9695-55c17558bf3f.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1605474000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38280
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

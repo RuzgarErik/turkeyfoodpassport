@@ -1,0 +1,25 @@
+{
+    "name": "Bursa Cevizli Lokum",
+    "description": "Bursa Cevizli Lokum",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5243f171-0c88-4e99-ad84-1c4295bae82b.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1635714000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1205
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bursa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

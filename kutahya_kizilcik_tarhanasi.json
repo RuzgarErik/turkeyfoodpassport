@@ -1,0 +1,25 @@
+{
+    "name": "Kütahya Kızılcık Tarhanası",
+    "description": "Kütahya Kızılcık Tarhanası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/2806e25b-e462-4324-a7cc-f207372e4c70.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1611608400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1822
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kütahya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

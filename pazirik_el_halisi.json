@@ -1,0 +1,25 @@
+{
+    "name": "Pazırık El Halısı",
+    "description": "Pazırık El Halısı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/77e593e9-8bae-4c21-b5da-6fde2f332aa4.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 879458400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37873
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar ve kilimler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Afyonkarahisar"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

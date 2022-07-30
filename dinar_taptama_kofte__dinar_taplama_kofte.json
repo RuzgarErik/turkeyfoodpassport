@@ -1,0 +1,25 @@
+{
+    "name": "Dinar Taptama Köfte / Dinar Taplama Köfte",
+    "description": "Dinar Taptama Köfte / Dinar Taplama Köfte",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5c2ba7be-f4ac-4d9d-a7c3-411794fd0141.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1654462800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3927
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Afyonkarahisar"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Döner",
+    "description": "Döner",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d6501d85-f983-493d-8489-81e8470524c5.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1638997200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2042
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş İşlenmemiş Et Ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": ""
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

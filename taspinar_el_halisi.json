@@ -1,0 +1,25 @@
+{
+    "name": "Taşpınar El Halısı",
+    "description": "Taşpınar El Halısı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/7.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 879458400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37870
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar ve kilimler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Aksaray"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

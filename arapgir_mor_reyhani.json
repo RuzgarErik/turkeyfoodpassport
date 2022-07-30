@@ -1,0 +1,25 @@
+{
+    "name": "Arapgir Mor Reyhanı",
+    "description": "Arapgir Mor Reyhanı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/266.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1512680400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38308
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yiyecekler için çeşni / lezzet vericiler, soslar ve tuz"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Malatya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Balıkesir Pullusu",
+    "description": "Balıkesir Pullusu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/fc04fa98-d78e-4f57-9ad9-dfa7f62cf0ec.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1640206800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 4168
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar, kilimler ve dokumalar dışında kalan el sanatı ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Balıkesir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

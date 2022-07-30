@@ -1,0 +1,25 @@
+{
+    "name": "Ödemiş Çekişte Zeytinyağı",
+    "description": "Ödemiş Çekişte Zeytinyağı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/6f650cae-2510-40ef-a8da-14d85849214f.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1603659600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 462
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Tereyağı dâhil katı ve sıvı yağlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "İzmir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

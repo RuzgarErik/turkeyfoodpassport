@@ -1,0 +1,25 @@
+{
+    "name": "Aydın Memecik Zeytinyağı",
+    "description": "Aydın Memecik Zeytinyağı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/2f61d5fe-f7f5-4d58-b3bc-50be2828eeb2.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1600290000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 128
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Tereyağı dâhil katı ve sıvı yağlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Aydın"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

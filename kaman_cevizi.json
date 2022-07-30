@@ -1,0 +1,25 @@
+{
+    "name": "Kaman Cevizi",
+    "description": "Kaman Cevizi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/36d8b041-1d02-4d2b-bddc-4609238f14ee.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1607461200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1103
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kırşehir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

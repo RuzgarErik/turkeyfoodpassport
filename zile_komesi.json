@@ -1,0 +1,25 @@
+{
+    "name": "Zile Kömesi",
+    "description": "Zile Kömesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/224.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1509483600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38117
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Çikolata, şekerleme ve türevi ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Tokat"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

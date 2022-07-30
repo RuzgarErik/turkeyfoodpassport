@@ -1,0 +1,25 @@
+{
+    "name": "Ardahan Kaz Eti",
+    "description": "Ardahan Kaz Eti",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/1ec63263-1506-4a2b-9094-3be77c4e8f22.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1642971600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38675
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş İşlenmemiş Et Ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Ardahan"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

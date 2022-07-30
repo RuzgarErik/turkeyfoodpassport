@@ -1,0 +1,25 @@
+{
+    "name": "Denizli Traverteni",
+    "description": "Denizli Traverteni",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/87ee49b2-d24c-486a-a076-549ff85712dd.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1322517600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37993
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Denizli"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

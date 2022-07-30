@@ -1,0 +1,25 @@
+{
+    "name": "Kırk Semseği",
+    "description": "Kırk Semseği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/2e168581-5129-4a0e-aca6-964c33abc938.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1654635600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 5042
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kilis"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

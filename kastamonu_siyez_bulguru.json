@@ -1,0 +1,25 @@
+{
+    "name": "Kastamonu Siyez Bulguru",
+    "description": "Kastamonu Siyez Bulguru",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/8d376d51-5ba3-4bfe-862b-dd367444a228.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1549832400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38426
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kastamonu"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

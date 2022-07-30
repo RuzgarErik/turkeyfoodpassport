@@ -1,0 +1,25 @@
+{
+    "name": "Mut Zeytinyağı",
+    "description": "Mut Zeytinyağı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/367.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1531774800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38170
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Tereyağı dâhil katı ve sıvı yağlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Mersin"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

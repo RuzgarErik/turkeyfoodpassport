@@ -1,0 +1,25 @@
+{
+    "name": "Alaşehir Kapaması / Alaşehir Kapatması",
+    "description": "Alaşehir Kapaması / Alaşehir Kapatması",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/749b9f3f-e210-402a-bc90-998470fc8092.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1644786000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 4042
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Manisa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Kars Kaşarı",
+    "description": "Kars Kaşarı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/6c70923f-6a6e-424e-bd2e-37ff1c8cdda0.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1444597200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38112
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Peynirler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kars"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

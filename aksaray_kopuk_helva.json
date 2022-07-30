@@ -1,0 +1,25 @@
+{
+    "name": "Aksaray Köpük Helva",
+    "description": "Aksaray Köpük Helva",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/02e00ee0-ee09-4e0f-844b-855632262448.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1631739600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2343
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Aksaray"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

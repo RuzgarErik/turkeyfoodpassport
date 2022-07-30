@@ -1,0 +1,25 @@
+{
+    "name": "Senirkent Üzüm Pekmezi",
+    "description": "Senirkent Üzüm Pekmezi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/253b51e5-f976-4306-95c2-17543734cef1.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1647464400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1624
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Isparta"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

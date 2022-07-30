@@ -1,0 +1,25 @@
+{
+    "name": "Diyarbakır Boğazkere Üzümü",
+    "description": "Diyarbakır Boğazkere Üzümü",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/6f1e9250-c22f-4e31-adbc-fc488bec8adb.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1615323600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38509
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Diyarbakır"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

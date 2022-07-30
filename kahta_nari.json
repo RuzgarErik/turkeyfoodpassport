@@ -1,0 +1,25 @@
+{
+    "name": "Kahta Narı",
+    "description": "Kahta Narı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/2e1b6367-1f4f-49e4-b52f-8c9311ba39b5.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1616533200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2782
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Adıyaman"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

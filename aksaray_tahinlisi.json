@@ -1,0 +1,25 @@
+{
+    "name": "Aksaray Tahinlisi",
+    "description": "Aksaray Tahinlisi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/46b289ee-c989-49bf-90d1-f8811691bddc.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1621890000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2463
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Aksaray"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

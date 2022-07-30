@@ -1,0 +1,25 @@
+{
+    "name": "Gönen İğne Oyası",
+    "description": "Gönen İğne Oyası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b5117309-7adc-4f6d-9728-867d77c77df3.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1409259600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38017
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar, kilimler ve dokumalar dışında kalan el sanatı ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Balıkesir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

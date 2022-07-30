@@ -1,0 +1,25 @@
+{
+    "name": "Gaziantep/Antep Firikli Acur Dolması",
+    "description": "Gaziantep/Antep Firikli Acur Dolması",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b35a06ef-ae23-4157-a9d8-12b77e8960d6.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1616706000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2203
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Kayseri Sucuğu",
+    "description": "Kayseri Sucuğu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/35.JPG",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1024952400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37897
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş İşlenmemiş Et Ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kayseri"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

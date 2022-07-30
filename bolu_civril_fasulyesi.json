@@ -1,0 +1,25 @@
+{
+    "name": "Bolu Çivril Fasulyesi",
+    "description": "Bolu Çivril Fasulyesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/87802ff6-b16c-4ea1-8fea-57b8e102a001.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1597784400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38331
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bolu"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

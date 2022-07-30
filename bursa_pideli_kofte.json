@@ -1,0 +1,25 @@
+{
+    "name": "Bursa Pideli Köfte",
+    "description": "Bursa Pideli Köfte",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/a4e351d5-3233-46fb-a37f-8d53333701cb.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1635109200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2405
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bursa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

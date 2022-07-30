@@ -1,0 +1,25 @@
+{
+    "name": "Diyarbakır İncaz Hoşafı",
+    "description": "Diyarbakır İncaz Hoşafı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/18ed5ce8-7aad-4c36-b75a-65f306ea6bb5.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1633899600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2868
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Diyarbakır"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

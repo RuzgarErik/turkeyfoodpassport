@@ -1,0 +1,25 @@
+{
+    "name": "Ağrı Geven Balı",
+    "description": "Ağrı Geven Balı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/20c10cf1-0e94-47b4-92c2-8e244c588897.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1647464400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2902
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Bal"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Ağrı"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

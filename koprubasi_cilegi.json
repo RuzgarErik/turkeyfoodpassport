@@ -1,0 +1,25 @@
+{
+    "name": "Köprübaşı Çileği",
+    "description": "Köprübaşı Çileği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/9bd8a938-45b4-47ab-8d0a-ef8d5e44709f.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1635800400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38302
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Manisa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

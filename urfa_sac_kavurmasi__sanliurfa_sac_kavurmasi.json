@@ -1,0 +1,25 @@
+{
+    "name": "Urfa Sac Kavurması / Şanlıurfa Sac Kavurması",
+    "description": "Urfa Sac Kavurması / Şanlıurfa Sac Kavurması",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/75393467-dc69-41c0-ba66-7a66ca1f29fe.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1595538000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38122
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Şanlıurfa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

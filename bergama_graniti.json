@@ -1,0 +1,25 @@
+{
+    "name": "Bergama Graniti",
+    "description": "Bergama Graniti",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/271.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1513026000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38191
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "İzmir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

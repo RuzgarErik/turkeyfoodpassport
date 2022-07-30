@@ -1,0 +1,25 @@
+{
+    "name": "Deva-i Misk Helvası",
+    "description": "Deva-i Misk Helvası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/276ec01a-2df3-4b9b-814c-2c7024fa2beb.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1609880400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38686
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Edirne"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

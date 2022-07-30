@@ -1,0 +1,25 @@
+{
+    "name": "Kelkit Zilli Kilimi",
+    "description": "Kelkit Zilli Kilimi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/37b6fb4f-e0f7-4005-b0dd-25e209ebdcd5.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1561064400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38406
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar ve kilimler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gümüşhane"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

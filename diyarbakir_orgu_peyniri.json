@@ -1,0 +1,25 @@
+{
+    "name": "Diyarbakır Örgü Peyniri",
+    "description": "Diyarbakır Örgü Peyniri",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/170.JPG",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1361484000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38018
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Peynirler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Diyarbakır"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

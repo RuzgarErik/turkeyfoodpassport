@@ -1,0 +1,25 @@
+{
+    "name": "Kavacık Üzümü",
+    "description": "Kavacık Üzümü",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/4eea4549-b069-4227-af05-50d85d8b92b8.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1576789200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38553
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "İzmir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Gaziantep Doğrama/Antep Doğrama",
+    "description": "Gaziantep Doğrama/Antep Doğrama",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/4cbd2589-df18-45c2-a5f7-599acf101298.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1621026000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2225
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

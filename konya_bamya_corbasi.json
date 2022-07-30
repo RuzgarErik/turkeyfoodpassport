@@ -1,0 +1,25 @@
+{
+    "name": "Konya Bamya Çorbası",
+    "description": "Konya Bamya Çorbası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d5961861-474a-45fe-9ba8-78cd986c5fac.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1613595600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1783
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Konya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

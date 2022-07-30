@@ -1,0 +1,25 @@
+{
+    "name": "Oltu Taşı",
+    "description": "Oltu Taşı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/dad77eca-b404-4182-851f-172108790c09.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1448575200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38063
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Erzurum"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

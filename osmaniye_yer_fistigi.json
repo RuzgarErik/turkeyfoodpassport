@@ -1,0 +1,25 @@
+{
+    "name": "Osmaniye Yer Fıstığı",
+    "description": "Osmaniye Yer Fıstığı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/54.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1055883600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37909
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Osmaniye"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

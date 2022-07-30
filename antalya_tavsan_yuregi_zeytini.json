@@ -1,0 +1,25 @@
+{
+    "name": "Antalya Tavşan Yüreği Zeytini",
+    "description": "Antalya Tavşan Yüreği Zeytini",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/384.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1536181200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38121
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Antalya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

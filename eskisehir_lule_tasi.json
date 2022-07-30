@@ -1,0 +1,25 @@
+{
+    "name": "Eskişehir Lüle Taşı",
+    "description": "Eskişehir Lüle Taşı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/8a42d4f5-a49b-4d63-acc5-ffd32de3aa9f.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 945900000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37890
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Eskişehir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

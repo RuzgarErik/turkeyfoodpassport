@@ -1,0 +1,25 @@
+{
+    "name": "Bozkır Tahini",
+    "description": "Bozkır Tahini",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/70fc7866-53eb-402e-a5b1-72ed2b92d98d.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1620680400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 662
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Konya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Aksaray Tulum Kebabı",
+    "description": "Aksaray Tulum Kebabı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0fe38b16-a7e9-4e84-a4a4-cf4baf4ae91c.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1550178000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38440
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Aksaray"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

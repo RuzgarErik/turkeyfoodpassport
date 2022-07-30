@@ -1,0 +1,25 @@
+{
+    "name": "Adapazarı Islama Köftesi",
+    "description": "Adapazarı Islama Köftesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/167.JPG",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1357596000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38012
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Sakarya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Çankırı Sarımsaklı Et",
+    "description": "Çankırı Sarımsaklı Et",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/7c23fa20-e1dd-4176-8cf6-be0b5484cebe.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1564002000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38349
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Çankırı"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

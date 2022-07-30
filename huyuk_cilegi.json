@@ -1,0 +1,25 @@
+{
+    "name": "Hüyük Çileği",
+    "description": "Hüyük Çileği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/1fce496f-ba99-4f5a-9667-6080f715208f.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1618261200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1882
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Konya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Samandağ Ney-i",
+    "description": "Samandağ Ney-i",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/be16c606-058e-4b10-aacc-1c286fee9280.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1606078800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 221
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar, kilimler ve dokumalar dışında kalan el sanatı ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Hatay"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

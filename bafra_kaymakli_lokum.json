@@ -1,0 +1,25 @@
+{
+    "name": "Bafra Kaymaklı Lokum",
+    "description": "Bafra Kaymaklı Lokum",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0a70ce11-2925-4eda-8fcc-618b6c7109e3.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1580158800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38424
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Çikolata, şekerleme ve türevi ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Samsun"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

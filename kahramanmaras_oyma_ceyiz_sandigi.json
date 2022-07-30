@@ -1,0 +1,25 @@
+{
+    "name": "Kahramanmaraş Oyma Çeyiz Sandığı",
+    "description": "Kahramanmaraş Oyma Çeyiz Sandığı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/8596c555-247a-4fab-832f-825cb5f4c043.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1514235600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38221
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar, kilimler ve dokumalar dışında kalan el sanatı ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kahramanmaraş"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

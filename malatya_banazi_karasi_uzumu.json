@@ -1,0 +1,25 @@
+{
+    "name": "Malatya Banazı Karası Üzümü",
+    "description": "Malatya Banazı Karası Üzümü",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c0b6def0-a512-4d3d-b01b-4c22f388bf51.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1616706000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38119
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Malatya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

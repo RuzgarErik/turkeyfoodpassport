@@ -1,0 +1,25 @@
+{
+    "name": "Afyon Kebabı",
+    "description": "Afyon Kebabı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/30cbcea7-f162-4db6-8dd5-013952faf326.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1619643600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2073
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Afyonkarahisar"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

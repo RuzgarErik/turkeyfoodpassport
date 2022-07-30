@@ -1,0 +1,25 @@
+{
+    "name": "Murtuğa",
+    "description": "Murtuğa",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/243.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1511384400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38298
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Van"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

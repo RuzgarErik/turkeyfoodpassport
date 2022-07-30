@@ -1,0 +1,25 @@
+{
+    "name": "Urfa (Şanlıurfa) Üzlemeli Pilavı",
+    "description": "Urfa (Şanlıurfa) Üzlemeli Pilavı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/246.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1511816400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38335
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Şanlıurfa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

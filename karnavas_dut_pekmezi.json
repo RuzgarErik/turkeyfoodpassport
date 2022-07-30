@@ -1,0 +1,25 @@
+{
+    "name": "Karnavas Dut Pekmezi",
+    "description": "Karnavas Dut Pekmezi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e2441d27-16f6-415c-bc48-11ec306f2b10.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1244494800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37962
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Erzurum"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

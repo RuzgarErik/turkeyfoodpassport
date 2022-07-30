@@ -1,0 +1,25 @@
+{
+    "name": "Şanlıurfa Sadeyağı (Urfa Yağı)",
+    "description": "Şanlıurfa Sadeyağı (Urfa Yağı)",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/363.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1530824400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38155
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Tereyağı dâhil katı ve sıvı yağlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Şanlıurfa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Giresun Fındık Ezmesi",
+    "description": "Giresun Fındık Ezmesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/adc6ce27-1be9-476d-b3d9-3b9ecb489ea8.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1598302800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38642
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Çikolata, şekerleme ve türevi ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Giresun"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

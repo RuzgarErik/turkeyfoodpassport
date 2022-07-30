@@ -1,0 +1,25 @@
+{
+    "name": "Azdavay Yöresel Giysileri",
+    "description": "Azdavay Yöresel Giysileri",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ec4572f1-cd3b-44e0-8257-f63e92d07be9.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1605128400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1844
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar, kilimler ve dokumalar dışında kalan el sanatı ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kastamonu"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

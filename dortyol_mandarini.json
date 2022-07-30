@@ -1,0 +1,25 @@
+{
+    "name": "Dörtyol Mandarini",
+    "description": "Dörtyol Mandarini",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c980030b-8e51-40d4-b5a9-593893cfa52a.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1572469200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1082
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Hatay"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

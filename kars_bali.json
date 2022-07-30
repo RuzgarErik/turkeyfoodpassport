@@ -1,0 +1,25 @@
+{
+    "name": "Kars Balı",
+    "description": "Kars Balı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/374.JPG",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1533848400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38240
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Bal"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kars"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Çanakkale El Halısı",
+    "description": "Çanakkale El Halısı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/6100951d-7926-4f2a-8ec7-152e5a88cfc1.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 879458400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37882
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar ve kilimler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Çanakkale"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

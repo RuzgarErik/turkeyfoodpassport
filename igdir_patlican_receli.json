@@ -1,0 +1,25 @@
+{
+    "name": "Iğdır Patlıcan Reçeli",
+    "description": "Iğdır Patlıcan Reçeli",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/3e36ccdc-f230-4144-bac4-80364443c7f2.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1639947600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1942
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Iğdır"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

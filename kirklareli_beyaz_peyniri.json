@@ -1,0 +1,25 @@
+{
+    "name": "Kırklareli Beyaz Peyniri",
+    "description": "Kırklareli Beyaz Peyniri",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/22a81a76-6be3-4e4c-b77e-0b9a5f776431.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1608670800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38598
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Peynirler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kırklareli"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

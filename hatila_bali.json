@@ -1,0 +1,25 @@
+{
+    "name": "Hatila Balı",
+    "description": "Hatila Balı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/da66d682-187f-4f2e-8683-03c57c48dd11.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1631826000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3198
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Bal"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Artvin"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

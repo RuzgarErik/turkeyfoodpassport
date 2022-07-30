@@ -1,0 +1,25 @@
+{
+    "name": "Manavgat Altın Susamı",
+    "description": "Manavgat Altın Susamı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/4701e00c-5a64-4ebc-a537-5f3ee0224287.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1616706000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2165
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Antalya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

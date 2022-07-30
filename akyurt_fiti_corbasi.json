@@ -1,0 +1,25 @@
+{
+    "name": "Akyurt Fıtı Çorbası",
+    "description": "Akyurt Fıtı Çorbası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/55f3cc7f-2933-4ef8-8e65-13743a4cdfa6.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1637701200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3363
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Ankara"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

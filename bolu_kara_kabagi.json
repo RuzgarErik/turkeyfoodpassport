@@ -1,0 +1,25 @@
+{
+    "name": "Bolu Kara Kabağı",
+    "description": "Bolu Kara Kabağı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/a67f651b-8edb-4fb3-beb3-372b069800d0.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1633899600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3163
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bolu"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

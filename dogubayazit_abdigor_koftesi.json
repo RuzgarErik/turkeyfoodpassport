@@ -1,0 +1,25 @@
+{
+    "name": "Doğubayazıt Abdigör Köftesi",
+    "description": "Doğubayazıt Abdigör Köftesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/310.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1514149200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38333
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Ağrı"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

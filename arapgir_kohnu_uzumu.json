@@ -1,0 +1,25 @@
+{
+    "name": "Arapgir Köhnü Üzümü",
+    "description": "Arapgir Köhnü Üzümü",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/09186706-fd76-4a95-b3c6-bbdfdfe8b964.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1214254800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37976
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Malatya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

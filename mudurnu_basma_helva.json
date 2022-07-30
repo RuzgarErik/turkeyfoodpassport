@@ -1,0 +1,25 @@
+{
+    "name": "Mudurnu Basma Helva",
+    "description": "Mudurnu Basma Helva",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ff1ffefa-f770-4baf-984d-b9d2361ca544.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1608670800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 845
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bolu"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

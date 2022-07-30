@@ -1,0 +1,25 @@
+{
+    "name": "Güney Ege Zeytinyağları",
+    "description": "Güney Ege Zeytinyağları",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/48900299-bbe1-48c9-b948-aa2c07051308.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1146085200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37927
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Tereyağı dâhil katı ve sıvı yağlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "İzmir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

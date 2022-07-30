@@ -1,0 +1,25 @@
+{
+    "name": "Geleneksel Türk Kayısı Likörü",
+    "description": "Geleneksel Türk Kayısı Likörü",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/fc02ec68-3d23-4622-9b84-ca84b8e42adf.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1226872800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37956
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Biralar ve diğer alkollü içkiler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Türkiye"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

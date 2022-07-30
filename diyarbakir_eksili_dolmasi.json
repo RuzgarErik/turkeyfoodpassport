@@ -1,0 +1,25 @@
+{
+    "name": "Diyarbakır Ekşili Dolması",
+    "description": "Diyarbakır Ekşili Dolması",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ac8e5d61-feb3-408a-8353-52ad134a4e3d.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1642971600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2908
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Diyarbakır"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

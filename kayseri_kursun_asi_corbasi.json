@@ -1,0 +1,25 @@
+{
+    "name": "Kayseri Kurşun Aşı Çorbası",
+    "description": "Kayseri Kurşun Aşı Çorbası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/3130f51e-ed41-4e1d-a154-138e0ae37478.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1637528400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 4363
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kayseri"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

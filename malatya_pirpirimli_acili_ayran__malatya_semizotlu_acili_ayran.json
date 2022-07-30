@@ -1,0 +1,25 @@
+{
+    "name": "Malatya Pirpirimli Acılı Ayran / Malatya Semizotlu Acılı Ayran",
+    "description": "Malatya Pirpirimli Acılı Ayran / Malatya Semizotlu Acılı Ayran",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/11bfcaaa-8579-4281-b295-83a99e27d9ae.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1649624400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38608
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Alkolsüz içecekler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Malatya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

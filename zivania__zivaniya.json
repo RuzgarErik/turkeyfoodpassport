@@ -1,0 +1,25 @@
+{
+    "name": "Zivania / Zivaniya",
+    "description": "Zivania / Zivaniya",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/8e83e86c-09c0-4303-92c0-f3d2a51c6641.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1582750800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38287
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Biralar ve diğer alkollü içkiler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Yurtdışı"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

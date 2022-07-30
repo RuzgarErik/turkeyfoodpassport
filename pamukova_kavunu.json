@@ -1,0 +1,25 @@
+{
+    "name": "Pamukova Kavunu",
+    "description": "Pamukova Kavunu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e416dec8-9c77-4c5e-9f3a-74db52a86948.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1627333200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2304
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Sakarya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

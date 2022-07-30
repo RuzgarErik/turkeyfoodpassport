@@ -1,0 +1,25 @@
+{
+    "name": "İspir Kaymağı",
+    "description": "İspir Kaymağı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/88a55ecc-0ac0-4ac6-afb0-89ed614e7a93.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1558472400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38276
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Peynirler ve tereyağı dışında kalan süt ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Erzurum"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

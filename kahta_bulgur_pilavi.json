@@ -1,0 +1,25 @@
+{
+    "name": "Kahta Bulgur Pilavı",
+    "description": "Kahta Bulgur Pilavı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/a7c3b699-4811-4d63-abe3-e129b3e3172c.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1616533200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1663
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Adıyaman"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

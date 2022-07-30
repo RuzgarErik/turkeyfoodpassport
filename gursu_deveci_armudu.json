@@ -1,0 +1,25 @@
+{
+    "name": "Gürsu Deveci Armudu",
+    "description": "Gürsu Deveci Armudu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/02d734c6-bed8-4094-bf5d-e22488cb2397.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1568062800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 84
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bursa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

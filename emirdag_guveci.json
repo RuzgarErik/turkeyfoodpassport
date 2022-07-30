@@ -1,0 +1,25 @@
+{
+    "name": "Emirdağ Güveci",
+    "description": "Emirdağ Güveci",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f5e9e858-beef-4eef-aaee-344d41043b0d.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1611003600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1846
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Afyonkarahisar"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

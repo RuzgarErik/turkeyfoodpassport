@@ -1,0 +1,25 @@
+{
+    "name": "Malatya Yassı Kadayıfı",
+    "description": "Malatya Yassı Kadayıfı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5adb05a4-bfbe-407a-a70c-a3ac9faa6cae.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1656968400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 5490
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Malatya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

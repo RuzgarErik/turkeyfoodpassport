@@ -1,0 +1,25 @@
+{
+    "name": "Gaziantep Haylan Kabağı Dolması / Antep Haylan Kabağı Dolması",
+    "description": "Gaziantep Haylan Kabağı Dolması / Antep Haylan Kabağı Dolması",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/70622155-7bd5-4eb9-aa81-3e3d7c496400.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1649278800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2262
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

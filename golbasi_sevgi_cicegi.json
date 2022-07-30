@@ -1,0 +1,25 @@
+{
+    "name": "Gölbaşı Sevgi Çiçeği",
+    "description": "Gölbaşı Sevgi Çiçeği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/496d1534-003c-483d-8f55-a5e12e75ae81.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1549227600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38499
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Ankara"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

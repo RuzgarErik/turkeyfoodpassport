@@ -1,0 +1,25 @@
+{
+    "name": "Antakya Künefesi",
+    "description": "Antakya Künefesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/101.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1220562000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37968
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Hatay"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

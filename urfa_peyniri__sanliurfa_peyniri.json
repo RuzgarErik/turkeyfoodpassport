@@ -1,0 +1,25 @@
+{
+    "name": "Urfa Peyniri / Şanlıurfa Peyniri",
+    "description": "Urfa Peyniri / Şanlıurfa Peyniri",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/4c4c99ad-07eb-4398-94d3-d18116892ca0.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1627333200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38631
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Peynirler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Şanlıurfa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Durağan Çemberi",
+    "description": "Durağan Çemberi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d2d333ea-c3d7-4073-a543-e69c4f35a044.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1627938000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38661
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Dokumalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Sinop"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

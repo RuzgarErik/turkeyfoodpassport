@@ -1,0 +1,25 @@
+{
+    "name": "Kastamonu Tiridi / Kastamonu Simit Tiridi",
+    "description": "Kastamonu Tiridi / Kastamonu Simit Tiridi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/874e94d3-b602-49ce-8e06-f822842a01b2.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1576443600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38467
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kastamonu"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

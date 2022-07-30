@@ -1,0 +1,25 @@
+{
+    "name": "Arapgir Tandır Kebabı",
+    "description": "Arapgir Tandır Kebabı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ed5c8124-fad6-4f9a-9e7d-b9eb342d44e1.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1619384400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2763
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Malatya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

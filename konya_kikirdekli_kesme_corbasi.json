@@ -1,0 +1,25 @@
+{
+    "name": "Konya Kikirdekli Kesme Çorbası",
+    "description": "Konya Kikirdekli Kesme Çorbası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/52f17ea9-01e9-4877-a95a-da29d14dd333.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1629406800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2609
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Konya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

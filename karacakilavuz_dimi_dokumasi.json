@@ -1,0 +1,25 @@
+{
+    "name": "Karacakılavuz Dimi Dokuması",
+    "description": "Karacakılavuz Dimi Dokuması",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d454d314-c508-42d0-b24f-eb058c45bd3b.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1572382800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38592
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Dokumalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Tekirdağ"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

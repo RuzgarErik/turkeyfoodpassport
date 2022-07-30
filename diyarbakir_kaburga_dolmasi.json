@@ -1,0 +1,25 @@
+{
+    "name": "Diyarbakır Kaburga Dolması",
+    "description": "Diyarbakır Kaburga Dolması",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/810c7183-3f07-45fa-b358-b2fb74b423eb.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1639947600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2913
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Diyarbakır"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

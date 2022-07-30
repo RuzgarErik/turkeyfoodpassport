@@ -1,0 +1,25 @@
+{
+    "name": "Vakfıkebir Külek Peyniri",
+    "description": "Vakfıkebir Külek Peyniri",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/35399f8e-8676-45a5-a768-4e9dd6dfcf85.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1621890000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38584
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Peynirler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Trabzon"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

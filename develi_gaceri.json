@@ -1,0 +1,25 @@
+{
+    "name": "Develi Gaceri",
+    "description": "Develi Gaceri",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/defa7719-7430-409c-bcb9-a0a01b5e1b57.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1655845200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3345
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kayseri"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

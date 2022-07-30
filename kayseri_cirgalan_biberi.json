@@ -1,0 +1,25 @@
+{
+    "name": "Kayseri Cırgalan Biberi",
+    "description": "Kayseri Cırgalan Biberi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ae425f59-ca98-485e-b0c0-576ece522856.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1601931600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 82
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yiyecekler için çeşni / lezzet vericiler, soslar ve tuz"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kayseri"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Konya Kıtırlı Mantı",
+    "description": "Konya Kıtırlı Mantı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e9e2e0b1-0959-4462-8995-e029ffd64fed.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1633035600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2646
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Konya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

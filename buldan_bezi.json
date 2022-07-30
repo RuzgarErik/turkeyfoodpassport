@@ -1,0 +1,25 @@
+{
+    "name": "Buldan Bezi",
+    "description": "Buldan Bezi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/8b12ad33-012d-4a29-b217-ec409caf15ec.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1457906400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38021
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Dokumalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Denizli"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

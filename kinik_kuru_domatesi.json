@@ -1,0 +1,25 @@
+{
+    "name": "Kınık Kuru Domatesi",
+    "description": "Kınık Kuru Domatesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/dce265e2-0790-45e9-b2de-960e3cb2e5c9.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1650834000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 4462
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş İşlenmemiş Et Ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "İzmir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

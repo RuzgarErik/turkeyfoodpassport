@@ -1,0 +1,25 @@
+{
+    "name": "Akşehir Peynir Baklavası",
+    "description": "Akşehir Peynir Baklavası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/39e73f25-4120-4c26-9384-405ebc0a9d0d.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1639947600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38506
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Konya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

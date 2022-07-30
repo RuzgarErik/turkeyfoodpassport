@@ -1,0 +1,25 @@
+{
+    "name": "Ödemiş Köftesi",
+    "description": "Ödemiş Köftesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d00ba12d-759e-4bf9-b9a1-90b4b70817f0.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1618174800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1442
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "İzmir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

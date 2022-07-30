@@ -1,0 +1,25 @@
+{
+    "name": "Diyarbakır Badem Ezmesi / Diyarbakır Lebzüniyesi",
+    "description": "Diyarbakır Badem Ezmesi / Diyarbakır Lebzüniyesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5e20150b-fcf5-4d43-8b4c-b44667bf32cc.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1633899600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2865
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Çikolata, şekerleme ve türevi ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Diyarbakır"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

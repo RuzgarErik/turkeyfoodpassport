@@ -1,0 +1,25 @@
+{
+    "name": "Malatya Tevek Yaprağı Sarması",
+    "description": "Malatya Tevek Yaprağı Sarması",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/bc7eb8f0-b0dc-4538-808a-af08ce0f4019.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1653253200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 4182
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Malatya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Konya Kakırdaklı Börek",
+    "description": "Konya Kakırdaklı Börek",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/103f7c26-b0dd-4338-af32-637b0ea5ff5b.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1635195600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2668
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Konya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

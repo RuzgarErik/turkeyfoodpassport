@@ -1,0 +1,25 @@
+{
+    "name": "Çatalzeytin Fındık Şekeri",
+    "description": "Çatalzeytin Fındık Şekeri",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/59ca8bb2-98b0-4896-86db-5829e72306cf.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1619211600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38554
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Çikolata, şekerleme ve türevi ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kastamonu"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

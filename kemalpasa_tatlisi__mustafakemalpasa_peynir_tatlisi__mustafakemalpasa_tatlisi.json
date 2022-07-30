@@ -1,0 +1,25 @@
+{
+    "name": "Kemalpaşa Tatlısı / Mustafakemalpaşa Peynir Tatlısı / Mustafakemalpaşa Tatlısı",
+    "description": "Kemalpaşa Tatlısı / Mustafakemalpaşa Peynir Tatlısı / Mustafakemalpaşa Tatlısı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/96e55e15-4e64-4867-ac04-adbb818e993a.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1623963600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38383
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bursa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

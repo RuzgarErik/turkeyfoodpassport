@@ -1,0 +1,25 @@
+{
+    "name": "Kızılcahamam Bazlaması",
+    "description": "Kızılcahamam Bazlaması",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/400.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1544734800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38236
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Ankara"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

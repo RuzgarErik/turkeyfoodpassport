@@ -1,0 +1,25 @@
+{
+    "name": "Bayburt Ekşi Lahana",
+    "description": "Bayburt Ekşi Lahana",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/af59b6e4-61ff-4251-80b3-9d0fbac6bf1c.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1610312400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1543
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bayburt"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

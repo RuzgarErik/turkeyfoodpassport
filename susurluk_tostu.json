@@ -1,0 +1,25 @@
+{
+    "name": "Susurluk Tostu",
+    "description": "Susurluk Tostu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/239.JPG",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1511125200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38087
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Balıkesir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

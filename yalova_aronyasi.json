@@ -1,0 +1,25 @@
+{
+    "name": "Yalova Aronyası",
+    "description": "Yalova Aronyası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b069d998-cfab-4629-8748-0b007fe45e2c.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1624482000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1182
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Yalova"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

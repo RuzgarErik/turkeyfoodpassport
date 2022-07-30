@@ -1,0 +1,25 @@
+{
+    "name": "Malatya Köpük Pestili",
+    "description": "Malatya Köpük Pestili",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c8b2a56e-a205-4f3d-9e75-d2fa3912ba35.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1643144400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38597
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Çikolata, şekerleme ve türevi ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Malatya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

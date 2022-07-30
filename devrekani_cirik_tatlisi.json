@@ -1,0 +1,25 @@
+{
+    "name": "Devrekani Cırık Tatlısı",
+    "description": "Devrekani Cırık Tatlısı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/84113439-f2a6-4e24-b1e6-7efba91d3d9e.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1602190800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38409
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kastamonu"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

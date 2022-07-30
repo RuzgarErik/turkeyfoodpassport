@@ -1,0 +1,25 @@
+{
+    "name": "Arapgir Pohmutu /Pohmut",
+    "description": "Arapgir Pohmutu /Pohmut",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/3ad3fdbb-3a5d-4099-8094-198b380c89f1.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1642539600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2542
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Çikolata, şekerleme ve türevi ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Malatya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

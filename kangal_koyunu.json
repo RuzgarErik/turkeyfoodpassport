@@ -1,0 +1,25 @@
+{
+    "name": "Kangal Koyunu",
+    "description": "Kangal Koyunu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/175aed9d-93cf-4544-a780-fb919349f72a.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1049662800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37913
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Sivas"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

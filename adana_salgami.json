@@ -1,0 +1,25 @@
+{
+    "name": "Adana Şalgamı",
+    "description": "Adana Şalgamı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/9753032a-6b0c-41be-ab66-5f13dbe32d2c.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1583442000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38147
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Alkolsüz içecekler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Adana"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

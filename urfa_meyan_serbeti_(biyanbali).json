@@ -1,0 +1,25 @@
+{
+    "name": "Urfa Meyan Şerbeti (Biyanbalı)",
+    "description": "Urfa Meyan Şerbeti (Biyanbalı)",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/202.JPG",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1481144400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38098
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Alkolsüz içecekler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Şanlıurfa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

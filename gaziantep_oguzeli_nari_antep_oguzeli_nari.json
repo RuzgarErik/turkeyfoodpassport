@@ -1,0 +1,25 @@
+{
+    "name": "Gaziantep Oğuzeli Narı /Antep Oğuzeli Narı",
+    "description": "Gaziantep Oğuzeli Narı /Antep Oğuzeli Narı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/bc634653-4279-4280-ae59-b0eff9935c94.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1567371600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38401
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

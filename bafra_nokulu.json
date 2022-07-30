@@ -1,0 +1,25 @@
+{
+    "name": "Bafra Nokulu",
+    "description": "Bafra Nokulu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/227.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1509915600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38068
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Samsun"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

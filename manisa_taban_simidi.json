@@ -1,0 +1,25 @@
+{
+    "name": "Manisa Taban Simidi",
+    "description": "Manisa Taban Simidi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/349.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1525640400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38023
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Manisa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

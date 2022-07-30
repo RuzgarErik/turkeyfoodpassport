@@ -1,0 +1,25 @@
+{
+    "name": "Konya Fırın Kebabı / Konya Fürun Kebabı",
+    "description": "Konya Fırın Kebabı / Konya Fürun Kebabı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/84dbb76a-3003-48e9-9737-ccd289769f4c.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1652821200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2567
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Konya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

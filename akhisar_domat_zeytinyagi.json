@@ -1,0 +1,25 @@
+{
+    "name": "Akhisar Domat Zeytinyağı",
+    "description": "Akhisar Domat Zeytinyağı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b7b13c95-7771-4071-83a7-46406c9b5a73.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1648414800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38403
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Tereyağı dâhil katı ve sıvı yağlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Manisa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

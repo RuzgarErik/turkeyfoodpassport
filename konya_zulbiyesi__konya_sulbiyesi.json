@@ -1,0 +1,25 @@
+{
+    "name": "Konya Zülbiyesi / Konya Sülbiyesi",
+    "description": "Konya Zülbiyesi / Konya Sülbiyesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f8d5c2d8-cda7-401f-a4d6-1dc3dfe04d2b.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1642626000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2587
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Konya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Gümüşhane Deleme Peyniri",
+    "description": "Gümüşhane Deleme Peyniri",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ece8b2a3-ec0e-411d-96b8-4afccd8b1d25.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1615928400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38535
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Peynirler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gümüşhane"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

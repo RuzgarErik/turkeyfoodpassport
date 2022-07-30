@@ -1,0 +1,25 @@
+{
+    "name": "Çubuk Vişnesi",
+    "description": "Çubuk Vişnesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d9b1da5e-4f68-47cf-bf49-af05b434582e.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1650229200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 4383
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Ankara"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Korkuteli Karyağdı Armudu",
+    "description": "Korkuteli Karyağdı Armudu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/369.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1532898000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38437
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Antalya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

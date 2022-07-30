@@ -1,0 +1,25 @@
+{
+    "name": "Isparta Gülü",
+    "description": "Isparta Gülü",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b988196a-48b3-4872-a995-f24854137b76.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1160686800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37964
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Isparta"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Keşan Siğilli Bamyası",
+    "description": "Keşan Siğilli Bamyası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b714ca5e-ce12-417f-a016-376008f6bbc9.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1607288400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1502
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Edirne"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

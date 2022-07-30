@@ -1,0 +1,25 @@
+{
+    "name": "Ezo Gelin Çorbası",
+    "description": "Ezo Gelin Çorbası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/08f05d41-d6cc-483d-ae7d-3310b22f9705.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1599685200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 282
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": ""
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Ortaklar Çöp Şiş",
+    "description": "Ortaklar Çöp Şiş",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d176cfbd-73d0-403f-8f14-210e89161241.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1606078800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1634
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Aydın"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

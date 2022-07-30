@@ -1,0 +1,25 @@
+{
+    "name": "Urfa (Şanlıurfa) Külünçesi",
+    "description": "Urfa (Şanlıurfa) Külünçesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/297.JPG",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1514322000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38326
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Şanlıurfa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

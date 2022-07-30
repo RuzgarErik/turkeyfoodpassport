@@ -1,0 +1,25 @@
+{
+    "name": "Hopa Laz Böreği",
+    "description": "Hopa Laz Böreği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/7099acc4-c735-41d7-b0af-79547ba06f68.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1546894800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38377
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Artvin"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

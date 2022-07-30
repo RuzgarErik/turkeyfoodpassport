@@ -1,0 +1,25 @@
+{
+    "name": "Tokat Bileziği / Tokat Mengil Kolluğu",
+    "description": "Tokat Bileziği / Tokat Mengil Kolluğu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/cefba917-b72d-4f0f-84d9-82d27f889332.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1628197200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3564
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar, kilimler ve dokumalar dışında kalan el sanatı ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Tokat"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Çankırı Yoka (İnce) Ekmek Muskası",
+    "description": "Çankırı Yoka (İnce) Ekmek Muskası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d29bbf46-2d1c-481e-994a-4678509df921.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1583182800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38348
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Çankırı"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

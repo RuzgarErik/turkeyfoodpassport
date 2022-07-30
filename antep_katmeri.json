@@ -1,0 +1,25 @@
+{
+    "name": "Antep Katmeri",
+    "description": "Antep Katmeri",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/264.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1512594000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38153
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

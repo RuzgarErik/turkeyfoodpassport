@@ -1,0 +1,25 @@
+{
+    "name": "Bursa İpeği / Bursa İpek İpliği",
+    "description": "Bursa İpeği / Bursa İpek İpliği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/dfaf28d3-a0bf-402f-a00b-24bcce3f0d01.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1553806800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38165
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bursa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

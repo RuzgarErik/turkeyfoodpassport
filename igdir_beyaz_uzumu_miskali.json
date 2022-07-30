@@ -1,0 +1,25 @@
+{
+    "name": "Iğdır Beyaz Üzümü /Miskalı",
+    "description": "Iğdır Beyaz Üzümü /Miskalı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/95f91ea7-68f3-4cab-a379-f704c1edb0b7.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1628456400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1682
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Iğdır"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

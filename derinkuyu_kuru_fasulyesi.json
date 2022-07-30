@@ -1,0 +1,25 @@
+{
+    "name": "Derinkuyu Kuru Fasulyesi",
+    "description": "Derinkuyu Kuru Fasulyesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/72e0f2d1-802d-481f-953e-e6aa6919b362.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1637528400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3283
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Nevşehir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

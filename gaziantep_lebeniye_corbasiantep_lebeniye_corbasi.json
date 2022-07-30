@@ -1,0 +1,25 @@
+{
+    "name": "Gaziantep Lebeniye Çorbası/Antep Lebeniye Çorbası",
+    "description": "Gaziantep Lebeniye Çorbası/Antep Lebeniye Çorbası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5bf8a80a-7f4c-487a-88dc-8be5944e1b69.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1621026000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2226
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

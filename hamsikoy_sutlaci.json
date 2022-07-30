@@ -1,0 +1,25 @@
+{
+    "name": "Hamsiköy Sütlacı",
+    "description": "Hamsiköy Sütlacı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/53661dbf-5cb4-4e40-ab46-6c01604ebc38.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1512075600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38380
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Trabzon"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

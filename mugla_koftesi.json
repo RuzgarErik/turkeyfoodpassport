@@ -1,0 +1,25 @@
+{
+    "name": "Muğla Köftesi",
+    "description": "Muğla Köftesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/347.JPG",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1523912400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38372
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Muğla"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

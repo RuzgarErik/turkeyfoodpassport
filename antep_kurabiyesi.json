@@ -1,0 +1,25 @@
+{
+    "name": "Antep Kurabiyesi",
+    "description": "Antep Kurabiyesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/8d50a00b-ea4b-48b2-8418-03f94d1f1f5a.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1560805200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38510
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

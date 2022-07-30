@@ -1,0 +1,25 @@
+{
+    "name": "Kargı Tulum Peyniri",
+    "description": "Kargı Tulum Peyniri",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/decd329d-1776-4599-bd4b-994675e209c6.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1635195600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38610
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Peynirler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Çorum"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Gaziantep/Antep Sebzeli Kebap",
+    "description": "Gaziantep/Antep Sebzeli Kebap",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/aae306f6-a704-44fe-b7de-b5000ae8916a.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1643576400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 4562
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Mudurnu Kaşık Sapı",
+    "description": "Mudurnu Kaşık Sapı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/edb8f4c6-fe64-4b4c-8985-fe974e6c8520.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1622149200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 843
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bolu"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

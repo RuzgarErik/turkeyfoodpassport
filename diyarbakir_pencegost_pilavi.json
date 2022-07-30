@@ -1,0 +1,25 @@
+{
+    "name": "Diyarbakır Pencegoşt Pilavı",
+    "description": "Diyarbakır Pencegoşt Pilavı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/32d27f4a-1234-47b8-99b5-5d1a7dab0ab4.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1652216400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2880
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Diyarbakır"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

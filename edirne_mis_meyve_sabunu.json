@@ -1,0 +1,25 @@
+{
+    "name": "Edirne Mis Meyve Sabunu",
+    "description": "Edirne Mis Meyve Sabunu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/691e534d-f4fc-4edb-88d8-9fd25c85da66.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1567976400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38078
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Edirne"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

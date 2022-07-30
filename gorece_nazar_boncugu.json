@@ -1,0 +1,25 @@
+{
+    "name": "Görece Nazar Boncuğu",
+    "description": "Görece Nazar Boncuğu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/70.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1119474000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37925
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar, kilimler ve dokumalar dışında kalan el sanatı ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "İzmir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

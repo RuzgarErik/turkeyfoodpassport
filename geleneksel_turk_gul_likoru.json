@@ -1,0 +1,25 @@
+{
+    "name": "Geleneksel Türk Gül Likörü",
+    "description": "Geleneksel Türk Gül Likörü",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/199e71da-f14a-44e1-9870-b9a2e3baf053.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1221426000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37954
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Biralar ve diğer alkollü içkiler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Türkiye"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

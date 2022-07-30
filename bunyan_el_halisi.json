@@ -1,0 +1,25 @@
+{
+    "name": "Bünyan El Halısı",
+    "description": "Bünyan El Halısı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d6b7ed5c-0f9d-4b01-8b30-3eebbc7d77aa.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 879458400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37868
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar ve kilimler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kayseri"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

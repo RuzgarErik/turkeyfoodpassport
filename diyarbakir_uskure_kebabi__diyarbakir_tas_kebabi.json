@@ -1,0 +1,25 @@
+{
+    "name": "Diyarbakır Üsküre Kebabı / Diyarbakır Tas Kebabı",
+    "description": "Diyarbakır Üsküre Kebabı / Diyarbakır Tas Kebabı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/3cf672b0-9e1b-476b-8ae7-9ebff960dfbb.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1629406800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2919
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Diyarbakır"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

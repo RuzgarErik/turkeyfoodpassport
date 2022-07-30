@@ -1,0 +1,25 @@
+{
+    "name": "Gürün Dut Pekmezi",
+    "description": "Gürün Dut Pekmezi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/7207304f-0ee2-480a-a204-e34988bf673f.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1632949200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38436
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Sivas"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

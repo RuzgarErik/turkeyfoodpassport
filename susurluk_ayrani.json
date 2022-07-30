@@ -1,0 +1,25 @@
+{
+    "name": "Susurluk Ayranı",
+    "description": "Susurluk Ayranı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/238.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1511125200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38086
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Alkolsüz içecekler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Balıkesir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

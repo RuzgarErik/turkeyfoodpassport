@@ -1,0 +1,25 @@
+{
+    "name": "Ayvalık Zeytinyağı",
+    "description": "Ayvalık Zeytinyağı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f6ea9b58-f8dc-4505-8023-1da67e328582.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1181509200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37940
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Tereyağı dâhil katı ve sıvı yağlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Balıkesir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

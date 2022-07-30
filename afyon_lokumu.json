@@ -1,0 +1,25 @@
+{
+    "name": "Afyon Lokumu",
+    "description": "Afyon Lokumu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/9fbc36d7-3989-44d2-bc57-dc439b03b896.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1611522000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38311
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Çikolata, şekerleme ve türevi ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Afyonkarahisar"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

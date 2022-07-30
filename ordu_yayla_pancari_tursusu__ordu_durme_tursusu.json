@@ -1,0 +1,25 @@
+{
+    "name": "Ordu Yayla Pancarı Turşusu / Ordu Dürme Turşusu",
+    "description": "Ordu Yayla Pancarı Turşusu / Ordu Dürme Turşusu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/269.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1513285200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38108
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Ordu"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

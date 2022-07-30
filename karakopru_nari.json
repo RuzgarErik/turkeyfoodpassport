@@ -1,0 +1,25 @@
+{
+    "name": "Karaköprü Narı",
+    "description": "Karaköprü Narı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/698be03b-15f3-4d84-95e1-0821a8ba6b93.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1566421200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38478
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Şanlıurfa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

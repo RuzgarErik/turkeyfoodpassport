@@ -1,0 +1,25 @@
+{
+    "name": "Kurucaşile Taş Sac",
+    "description": "Kurucaşile Taş Sac",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/7c5c5693-c6b8-43c2-8570-3adcf329960f.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1615323600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2462
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bartın"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

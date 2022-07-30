@@ -1,0 +1,25 @@
+{
+    "name": "Mersin Kerebici",
+    "description": "Mersin Kerebici",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/2375387b-ea2f-400e-8ac8-a7ece927fc35.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1554930000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38268
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Mersin"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

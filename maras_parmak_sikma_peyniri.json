@@ -1,0 +1,25 @@
+{
+    "name": "Maraş Parmak /Sıkma Peyniri",
+    "description": "Maraş Parmak /Sıkma Peyniri",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/4ad3eddd-f659-4d75-b81a-9a6cec914b11.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1618606800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38218
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Peynirler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kahramanmaraş"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

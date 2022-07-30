@@ -1,0 +1,25 @@
+{
+    "name": "Tosya Bıçkısı",
+    "description": "Tosya Bıçkısı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/377.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1534280400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38451
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar, kilimler ve dokumalar dışında kalan el sanatı ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kastamonu"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

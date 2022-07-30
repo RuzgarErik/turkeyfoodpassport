@@ -1,0 +1,25 @@
+{
+    "name": "Sivas Katmeri",
+    "description": "Sivas Katmeri",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/402.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1545771600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38290
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Sivas"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

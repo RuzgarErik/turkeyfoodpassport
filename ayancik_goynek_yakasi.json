@@ -1,0 +1,25 @@
+{
+    "name": "Ayancık Göynek Yakası",
+    "description": "Ayancık Göynek Yakası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/6c905b35-b821-4ce8-b579-64637aa4e668.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1510693200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38082
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Dokumalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Sinop"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Erzurum Mantısı /Erzurum Hıngeli",
+    "description": "Erzurum Mantısı /Erzurum Hıngeli",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/203d88ae-8d7d-4a3b-aa9e-a8973fd6a088.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1628629200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3124
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Erzurum"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

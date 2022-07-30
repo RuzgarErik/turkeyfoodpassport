@@ -1,0 +1,25 @@
+{
+    "name": "Konya Sac Arası",
+    "description": "Konya Sac Arası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e1d2ed5d-8760-49c7-87a8-b46e31390318.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1633899600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2575
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Konya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

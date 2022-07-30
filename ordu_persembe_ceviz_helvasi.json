@@ -1,0 +1,25 @@
+{
+    "name": "Ordu Perşembe Ceviz Helvası",
+    "description": "Ordu Perşembe Ceviz Helvası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/592b4f3f-eed2-4095-8c87-a3b309ea8d8a.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1513544400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38052
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Ordu"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

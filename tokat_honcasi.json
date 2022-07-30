@@ -1,0 +1,25 @@
+{
+    "name": "Tokat Honçası",
+    "description": "Tokat Honçası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/cb4604b1-7b13-4760-8093-b92628b61aa4.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1635195600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3565
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar, kilimler ve dokumalar dışında kalan el sanatı ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Tokat"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

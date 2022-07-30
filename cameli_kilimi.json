@@ -1,0 +1,25 @@
+{
+    "name": "Çameli Kilimi",
+    "description": "Çameli Kilimi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/9922edbe-62dc-416a-962f-14af1c938d82.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1606078800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 141
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar ve kilimler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Denizli"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

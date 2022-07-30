@@ -1,0 +1,25 @@
+{
+    "name": "Koyulhisar Domatesi",
+    "description": "Koyulhisar Domatesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f8f08fb3-d992-40d6-8699-44341e3c2964.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1611090000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38668
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Sivas"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

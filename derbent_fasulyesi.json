@@ -1,0 +1,25 @@
+{
+    "name": "Derbent Fasulyesi",
+    "description": "Derbent Fasulyesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e13be049-fc5e-4dc9-8e9d-2d39fd7eb798.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1638219600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1812
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Konya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

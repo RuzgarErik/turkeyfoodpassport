@@ -1,0 +1,25 @@
+{
+    "name": "Erzurum Kadayıf Dolması",
+    "description": "Erzurum Kadayıf Dolması",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/2de690d4-84a1-41c8-bb8a-b3d67b9e2568.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1340658000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38019
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Erzurum"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

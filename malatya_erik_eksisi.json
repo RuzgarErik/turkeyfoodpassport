@@ -1,0 +1,25 @@
+{
+    "name": "Malatya Erik Ekşisi",
+    "description": "Malatya Erik Ekşisi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/73aa060c-55b2-4966-8c4e-b56aebb99832.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1654808400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 5063
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yiyecekler için çeşni / lezzet vericiler, soslar ve tuz"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Malatya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

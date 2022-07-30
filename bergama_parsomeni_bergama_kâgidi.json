@@ -1,0 +1,25 @@
+{
+    "name": "Bergama Parşömeni/ Bergama Kâğıdı",
+    "description": "Bergama Parşömeni/ Bergama Kâğıdı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/2e00a29b-cac3-4da7-b64a-dc8a6b338723.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1623704400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1588
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "İzmir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

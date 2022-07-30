@@ -1,0 +1,25 @@
+{
+    "name": "İvrindi Kelle Peyniri",
+    "description": "İvrindi Kelle Peyniri",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/900ea6fc-ec53-49f7-9653-f83b42128e8c.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1644354000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3488
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Peynirler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Balıkesir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

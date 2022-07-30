@@ -1,0 +1,25 @@
+{
+    "name": "Soğanlı Bez Bebekleri",
+    "description": "Soğanlı Bez Bebekleri",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/64.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1104876000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37926
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar, kilimler ve dokumalar dışında kalan el sanatı ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kayseri"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

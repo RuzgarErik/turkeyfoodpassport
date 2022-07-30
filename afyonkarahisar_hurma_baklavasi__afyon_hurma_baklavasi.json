@@ -1,0 +1,25 @@
+{
+    "name": "Afyonkarahisar Hurma Baklavası / Afyon Hurma Baklavası",
+    "description": "Afyonkarahisar Hurma Baklavası / Afyon Hurma Baklavası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f9ed4974-8fd4-44d5-b5a4-880b4d484613.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1653253200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 4487
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Afyonkarahisar"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

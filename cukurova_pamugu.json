@@ -1,0 +1,25 @@
+{
+    "name": "Çukurova Pamuğu",
+    "description": "Çukurova Pamuğu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f19359f6-03ec-489b-8c1d-6eaea0d048e7.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1578517200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38530
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Adana"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

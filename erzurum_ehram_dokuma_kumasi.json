@@ -1,0 +1,25 @@
+{
+    "name": "Erzurum Ehram Dokuma Kumaşı",
+    "description": "Erzurum Ehram Dokuma Kumaşı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/364.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1530824400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38137
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Dokumalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Erzurum"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

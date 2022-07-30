@@ -1,0 +1,25 @@
+{
+    "name": "Bayburt Lor Dolması",
+    "description": "Bayburt Lor Dolması",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/292.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1514149200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38329
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bayburt"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

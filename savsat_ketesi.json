@@ -1,0 +1,25 @@
+{
+    "name": "Şavşat Ketesi",
+    "description": "Şavşat Ketesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/cc6a3c9d-2245-48e5-a30a-a8f85db2ba58.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1619989200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38656
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Artvin"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

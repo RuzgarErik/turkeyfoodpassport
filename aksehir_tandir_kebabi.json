@@ -1,0 +1,25 @@
+{
+    "name": "Akşehir Tandır Kebabı",
+    "description": "Akşehir Tandır Kebabı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/4c7ab2a8-bee4-48ce-bcfe-1870813c8542.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1605819600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38645
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Konya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

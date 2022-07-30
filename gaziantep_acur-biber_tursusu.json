@@ -1,0 +1,25 @@
+{
+    "name": "Gaziantep Acur-Biber Turşusu",
+    "description": "Gaziantep Acur-Biber Turşusu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ea6d8164-9547-46b2-97ac-88ac86906b99.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1648674000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3403
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

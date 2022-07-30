@@ -1,0 +1,25 @@
+{
+    "name": "Kırıkhan Kavunu",
+    "description": "Kırıkhan Kavunu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/a3fc99e2-ed76-44c1-9daf-f7ed52ae99b5.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1631480400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3002
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Hatay"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Diyarbakır Şehriyesi",
+    "description": "Diyarbakır Şehriyesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/7f3f8367-ada9-4238-9241-b4086e57739b.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1629406800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2916
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Diyarbakır"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

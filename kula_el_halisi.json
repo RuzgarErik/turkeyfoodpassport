@@ -1,0 +1,25 @@
+{
+    "name": "Kula El Halısı",
+    "description": "Kula El Halısı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/32f97191-b6af-4660-825d-29c951d5995f.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 879458400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37876
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar ve kilimler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Manisa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

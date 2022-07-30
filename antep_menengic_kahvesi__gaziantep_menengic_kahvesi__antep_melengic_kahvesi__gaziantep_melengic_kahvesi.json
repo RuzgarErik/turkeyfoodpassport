@@ -1,0 +1,25 @@
+{
+    "name": "Antep Menengiç Kahvesi / Gaziantep Menengiç Kahvesi / Antep Melengiç Kahvesi / Gaziantep Melengiç Kahvesi",
+    "description": "Antep Menengiç Kahvesi / Gaziantep Menengiç Kahvesi / Antep Melengiç Kahvesi / Gaziantep Melengiç Kahvesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e7847c49-51d2-4b01-86c1-6199f53e1abd.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1608066000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38351
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

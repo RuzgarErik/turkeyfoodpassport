@@ -1,0 +1,25 @@
+{
+    "name": "Ayancık Keten Bezi",
+    "description": "Ayancık Keten Bezi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5077fd47-df55-4a5b-baa6-a93efb110fc4.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1512594000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38081
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Dokumalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Sinop"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

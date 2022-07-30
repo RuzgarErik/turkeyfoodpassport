@@ -1,0 +1,25 @@
+{
+    "name": "Akhisar Köfte ",
+    "description": "Akhisar Köfte ",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/322.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1515445200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38297
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Manisa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

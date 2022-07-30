@@ -1,0 +1,25 @@
+{
+    "name": "Samsun Simidi",
+    "description": "Samsun Simidi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/176.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1378674000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38061
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Samsun"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

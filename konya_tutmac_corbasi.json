@@ -1,0 +1,25 @@
+{
+    "name": "Konya Tutmaç Çorbası",
+    "description": "Konya Tutmaç Çorbası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b808b79c-2340-41d9-b094-71560aa6149f.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1635282000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2577
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Konya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

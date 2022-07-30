@@ -1,0 +1,25 @@
+{
+    "name": "Bartın İşi Telkırma",
+    "description": "Bartın İşi Telkırma",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/125.JPG",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1263852000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37948
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar, kilimler ve dokumalar dışında kalan el sanatı ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bartın"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

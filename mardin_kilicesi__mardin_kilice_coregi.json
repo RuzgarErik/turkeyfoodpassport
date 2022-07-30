@@ -1,0 +1,25 @@
+{
+    "name": "Mardin Kiliçesi / Mardin Kiliçe Çöreği",
+    "description": "Mardin Kiliçesi / Mardin Kiliçe Çöreği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0eb878f6-502e-4d17-9180-b469b6c66f51.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1622149200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2150
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Mardin"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

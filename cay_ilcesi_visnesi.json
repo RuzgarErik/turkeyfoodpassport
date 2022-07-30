@@ -1,0 +1,25 @@
+{
+    "name": "Çay İlçesi Vişnesi",
+    "description": "Çay İlçesi Vişnesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/92a6d925-e66e-4dab-aa8e-173cec5bdc63.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1189371600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37963
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Afyonkarahisar"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

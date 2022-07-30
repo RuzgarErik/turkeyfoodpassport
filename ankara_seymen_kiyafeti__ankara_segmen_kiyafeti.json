@@ -1,0 +1,25 @@
+{
+    "name": "Ankara Seymen Kıyafeti / Ankara Seğmen Kıyafeti",
+    "description": "Ankara Seymen Kıyafeti / Ankara Seğmen Kıyafeti",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/659d2e3e-dbf3-4147-a9a9-57b79b1c3794.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1654462800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 4425
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar, kilimler ve dokumalar dışında kalan el sanatı ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Ankara"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

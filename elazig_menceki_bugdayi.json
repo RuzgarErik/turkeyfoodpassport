@@ -1,0 +1,25 @@
+{
+    "name": "Elazığ Menceki Buğdayı",
+    "description": "Elazığ Menceki Buğdayı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c4eb6b77-9cab-44d6-8813-4d03f65d672a.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1631739600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3499
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Elazığ"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

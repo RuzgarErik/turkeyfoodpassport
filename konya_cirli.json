@@ -1,0 +1,25 @@
+{
+    "name": "Konya Çirli",
+    "description": "Konya Çirli",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/772f7c70-08af-4cfc-9f68-5a622d9c1209.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1646859600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2582
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Konya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

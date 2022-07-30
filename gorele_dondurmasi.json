@@ -1,0 +1,25 @@
+{
+    "name": "Görele Dondurması",
+    "description": "Görele Dondurması",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/2db6e174-9c16-49d3-a62e-c03f18c4fe89.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1561064400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38560
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Dondurmalar ve yenilebilir buzlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Giresun"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

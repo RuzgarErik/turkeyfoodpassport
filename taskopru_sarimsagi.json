@@ -1,0 +1,25 @@
+{
+    "name": "Taşköprü Sarımsağı",
+    "description": "Taşköprü Sarımsağı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/135.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1276549200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38009
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kastamonu"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

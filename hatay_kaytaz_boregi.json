@@ -1,0 +1,25 @@
+{
+    "name": "Hatay Kaytaz Böreği",
+    "description": "Hatay Kaytaz Böreği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/276bb91d-ec1d-4d46-950e-d6463279cb67.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1647982800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 5083
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Hatay"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

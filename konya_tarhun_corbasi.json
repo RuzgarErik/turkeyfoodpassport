@@ -1,0 +1,25 @@
+{
+    "name": "Konya Tarhun Çorbası",
+    "description": "Konya Tarhun Çorbası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f4a5b526-6de4-46e4-afd4-636e687415bc.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1652821200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2569
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Konya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

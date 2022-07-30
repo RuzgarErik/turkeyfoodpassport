@@ -1,0 +1,25 @@
+{
+    "name": "Çankırı Tutmaç Çorbası",
+    "description": "Çankırı Tutmaç Çorbası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/359e63e8-c7c0-45f5-9317-56736fc2665d.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1622494800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2657
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Çankırı"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

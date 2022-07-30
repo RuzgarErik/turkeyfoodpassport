@@ -1,0 +1,25 @@
+{
+    "name": "Çankırı Höşmerim Tatlısı",
+    "description": "Çankırı Höşmerim Tatlısı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/7c9ed324-1475-46de-8633-63b891abbe47.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1623877200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2658
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Çankırı"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Babadağ Kekik Balı",
+    "description": "Babadağ Kekik Balı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/90645bc9-ee15-475e-a0d3-0841f51f7da0.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1608670800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 383
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Bal"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Denizli"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

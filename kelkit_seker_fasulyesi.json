@@ -1,0 +1,25 @@
+{
+    "name": "Kelkit Şeker Fasulyesi",
+    "description": "Kelkit Şeker Fasulyesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d1a6094e-3596-424a-8385-6e4f0d3eeff7.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1577912400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38674
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gümüşhane"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

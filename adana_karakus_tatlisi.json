@@ -1,0 +1,25 @@
+{
+    "name": "Adana Karakuş Tatlısı",
+    "description": "Adana Karakuş Tatlısı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5f5272b2-6261-49db-be59-3e1e85bb360a.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1610312400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1212
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Adana"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

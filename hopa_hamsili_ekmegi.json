@@ -1,0 +1,25 @@
+{
+    "name": "Hopa Hamsili Ekmeği",
+    "description": "Hopa Hamsili Ekmeği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0a44fc14-97f4-4947-ac2b-6eb9db5a55ed.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1632430800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 201
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Artvin"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

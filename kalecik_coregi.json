@@ -1,0 +1,25 @@
+{
+    "name": "Kalecik Çöreği",
+    "description": "Kalecik Çöreği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/1a54436e-7fb4-4912-a5bb-6174bf8258d9.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1602018000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1983
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Ankara"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

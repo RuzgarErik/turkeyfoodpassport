@@ -1,0 +1,25 @@
+{
+    "name": "Afyon Manda Yoğurdu / Afyonkarahisar Manda Yoğurdu",
+    "description": "Afyon Manda Yoğurdu / Afyonkarahisar Manda Yoğurdu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c578f27f-29b3-4a9a-b241-592318457c94.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1627333200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 643
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Peynirler ve tereyağı dışında kalan süt ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Afyonkarahisar"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

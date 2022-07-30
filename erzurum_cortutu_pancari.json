@@ -1,0 +1,25 @@
+{
+    "name": "Erzurum Çortutu Pancarı",
+    "description": "Erzurum Çortutu Pancarı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5059dd02-9ea7-45e0-9c23-8bb08257fb17.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1640552400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3763
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Erzurum"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

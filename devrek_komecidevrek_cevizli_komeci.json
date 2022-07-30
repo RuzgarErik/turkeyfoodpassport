@@ -1,0 +1,25 @@
+{
+    "name": "Devrek Kömeci/Devrek Cevizli Kömeci",
+    "description": "Devrek Kömeci/Devrek Cevizli Kömeci",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f28555b8-14ba-443b-8ebc-9235109ffeae.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1596056400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38414
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Zonguldak"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

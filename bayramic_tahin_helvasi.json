@@ -1,0 +1,25 @@
+{
+    "name": "Bayramiç Tahin Helvası",
+    "description": "Bayramiç Tahin Helvası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/4ffcb75d-c601-456b-b0ba-43eb100fdae2.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1628456400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3404
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Çanakkale"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

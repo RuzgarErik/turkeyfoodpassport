@@ -1,0 +1,25 @@
+{
+    "name": "Senirkent Samsa Tatlısı",
+    "description": "Senirkent Samsa Tatlısı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/35da1635-0c60-4ebb-a715-92c24d04c290.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1651698000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1602
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Isparta"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

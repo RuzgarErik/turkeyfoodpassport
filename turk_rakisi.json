@@ -1,0 +1,25 @@
+{
+    "name": "Türk Rakısı",
+    "description": "Türk Rakısı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/94e76f4f-6546-4c5a-99ce-09170ce26803.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 879458400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37888
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Biralar ve diğer alkollü içkiler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Türkiye"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

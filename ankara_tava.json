@@ -1,0 +1,25 @@
+{
+    "name": "Ankara Tava",
+    "description": "Ankara Tava",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e16d9f96-6de1-4e76-abf7-1d287bd4d341.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1512421200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38138
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Ankara"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Konya Hassaten Lokma",
+    "description": "Konya Hassaten Lokma",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c4a702ab-db58-4935-8c9d-0013ef1ed64e.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1638392400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2579
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Konya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

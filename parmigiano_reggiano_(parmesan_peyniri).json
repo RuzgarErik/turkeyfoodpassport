@@ -1,0 +1,25 @@
+{
+    "name": "Parmigiano Reggiano (Parmesan Peyniri)",
+    "description": "Parmigiano Reggiano (Parmesan Peyniri)",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/240.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1511125200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38040
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Peynirler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Yurtdışı"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

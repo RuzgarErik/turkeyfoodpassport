@@ -1,0 +1,25 @@
+{
+    "name": "Diyarbakır İçli Köftesi",
+    "description": "Diyarbakır İçli Köftesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/75189b68-3f22-425f-b011-2823a30f891e.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1629406800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2472
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Diyarbakır"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

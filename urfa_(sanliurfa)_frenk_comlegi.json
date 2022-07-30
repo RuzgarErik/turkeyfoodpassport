@@ -1,0 +1,25 @@
+{
+    "name": "Urfa (Şanlıurfa) Frenk Çömleği",
+    "description": "Urfa (Şanlıurfa) Frenk Çömleği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/253.JPG",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1512075600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38327
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Şanlıurfa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

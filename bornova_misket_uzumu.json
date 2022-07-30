@@ -1,0 +1,25 @@
+{
+    "name": "Bornova Misket Üzümü",
+    "description": "Bornova Misket Üzümü",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/199f5c00-4762-490d-b77f-6374f2686450.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1617742800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 123
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "İzmir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

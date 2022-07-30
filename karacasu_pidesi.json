@@ -1,0 +1,25 @@
+{
+    "name": "Karacasu Pidesi",
+    "description": "Karacasu Pidesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e325f007-cddf-4ee0-9daa-79891826b5fc.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1600290000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38599
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Aydın"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

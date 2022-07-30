@@ -1,0 +1,25 @@
+{
+    "name": "Van Otlu Peyniri",
+    "description": "Van Otlu Peyniri",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/405.JPG",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1546203600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38299
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Peynirler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Van"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

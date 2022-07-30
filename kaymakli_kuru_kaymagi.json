@@ -1,0 +1,25 @@
+{
+    "name": "Kaymaklı Kuru Kaymağı",
+    "description": "Kaymaklı Kuru Kaymağı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ebcb0395-32bf-436a-bc2f-9cb6b74cd58e.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1650488400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 4428
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Peynirler ve tereyağı dışında kalan süt ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Nevşehir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

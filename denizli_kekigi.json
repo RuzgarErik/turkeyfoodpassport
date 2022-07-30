@@ -1,0 +1,25 @@
+{
+    "name": "Denizli Kekiği",
+    "description": "Denizli Kekiği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/8ba9e3d8-fc24-4b44-834e-12f7007df238.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1617742800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1587
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yiyecekler için çeşni / lezzet vericiler, soslar ve tuz"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Denizli"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

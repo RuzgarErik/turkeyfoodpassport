@@ -1,0 +1,25 @@
+{
+    "name": "Sakarya Abhaz (Abaza) Peyniri",
+    "description": "Sakarya Abhaz (Abaza) Peyniri",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/87a69cb2-07eb-485e-a945-fc316e35bf02.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1619989200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2230
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Peynirler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Sakarya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

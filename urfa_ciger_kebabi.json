@@ -1,0 +1,25 @@
+{
+    "name": "Urfa Ciğer Kebabı",
+    "description": "Urfa Ciğer Kebabı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/8db06265-8b77-44a1-b583-d349032748a9.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1515704400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38070
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Şanlıurfa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

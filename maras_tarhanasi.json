@@ -1,0 +1,25 @@
+{
+    "name": "Maraş Tarhanası",
+    "description": "Maraş Tarhanası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/154.JPG",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1329948000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38032
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kahramanmaraş"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

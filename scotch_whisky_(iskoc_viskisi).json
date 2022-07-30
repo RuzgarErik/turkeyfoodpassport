@@ -1,0 +1,25 @@
+{
+    "name": "Scotch Whisky (İskoç Viskisi)",
+    "description": "Scotch Whisky (İskoç Viskisi)",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/fb2265e7-191d-45af-8b72-a27e1efe7ae8.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1293832800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37999
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Biralar ve diğer alkollü içkiler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Yurtdışı"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

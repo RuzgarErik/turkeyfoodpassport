@@ -1,0 +1,25 @@
+{
+    "name": "Yalvaç Hamursuzu",
+    "description": "Yalvaç Hamursuzu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d5c38406-695c-4f4d-bc62-14a1b0eba86f.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1582750800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38570
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Isparta"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

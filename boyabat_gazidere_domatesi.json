@@ -1,0 +1,25 @@
+{
+    "name": "Boyabat Gazidere Domatesi",
+    "description": "Boyabat Gazidere Domatesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b966f6af-188b-4437-ab9a-ac482b461f5f.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1555016400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38364
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Sinop"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

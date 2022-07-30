@@ -1,0 +1,25 @@
+{
+    "name": "Mamak Ravak Yoğurdu",
+    "description": "Mamak Ravak Yoğurdu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/3a5f77a6-e322-4fcc-b860-09eb8d7eafc9.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1628197200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3243
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Peynirler ve tereyağı dışında kalan süt ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Ankara"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

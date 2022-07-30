@@ -1,0 +1,25 @@
+{
+    "name": "Mersin Tantunisi",
+    "description": "Mersin Tantunisi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/211.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1490043600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38131
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Mersin"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

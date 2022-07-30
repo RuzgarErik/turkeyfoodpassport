@@ -1,0 +1,25 @@
+{
+    "name": "İsabey Çekirdeksiz Üzümü",
+    "description": "İsabey Çekirdeksiz Üzümü",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/81.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1154379600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37945
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Denizli"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

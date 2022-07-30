@@ -1,0 +1,25 @@
+{
+    "name": "Hasanağa Enginarı",
+    "description": "Hasanağa Enginarı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c18d82d3-f8be-4713-b991-56f0a33852f5.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1599771600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38469
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bursa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

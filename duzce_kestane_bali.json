@@ -1,0 +1,25 @@
+{
+    "name": "Düzce Kestane Balı",
+    "description": "Düzce Kestane Balı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ba7af6e2-c974-48f6-a30f-e680035cc277.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1630875600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38453
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Bal"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Düzce"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

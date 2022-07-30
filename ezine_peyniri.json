@@ -1,0 +1,25 @@
+{
+    "name": "Ezine Peyniri",
+    "description": "Ezine Peyniri",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/86.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1176152400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37967
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Peynirler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Çanakkale"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

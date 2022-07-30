@@ -1,0 +1,25 @@
+{
+    "name": "Aksaray Şerbetli Pidesi",
+    "description": "Aksaray Şerbetli Pidesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/dcef0efa-3a4f-4f49-ad2e-25cbcec3310d.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1621890000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2404
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Aksaray"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

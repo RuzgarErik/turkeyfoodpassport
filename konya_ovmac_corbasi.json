@@ -1,0 +1,25 @@
+{
+    "name": "Konya Ovmaç Çorbası",
+    "description": "Konya Ovmaç Çorbası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e484f966-f542-4ca8-8b5a-1f159c011bff.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1633294800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2648
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Konya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

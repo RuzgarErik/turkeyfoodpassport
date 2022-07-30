@@ -1,0 +1,25 @@
+{
+    "name": "Van Sengeseri",
+    "description": "Van Sengeseri",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c32388e6-8a15-4991-9b18-b7101f925837.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1637874000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3496
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Van"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

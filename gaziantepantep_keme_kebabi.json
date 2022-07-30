@@ -1,0 +1,25 @@
+{
+    "name": "Gaziantep/Antep Keme Kebabı",
+    "description": "Gaziantep/Antep Keme Kebabı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f78d3c1f-93e9-4735-9c30-117036c3c6da.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1621285200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2234
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

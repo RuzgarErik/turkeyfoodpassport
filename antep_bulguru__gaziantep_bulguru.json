@@ -1,0 +1,25 @@
+{
+    "name": "Antep Bulguru / Gaziantep Bulguru",
+    "description": "Antep Bulguru / Gaziantep Bulguru",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/289.JPG",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1514149200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38256
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

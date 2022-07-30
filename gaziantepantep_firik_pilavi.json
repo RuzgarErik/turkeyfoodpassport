@@ -1,0 +1,25 @@
+{
+    "name": "Gaziantep/Antep Firik Pilavı",
+    "description": "Gaziantep/Antep Firik Pilavı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/230de027-81bb-4b10-9eb2-027310166534.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1618779600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2233
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

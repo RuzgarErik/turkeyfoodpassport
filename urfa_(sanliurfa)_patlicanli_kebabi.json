@@ -1,0 +1,25 @@
+{
+    "name": "Urfa (Şanlıurfa) Patlıcanlı Kebabı",
+    "description": "Urfa (Şanlıurfa) Patlıcanlı Kebabı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/9930be8a-34cd-4d7f-b1cb-bbc8269db1d4.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1526850000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38096
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Şanlıurfa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

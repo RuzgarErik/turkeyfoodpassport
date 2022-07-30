@@ -1,0 +1,25 @@
+{
+    "name": "Burdur Şiş Köftesi",
+    "description": "Burdur Şiş Köftesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/09d302f6-af01-48df-b69b-f6ebb723314f.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1332194400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38033
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Burdur"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

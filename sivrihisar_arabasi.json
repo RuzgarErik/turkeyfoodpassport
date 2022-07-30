@@ -1,0 +1,25 @@
+{
+    "name": "Sivrihisar Arabaşı",
+    "description": "Sivrihisar Arabaşı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/86f17ff0-f77c-4b50-8fe1-5e0d36d11ab1.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1645390800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 4763
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Eskişehir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

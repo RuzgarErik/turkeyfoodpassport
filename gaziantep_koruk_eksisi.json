@@ -1,0 +1,25 @@
+{
+    "name": "Gaziantep Koruk Ekşisi",
+    "description": "Gaziantep Koruk Ekşisi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/cb99a8bb-d031-4274-a41c-8e3f6b5d57d5.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1649624400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3487
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yiyecekler için çeşni / lezzet vericiler, soslar ve tuz"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Diyarbakır Gebol Yemeği",
+    "description": "Diyarbakır Gebol Yemeği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5e37f811-d829-48f9-a85f-091977f88d92.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1654549200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2468
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Diyarbakır"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Rize Bezi (Feretiko)",
+    "description": "Rize Bezi (Feretiko)",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/98.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1219179600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37953
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Dokumalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Rize"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

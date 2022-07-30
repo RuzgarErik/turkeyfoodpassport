@@ -1,0 +1,25 @@
+{
+    "name": "Bozüyük Mercimekli Mantısı",
+    "description": "Bozüyük Mercimekli Mantısı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/54e77add-c4d8-4ee8-8b46-d8417ad6553e.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1595797200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38501
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bilecik"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

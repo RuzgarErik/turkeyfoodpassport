@@ -1,0 +1,25 @@
+{
+    "name": "Adapazarı Kabak Tatlısı",
+    "description": "Adapazarı Kabak Tatlısı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/bc20253e-b918-4e3d-bb29-3ab243baae83.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1619989200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2231
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Sakarya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

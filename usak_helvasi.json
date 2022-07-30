@@ -1,0 +1,25 @@
+{
+    "name": "Uşak Helvası",
+    "description": "Uşak Helvası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d5fe3231-b761-4386-8d09-a3db45caac9d.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1650402000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 4264
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Uşak"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

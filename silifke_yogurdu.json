@@ -1,0 +1,25 @@
+{
+    "name": "Silifke Yoğurdu",
+    "description": "Silifke Yoğurdu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/1e7aa92b-e18b-487a-84bf-646771f00ac5.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1644181200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 4482
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Peynirler ve tereyağı dışında kalan süt ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Mersin"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

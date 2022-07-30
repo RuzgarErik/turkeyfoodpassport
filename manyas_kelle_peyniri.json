@@ -1,0 +1,25 @@
+{
+    "name": "Manyas Kelle Peyniri",
+    "description": "Manyas Kelle Peyniri",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/8dd23b09-999a-4a75-96b3-8928385b9adf.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1608066000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 926
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Peynirler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Balıkesir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

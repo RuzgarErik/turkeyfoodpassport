@@ -1,0 +1,25 @@
+{
+    "name": "Gaziantep Yoğurtlu Taze Fasulye/Antep Yoğurtlu Taze Fasulye",
+    "description": "Gaziantep Yoğurtlu Taze Fasulye/Antep Yoğurtlu Taze Fasulye",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/00cb2f44-f176-4638-80eb-eccbf2e8ac68.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1644440400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2243
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

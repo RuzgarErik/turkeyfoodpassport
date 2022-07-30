@@ -1,0 +1,25 @@
+{
+    "name": "Cemele Biberi",
+    "description": "Cemele Biberi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5344c4de-2c33-43d1-bcd6-6e95642b2008.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1637701200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 4142
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kırşehir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

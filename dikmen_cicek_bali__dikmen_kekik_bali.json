@@ -1,0 +1,25 @@
+{
+    "name": "Dikmen Çiçek Balı / Dikmen Kekik Balı",
+    "description": "Dikmen Çiçek Balı / Dikmen Kekik Balı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/efdb6ad9-fa8d-4426-a57d-0d09cdca36b3.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1608498000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 542
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Bal"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Aydın"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

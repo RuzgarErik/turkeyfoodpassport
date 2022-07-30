@@ -1,0 +1,25 @@
+{
+    "name": "Sultanhisar Çileği",
+    "description": "Sultanhisar Çileği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/a6c15e67-1834-490e-86a5-6bd8f10aaaf1.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1606683600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38624
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Aydın"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

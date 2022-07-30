@@ -1,0 +1,25 @@
+{
+    "name": "Dirmil Sipsisi",
+    "description": "Dirmil Sipsisi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/300d51ed-d0fd-4dfc-a3d1-037a0b2a295d.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1604005200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1062
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Burdur"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

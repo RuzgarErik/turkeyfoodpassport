@@ -1,0 +1,25 @@
+{
+    "name": "Ordu Taflan Turşusu",
+    "description": "Ordu Taflan Turşusu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c9d879ba-4cce-4d50-b073-2a893ca5e920.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1652130000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 5384
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Ordu"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

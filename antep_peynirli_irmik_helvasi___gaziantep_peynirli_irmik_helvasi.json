@@ -1,0 +1,25 @@
+{
+    "name": "Antep Peynirli İrmik Helvası  / Gaziantep Peynirli İrmik Helvası",
+    "description": "Antep Peynirli İrmik Helvası  / Gaziantep Peynirli İrmik Helvası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ca69a810-8708-4eec-811a-3073e235fcad.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1644440400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2345
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

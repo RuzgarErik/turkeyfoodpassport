@@ -1,0 +1,25 @@
+{
+    "name": "Diyarbakır Meyir Çorbası",
+    "description": "Diyarbakır Meyir Çorbası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/238af43f-81f0-44aa-b3b6-ff984d10a7bb.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1633899600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2478
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Diyarbakır"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

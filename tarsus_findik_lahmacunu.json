@@ -1,0 +1,25 @@
+{
+    "name": "Tarsus Fındık Lahmacunu",
+    "description": "Tarsus Fındık Lahmacunu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b21ce00e-8533-43b1-af88-13d90db9858e.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1600290000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 829
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Mersin"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

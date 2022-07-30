@@ -1,0 +1,25 @@
+{
+    "name": "Karacadağ Pirinci",
+    "description": "Karacadağ Pirinci",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/34526f15-a21f-4375-92d8-26d65d948fcb.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1522184400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38038
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Diyarbakır"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

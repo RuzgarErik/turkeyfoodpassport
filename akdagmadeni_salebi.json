@@ -1,0 +1,25 @@
+{
+    "name": "Akdağmadeni Salebi",
+    "description": "Akdağmadeni Salebi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c7593cb2-8d77-4693-80fc-e56750b7dd30.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1631739600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1804
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Yozgat"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

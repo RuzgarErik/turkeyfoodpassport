@@ -1,0 +1,25 @@
+{
+    "name": "Taşköprü Kuyu Kebabı",
+    "description": "Taşköprü Kuyu Kebabı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ed6a7e55-00fb-4dce-b14c-794fc6db1441.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1469653200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38069
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kastamonu"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Emet Pidesi",
+    "description": "Emet Pidesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/70e13c2c-7fcd-4eeb-9696-2439e00e4f36.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1654549200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 5487
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kütahya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

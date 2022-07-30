@@ -1,0 +1,25 @@
+{
+    "name": "Araç Akdene Göce Çorbası",
+    "description": "Araç Akdene Göce Çorbası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/40c6a9f1-7a8a-4b77-af16-87ec5687d3f2.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1655845200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1725
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kastamonu"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

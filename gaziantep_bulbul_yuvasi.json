@@ -1,0 +1,25 @@
+{
+    "name": "Gaziantep Bülbül Yuvası",
+    "description": "Gaziantep Bülbül Yuvası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/3e23f160-264d-439c-b894-518ab527b9bc.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1649192400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3845
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

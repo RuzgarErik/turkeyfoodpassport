@@ -1,0 +1,25 @@
+{
+    "name": "Tunceli Sarımsağı",
+    "description": "Tunceli Sarımsağı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/756366fe-5e1e-43f8-a209-d6f814ebd61a.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1574110800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38090
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Tunceli"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

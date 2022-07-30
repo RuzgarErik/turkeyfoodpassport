@@ -1,0 +1,25 @@
+{
+    "name": "Bartın İncir Dondurma Tatlısı / Bartın İncir Donduması",
+    "description": "Bartın İncir Dondurma Tatlısı / Bartın İncir Donduması",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/fb65a5e3-2f23-4f4e-83fe-53330dd4e1b1.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1602190800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38666
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bartın"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

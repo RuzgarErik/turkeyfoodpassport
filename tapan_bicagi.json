@@ -1,0 +1,25 @@
+{
+    "name": "Tapan Bıçağı",
+    "description": "Tapan Bıçağı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e818dd10-3790-4a3e-9633-8f359d6a68ec.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1583787600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38432
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar, kilimler ve dokumalar dışında kalan el sanatı ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Adana"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

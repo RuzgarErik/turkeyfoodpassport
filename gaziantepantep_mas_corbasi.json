@@ -1,0 +1,25 @@
+{
+    "name": "Gaziantep/Antep Maş Çorbası",
+    "description": "Gaziantep/Antep Maş Çorbası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0204cc71-d8d2-4525-bb0b-e8a9a15a0080.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1646600400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 5367
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

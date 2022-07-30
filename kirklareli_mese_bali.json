@@ -1,0 +1,25 @@
+{
+    "name": "Kırklareli Meşe Balı",
+    "description": "Kırklareli Meşe Balı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/cd501e7f-098d-4e7b-afc2-5497ddd49d81.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1613077200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1362
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Bal"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kırklareli"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

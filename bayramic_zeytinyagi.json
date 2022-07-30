@@ -1,0 +1,25 @@
+{
+    "name": "Bayramiç Zeytinyağı",
+    "description": "Bayramiç Zeytinyağı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/517d0e7f-f698-48d1-b506-b2b0a8d04fc7.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1650834000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3405
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Tereyağı dâhil katı ve sıvı yağlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Çanakkale"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

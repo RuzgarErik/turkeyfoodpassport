@@ -1,0 +1,25 @@
+{
+    "name": "Ereğli Beyaz Kirazı",
+    "description": "Ereğli Beyaz Kirazı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/406.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1546462800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38128
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Konya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

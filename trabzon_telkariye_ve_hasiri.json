@@ -1,0 +1,25 @@
+{
+    "name": "Trabzon Telkariye Ve Hasırı",
+    "description": "Trabzon Telkariye Ve Hasırı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/68f9b2a7-a076-4f65-88a4-b1d3e589aa18.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1199397600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37977
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar, kilimler ve dokumalar dışında kalan el sanatı ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Trabzon"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

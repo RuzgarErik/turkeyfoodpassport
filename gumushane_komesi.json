@@ -1,0 +1,25 @@
+{
+    "name": "Gümüşhane Kömesi",
+    "description": "Gümüşhane Kömesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/62.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1104098400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37938
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Çikolata, şekerleme ve türevi ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gümüşhane"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

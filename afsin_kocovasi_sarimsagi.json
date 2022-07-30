@@ -1,0 +1,25 @@
+{
+    "name": "Afşin Koçovası Sarımsağı",
+    "description": "Afşin Koçovası Sarımsağı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/95af6b4f-f214-4812-8bf3-375bf7d160c7.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1624827600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1723
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kahramanmaraş"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

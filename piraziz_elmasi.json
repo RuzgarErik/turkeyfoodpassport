@@ -1,0 +1,25 @@
+{
+    "name": "Piraziz Elması",
+    "description": "Piraziz Elması",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/204.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1482267600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38088
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Giresun"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

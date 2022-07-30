@@ -1,0 +1,25 @@
+{
+    "name": "Hakkâri Doğaba",
+    "description": "Hakkâri Doğaba",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/287.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1513630800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38358
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Hakkari"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

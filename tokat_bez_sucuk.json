@@ -1,0 +1,25 @@
+{
+    "name": "Tokat Bez Sucuk",
+    "description": "Tokat Bez Sucuk",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/1637f401-f9dd-46be-9698-338e5982949d.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1641157200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38593
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş İşlenmemiş Et Ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Tokat"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

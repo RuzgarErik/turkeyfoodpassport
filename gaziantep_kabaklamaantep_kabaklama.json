@@ -1,0 +1,25 @@
+{
+    "name": "Gaziantep Kabaklama/Antep Kabaklama",
+    "description": "Gaziantep Kabaklama/Antep Kabaklama",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/65b1bc2e-eec7-4412-b7a2-6288c7bd1076.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1622667600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2283
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

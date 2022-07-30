@@ -1,0 +1,25 @@
+{
+    "name": "Çamoluk Şeker Kuru Fasulyesi",
+    "description": "Çamoluk Şeker Kuru Fasulyesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/8c5a4429-3e9f-4e39-b307-c0e142b4268c.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1525208400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38423
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Giresun"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

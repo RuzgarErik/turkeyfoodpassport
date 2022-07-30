@@ -1,0 +1,25 @@
+{
+    "name": "İzmit Simidi",
+    "description": "İzmit Simidi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d6bca8fe-f5ae-4382-9080-ea86746e67b5.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1568062800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38595
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kocaeli"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

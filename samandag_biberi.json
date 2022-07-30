@@ -1,0 +1,25 @@
+{
+    "name": "Samandağ Biberi",
+    "description": "Samandağ Biberi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/976eb6f7-d858-40af-8e0f-4c281133c7b5.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1631480400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3162
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Hatay"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

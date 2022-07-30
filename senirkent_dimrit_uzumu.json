@@ -1,0 +1,25 @@
+{
+    "name": "Senirkent Dimrit Üzümü",
+    "description": "Senirkent Dimrit Üzümü",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/950cf759-037d-446b-be9f-2d361a064b3d.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1644440400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1623
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Isparta"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

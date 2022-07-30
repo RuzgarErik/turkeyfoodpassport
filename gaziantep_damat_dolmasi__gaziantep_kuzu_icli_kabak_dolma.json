@@ -1,0 +1,25 @@
+{
+    "name": "Gaziantep Damat Dolması / Gaziantep Kuzu İçli Kabak Dolma",
+    "description": "Gaziantep Damat Dolması / Gaziantep Kuzu İçli Kabak Dolma",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/83b7b235-b3a2-405b-90cc-e09779b1210e.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1644786000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2546
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

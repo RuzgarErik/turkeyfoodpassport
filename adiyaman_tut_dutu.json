@@ -1,0 +1,25 @@
+{
+    "name": "Adıyaman Tut Dutu",
+    "description": "Adıyaman Tut Dutu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0fcb97ce-7605-46ed-a013-029028d0b8c5.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1606683600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 922
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Adıyaman"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

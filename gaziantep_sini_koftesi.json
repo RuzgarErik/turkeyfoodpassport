@@ -1,0 +1,25 @@
+{
+    "name": "Gaziantep Sini Köftesi",
+    "description": "Gaziantep Sini Köftesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b5deec98-00ea-4ffc-91a3-16c12d3cd6fd.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1649624400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 4423
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

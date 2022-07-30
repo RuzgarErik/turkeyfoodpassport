@@ -1,0 +1,25 @@
+{
+    "name": "Şanlıurfa Culha Dokuması",
+    "description": "Şanlıurfa Culha Dokuması",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/727b6b31-266a-4bab-8e3b-80677e150f4c.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1628456400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2963
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Dokumalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Şanlıurfa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Nüzhetiye Bebeği / Döşeme Bebeği",
+    "description": "Nüzhetiye Bebeği / Döşeme Bebeği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/cf91530a-71f8-4d25-a748-270790ebebdc.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1600290000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 583
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar, kilimler ve dokumalar dışında kalan el sanatı ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kocaeli"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

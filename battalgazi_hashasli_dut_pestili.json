@@ -1,0 +1,25 @@
+{
+    "name": "Battalgazi Haşhaşlı Dut Pestili",
+    "description": "Battalgazi Haşhaşlı Dut Pestili",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/adbb8760-29a5-465d-91cc-e4a6f36dc3fb.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1608152400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38609
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Çikolata, şekerleme ve türevi ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Malatya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

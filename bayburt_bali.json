@@ -1,0 +1,25 @@
+{
+    "name": "Bayburt Balı",
+    "description": "Bayburt Balı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/14b9f8f1-3e9c-4ce3-8057-709985e52eb3.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1595192400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1026
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Bal"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bayburt"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

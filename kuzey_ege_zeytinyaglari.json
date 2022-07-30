@@ -1,0 +1,25 @@
+{
+    "name": "Kuzey Ege Zeytinyağları",
+    "description": "Kuzey Ege Zeytinyağları",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/392.JPG",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1542142800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38239
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Tereyağı dâhil katı ve sıvı yağlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "İzmir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

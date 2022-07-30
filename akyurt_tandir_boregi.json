@@ -1,0 +1,25 @@
+{
+    "name": "Akyurt Tandır Böreği",
+    "description": "Akyurt Tandır Böreği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/a03245df-a974-4fa8-a4c0-ab42a80052da.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1629406800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3222
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Ankara"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Şebinkarahisar Karadutu",
+    "description": "Şebinkarahisar Karadutu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0cbbd0cc-e93b-49e9-a7a5-ae3b89633daa.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1631480400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1635
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Giresun"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

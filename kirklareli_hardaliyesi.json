@@ -1,0 +1,25 @@
+{
+    "name": "Kırklareli Hardaliyesi",
+    "description": "Kırklareli Hardaliyesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/278.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1514408400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38092
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Alkolsüz içecekler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kırklareli"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

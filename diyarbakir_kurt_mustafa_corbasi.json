@@ -1,0 +1,25 @@
+{
+    "name": "Diyarbakır Kürt Mustafa Çorbası",
+    "description": "Diyarbakır Kürt Mustafa Çorbası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/6c915801-b3cd-42f3-bcaa-aa324732c9ab.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1656363600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2924
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Diyarbakır"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

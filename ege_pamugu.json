@@ -1,0 +1,25 @@
+{
+    "name": "Ege Pamuğu",
+    "description": "Ege Pamuğu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c73e02b6-f4e3-4956-8cc3-c880fcd1e4cf.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1117400400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37917
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "İzmir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

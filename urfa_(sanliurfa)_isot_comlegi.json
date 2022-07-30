@@ -1,0 +1,25 @@
+{
+    "name": "Urfa (Şanlıurfa) İsot Çömleği",
+    "description": "Urfa (Şanlıurfa) İsot Çömleği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/254.JPG",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1512075600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38328
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Şanlıurfa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

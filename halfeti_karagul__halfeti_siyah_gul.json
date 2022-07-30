@@ -1,0 +1,25 @@
+{
+    "name": "Halfeti Karagül / Halfeti Siyah Gül",
+    "description": "Halfeti Karagül / Halfeti Siyah Gül",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/1900a529-5d0c-44dd-a866-53232bf0676b.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1614546000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 924
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Şanlıurfa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

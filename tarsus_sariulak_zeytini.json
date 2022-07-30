@@ -1,0 +1,25 @@
+{
+    "name": "Tarsus Sarıulak Zeytini",
+    "description": "Tarsus Sarıulak Zeytini",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/345.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1523826000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38269
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Mersin"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

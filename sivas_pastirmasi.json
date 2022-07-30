@@ -1,0 +1,25 @@
+{
+    "name": "Sivas Pastırması",
+    "description": "Sivas Pastırması",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/1b754247-495d-43ca-a600-1556d128dd2b.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1653858000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2822
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş İşlenmemiş Et Ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Sivas"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

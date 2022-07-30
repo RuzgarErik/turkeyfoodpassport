@@ -1,0 +1,25 @@
+{
+    "name": "Diyarbakır Duvaklı Pilavı",
+    "description": "Diyarbakır Duvaklı Pilavı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/3f82ab84-36d0-4255-9c90-4308b3fe2c08.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1654549200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2467
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Diyarbakır"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

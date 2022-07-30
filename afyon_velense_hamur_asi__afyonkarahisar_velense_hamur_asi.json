@@ -1,0 +1,25 @@
+{
+    "name": "Afyon Velense Hamur Aşı / Afyonkarahisar Velense Hamur Aşı",
+    "description": "Afyon Velense Hamur Aşı / Afyonkarahisar Velense Hamur Aşı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/2351e458-b5e0-4612-a29e-a3bab7d055c4.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1619643600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2070
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Afyonkarahisar"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

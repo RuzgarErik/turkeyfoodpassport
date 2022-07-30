@@ -1,0 +1,25 @@
+{
+    "name": "Develi Cıvıklısı",
+    "description": "Develi Cıvıklısı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/20208617-1051-4782-9151-b8e36113cc18.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1238018400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37944
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kayseri"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

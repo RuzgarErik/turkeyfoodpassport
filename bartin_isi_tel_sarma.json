@@ -1,0 +1,25 @@
+{
+    "name": "Bartın İşi Tel Sarma",
+    "description": "Bartın İşi Tel Sarma",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/916f8e85-a2c0-4964-8c3a-1104bbd019f2.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1643922000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2863
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar, kilimler ve dokumalar dışında kalan el sanatı ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bartın"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

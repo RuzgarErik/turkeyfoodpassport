@@ -1,0 +1,25 @@
+{
+    "name": "Gaziantep Mumbar Dolması/ Antep Mumbar Dolması",
+    "description": "Gaziantep Mumbar Dolması/ Antep Mumbar Dolması",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/bf007af1-deb0-46c4-a361-99fdff006f6e.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1628197200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2289
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

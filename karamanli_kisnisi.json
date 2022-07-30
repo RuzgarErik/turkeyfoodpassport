@@ -1,0 +1,25 @@
+{
+    "name": "Karamanlı Kişnişi",
+    "description": "Karamanlı Kişnişi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0d1b5c53-7dc8-4e71-a2ee-e83f3706fb87.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1601240400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38573
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Burdur"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Diyarbakır Habenisk Çorbası",
+    "description": "Diyarbakır Habenisk Çorbası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/7edea5c4-6217-42ef-a7b8-d560aa0acb6b.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1652216400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2470
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Diyarbakır"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

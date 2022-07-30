@@ -1,0 +1,25 @@
+{
+    "name": "Kahramanmaraş Hartlap Bıçağı",
+    "description": "Kahramanmaraş Hartlap Bıçağı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f732aba2-bd99-4e7b-b0d3-aef111133ac0.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1513890000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38215
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar, kilimler ve dokumalar dışında kalan el sanatı ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kahramanmaraş"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

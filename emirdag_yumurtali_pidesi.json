@@ -1,0 +1,25 @@
+{
+    "name": "Emirdağ Yumurtalı Pidesi",
+    "description": "Emirdağ Yumurtalı Pidesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/965bf816-76b2-4caa-b74d-21d4773264fd.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1621976400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1825
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Afyonkarahisar"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

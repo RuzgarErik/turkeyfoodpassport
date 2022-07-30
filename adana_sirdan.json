@@ -1,0 +1,25 @@
+{
+    "name": "Adana Şırdan",
+    "description": "Adana Şırdan",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/10a811ca-ab36-4cf3-8b1f-ce37d806119e.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1603659600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1217
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Adana"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

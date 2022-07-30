@@ -1,0 +1,25 @@
+{
+    "name": "Kadirli Turpu",
+    "description": "Kadirli Turpu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b5551961-2bd5-4c2b-9436-ab17640a5bfc.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1599166800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38577
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Osmaniye"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

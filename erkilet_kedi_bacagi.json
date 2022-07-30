@@ -1,0 +1,25 @@
+{
+    "name": "Erkilet Kedi Bacağı",
+    "description": "Erkilet Kedi Bacağı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/8ccd5196-4efb-4502-93eb-45d0ab6fba2d.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1602104400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38387
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Çikolata, şekerleme ve türevi ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kayseri"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

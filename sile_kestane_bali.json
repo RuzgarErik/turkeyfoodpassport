@@ -1,0 +1,25 @@
+{
+    "name": "Şile Kestane Balı",
+    "description": "Şile Kestane Balı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/1c5be1b7-35fa-43cb-81df-d5595f7c303a.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1630616400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3190
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Bal"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "İstanbul"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

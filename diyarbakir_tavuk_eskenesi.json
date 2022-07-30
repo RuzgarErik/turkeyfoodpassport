@@ -1,0 +1,25 @@
+{
+    "name": "Diyarbakır Tavuk Eşkenesi",
+    "description": "Diyarbakır Tavuk Eşkenesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d53b5a6e-346c-4c88-82b7-e8ec7e097c7a.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1629406800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2917
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Diyarbakır"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

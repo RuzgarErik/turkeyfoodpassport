@@ -1,0 +1,25 @@
+{
+    "name": "Grana Padano",
+    "description": "Grana Padano",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/1d76290e-d6b2-4544-8288-cb174267cdd9.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1522184400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38127
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Peynirler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Yurtdışı"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

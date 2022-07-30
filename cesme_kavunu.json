@@ -1,0 +1,25 @@
+{
+    "name": "Çeşme Kavunu",
+    "description": "Çeşme Kavunu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c81c5ce5-cfad-4b8a-9398-ea38b52b91b6.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1611090000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38201
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "İzmir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

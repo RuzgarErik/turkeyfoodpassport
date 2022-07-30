@@ -1,0 +1,25 @@
+{
+    "name": "Yufkalı Konuralp Pilavı",
+    "description": "Yufkalı Konuralp Pilavı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/21d2328c-443b-45f8-8271-f0c5e26946b4.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1620334800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2650
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Düzce"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

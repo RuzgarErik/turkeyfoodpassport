@@ -1,0 +1,25 @@
+{
+    "name": "Bartın Beyaz Baklavası",
+    "description": "Bartın Beyaz Baklavası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5b7601ca-fffa-4815-b6bf-1fa213c21e05.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1602190800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38665
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bartın"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

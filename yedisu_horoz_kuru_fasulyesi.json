@@ -1,0 +1,25 @@
+{
+    "name": "Yedisu Horoz Kuru Fasulyesi",
+    "description": "Yedisu Horoz Kuru Fasulyesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ecc9a131-49ae-44b6-b756-75d76f6171bd.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1613077200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 407
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bingöl"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

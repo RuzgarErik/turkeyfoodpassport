@@ -1,0 +1,25 @@
+{
+    "name": "Kalecik Ekmeği",
+    "description": "Kalecik Ekmeği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/aacfd753-0a5a-496d-b03c-da8561710367.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1601931600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1982
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Ankara"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

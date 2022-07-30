@@ -1,0 +1,25 @@
+{
+    "name": "Gaziantep Alenaziği /Antep Alenaziği",
+    "description": "Gaziantep Alenaziği /Antep Alenaziği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f2bbd319-fd43-4737-85f1-a9c8bfa88bbd.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1620075600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1422
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

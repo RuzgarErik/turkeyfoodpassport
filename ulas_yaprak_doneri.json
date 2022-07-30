@@ -1,0 +1,25 @@
+{
+    "name": "Ulaş Yaprak Döneri",
+    "description": "Ulaş Yaprak Döneri",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/6b8c48d2-cf7c-4d84-8a8f-e5fc7c9293bb.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1594674000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38552
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Sivas"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

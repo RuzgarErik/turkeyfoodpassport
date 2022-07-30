@@ -1,0 +1,25 @@
+{
+    "name": "Diyarbakır Hedik Yemeği",
+    "description": "Diyarbakır Hedik Yemeği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/43b9f8c7-ac33-463c-8025-d29dae4f5c9d.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1652216400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2471
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Diyarbakır"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Maraş Kelle Paçası",
+    "description": "Maraş Kelle Paçası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/dca471be-804e-4b9d-9d9a-d7dc388f3496.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1636059600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1824
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kahramanmaraş"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

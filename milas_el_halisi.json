@@ -1,0 +1,25 @@
+{
+    "name": "Milas El Halısı",
+    "description": "Milas El Halısı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/15.JPG",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 865198800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37878
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar ve kilimler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Muğla"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

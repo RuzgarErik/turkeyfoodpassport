@@ -1,0 +1,25 @@
+{
+    "name": "Tokat Narince Salamura Asma Yaprağı",
+    "description": "Tokat Narince Salamura Asma Yaprağı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d9438537-cd4d-453f-9535-2f57914d94bd.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1551301200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38289
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Tokat"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

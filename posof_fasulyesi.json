@@ -1,0 +1,25 @@
+{
+    "name": "Posof Fasulyesi",
+    "description": "Posof Fasulyesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/7235ab7a-d830-4421-811a-b63780391b26.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1606078800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1782
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Ardahan"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

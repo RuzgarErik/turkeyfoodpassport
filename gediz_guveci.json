@@ -1,0 +1,25 @@
+{
+    "name": "Gediz Güveci",
+    "description": "Gediz Güveci",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c75c0d04-62e5-4021-b0eb-cc4ab8c37f76.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1636491600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3929
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kütahya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

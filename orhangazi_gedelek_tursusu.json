@@ -1,0 +1,25 @@
+{
+    "name": "Orhangazi Gedelek Turşusu",
+    "description": "Orhangazi Gedelek Turşusu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/97314394-98c1-47e5-93da-f4e31339d8cf.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1512334800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38109
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bursa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

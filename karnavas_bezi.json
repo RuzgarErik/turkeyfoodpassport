@@ -1,0 +1,25 @@
+{
+    "name": "Karnavas Bezi",
+    "description": "Karnavas Bezi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/23bd5fb7-bd53-45e9-9faf-635fa170452c.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1639947600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3882
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Dokumalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Erzurum"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

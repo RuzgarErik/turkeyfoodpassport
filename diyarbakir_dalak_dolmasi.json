@@ -1,0 +1,25 @@
+{
+    "name": "Diyarbakır Dalak Dolması",
+    "description": "Diyarbakır Dalak Dolması",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/7be01ae0-0115-416b-88db-680e479ab45b.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1633899600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2866
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Diyarbakır"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

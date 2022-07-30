@@ -1,0 +1,25 @@
+{
+    "name": "Bursa Bıçağı",
+    "description": "Bursa Bıçağı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/326.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1518642000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38149
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar, kilimler ve dokumalar dışında kalan el sanatı ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bursa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

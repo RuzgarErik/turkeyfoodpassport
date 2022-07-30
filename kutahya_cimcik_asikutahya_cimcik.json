@@ -1,0 +1,25 @@
+{
+    "name": "Kütahya Cimcik Aşı/Kütahya Cimcik",
+    "description": "Kütahya Cimcik Aşı/Kütahya Cimcik",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/2f0ca8e9-5761-4fba-9d9b-0380e2fcb562.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1607634000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1816
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kütahya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

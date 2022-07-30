@@ -1,0 +1,25 @@
+{
+    "name": "Şaphane Vişnesi",
+    "description": "Şaphane Vişnesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/a8df5d4a-8b95-46cb-8bd7-41a42ef165ae.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1582750800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38325
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kütahya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

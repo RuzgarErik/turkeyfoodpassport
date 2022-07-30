@@ -1,0 +1,25 @@
+{
+    "name": "Tarsus Sarıulak Zeytinyağı",
+    "description": "Tarsus Sarıulak Zeytinyağı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/cc3bafd5-77dd-4dd0-9258-b3f52b4ab9a2.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1621890000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1924
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Tereyağı dâhil katı ve sıvı yağlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Mersin"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

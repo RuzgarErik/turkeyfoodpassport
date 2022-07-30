@@ -1,0 +1,25 @@
+{
+    "name": "Amasya Beji Mermeri",
+    "description": "Amasya Beji Mermeri",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/358.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1528664400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38420
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Amasya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

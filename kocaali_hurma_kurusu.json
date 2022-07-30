@@ -1,0 +1,25 @@
+{
+    "name": "Kocaali Hurma Kurusu",
+    "description": "Kocaali Hurma Kurusu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/4a17a41e-346c-4f40-b1a3-040ba15c4796.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1627419600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2222
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Sakarya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

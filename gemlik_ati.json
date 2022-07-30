@@ -1,0 +1,25 @@
+{
+    "name": "Gemlik Atı",
+    "description": "Gemlik Atı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/bd2bbbfc-40bc-4e67-bc26-14fafa8b63bd.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1039471200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37901
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bursa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Diyarbakır Simindirik Çorbası",
+    "description": "Diyarbakır Simindirik Çorbası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/3e5dbd8b-65e4-4cf4-97a7-f3fbf41aafdf.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1629406800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2927
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Diyarbakır"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

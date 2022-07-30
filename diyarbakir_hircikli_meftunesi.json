@@ -1,0 +1,25 @@
+{
+    "name": "Diyarbakır Hırçikli Meftunesi",
+    "description": "Diyarbakır Hırçikli Meftunesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/94551d87-80d5-4fa4-9781-182d15095f3c.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1642626000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2912
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Diyarbakır"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

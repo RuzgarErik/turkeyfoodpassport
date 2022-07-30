@@ -1,0 +1,25 @@
+{
+    "name": "Tamzara Dokuması",
+    "description": "Tamzara Dokuması",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c4a45da3-b335-4d80-8f5e-1ee45a2bb6bc.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1569790800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38623
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Dokumalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Giresun"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

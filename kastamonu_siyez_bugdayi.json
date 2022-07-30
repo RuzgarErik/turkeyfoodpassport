@@ -1,0 +1,25 @@
+{
+    "name": "Kastamonu Siyez Buğdayı",
+    "description": "Kastamonu Siyez Buğdayı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/4df60c3a-aff1-4ce8-941a-5954cb1183f1.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1600981200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 61
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kastamonu"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

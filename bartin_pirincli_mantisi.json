@@ -1,0 +1,25 @@
+{
+    "name": "Bartın Pirinçli Mantısı",
+    "description": "Bartın Pirinçli Mantısı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f0de027b-9726-4865-887d-3ae5faa5c232.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1602190800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38667
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bartın"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

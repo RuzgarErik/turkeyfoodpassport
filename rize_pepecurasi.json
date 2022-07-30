@@ -1,0 +1,25 @@
+{
+    "name": "Rize Pepeçurası",
+    "description": "Rize Pepeçurası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f906f538-3b5f-4fa3-a51b-4c03c008da54.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1616706000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38650
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Rize"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

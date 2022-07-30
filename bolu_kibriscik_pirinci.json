@@ -1,0 +1,25 @@
+{
+    "name": "Bolu Kıbrıscık Pirinci",
+    "description": "Bolu Kıbrıscık Pirinci",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/735ac1bc-9c6a-4d4b-a39c-dc5256967ef1.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1595883600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38210
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bolu"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

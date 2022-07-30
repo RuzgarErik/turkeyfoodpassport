@@ -1,0 +1,25 @@
+{
+    "name": "Kastamonu Simidi",
+    "description": "Kastamonu Simidi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/60d1ed3f-2bb7-4db4-be7f-c64173fad70d.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1561064400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38468
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kastamonu"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

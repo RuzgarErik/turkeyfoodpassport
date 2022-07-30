@@ -1,0 +1,25 @@
+{
+    "name": "Ordu Tostu",
+    "description": "Ordu Tostu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/087d752e-6116-4ee0-b420-2510d28f9111.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1621803600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2402
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Ordu"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

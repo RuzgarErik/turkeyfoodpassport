@@ -1,0 +1,25 @@
+{
+    "name": "Antakya Sürkü (Antakya Çökeleği)",
+    "description": "Antakya Sürkü (Antakya Çökeleği)",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/330.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1519592400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38274
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Peynirler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Hatay"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

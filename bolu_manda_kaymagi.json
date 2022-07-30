@@ -1,0 +1,25 @@
+{
+    "name": "Bolu Manda Kaymağı",
+    "description": "Bolu Manda Kaymağı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ec1ad357-30a2-47af-82e5-435ba097b339.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1601845200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 302
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Peynirler ve tereyağı dışında kalan süt ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bolu"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

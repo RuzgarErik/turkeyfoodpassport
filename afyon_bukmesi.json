@@ -1,0 +1,25 @@
+{
+    "name": "Afyon Bükmesi",
+    "description": "Afyon Bükmesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/fae5e5f3-8caa-48b3-9393-92ed99974cac.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1619643600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2082
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Afyonkarahisar"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

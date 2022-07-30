@@ -1,0 +1,25 @@
+{
+    "name": "Durağan Mahraması",
+    "description": "Durağan Mahraması",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/2eb012b5-318a-4b84-ab84-0ed43f59eb56.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1627938000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38662
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Dokumalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Sinop"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

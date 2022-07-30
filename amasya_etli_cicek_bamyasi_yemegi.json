@@ -1,0 +1,25 @@
+{
+    "name": "Amasya Etli Çiçek Bamyası Yemeği",
+    "description": "Amasya Etli Çiçek Bamyası Yemeği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/df712ebc-7193-4f69-abcb-c2f5dc880d61.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1637528400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3627
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Amasya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Sandıklı Kapama Yemeği",
+    "description": "Sandıklı Kapama Yemeği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/361da980-73f0-43c8-91a2-f4e963c40cfa.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1639688400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3643
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Afyonkarahisar"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

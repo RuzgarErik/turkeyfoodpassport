@@ -1,0 +1,25 @@
+{
+    "name": "Eşme - Yörük Kilimi",
+    "description": "Eşme - Yörük Kilimi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/4ce43043-5c1e-4108-a987-80cb91ea5ddd.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 879458400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37886
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar ve kilimler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Uşak"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

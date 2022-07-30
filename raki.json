@@ -1,0 +1,25 @@
+{
+    "name": "Rakı",
+    "description": "Rakı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0c923f0f-a8a9-4f6c-8fc7-e4daa7e5f4bb.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1276808400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38007
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Biralar ve diğer alkollü içkiler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Türkiye"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

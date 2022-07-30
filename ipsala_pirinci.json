@@ -1,0 +1,25 @@
+{
+    "name": "İpsala Pirinci",
+    "description": "İpsala Pirinci",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f725d4cc-a98b-4164-9dfd-acdff2b24347.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1462136400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38065
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Edirne"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

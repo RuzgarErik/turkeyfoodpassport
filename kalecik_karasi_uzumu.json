@@ -1,0 +1,25 @@
+{
+    "name": "Kalecik Karası Üzümü",
+    "description": "Kalecik Karası Üzümü",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/669b1d28-cd9f-4633-a0b4-8a3feac1f2c6.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1183669200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37960
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Ankara"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

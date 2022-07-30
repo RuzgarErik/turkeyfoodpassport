@@ -1,0 +1,25 @@
+{
+    "name": "Bartın Kabak Burma Tatlısı / Bartın Kabak Burması",
+    "description": "Bartın Kabak Burma Tatlısı / Bartın Kabak Burması",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/7af05ab1-749f-436a-90aa-3f9ad47bebaa.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1602190800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38664
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bartın"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Anzer Balı",
+    "description": "Anzer Balı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/90a693f8-04aa-4c37-b992-cf2c4ed6ea3c.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1613422800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1342
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Bal"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Rize"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Konya Zerdesi",
+    "description": "Konya Zerdesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/9bf3be44-7da8-4f60-b66c-692457ce782d.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1633899600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2574
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Konya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

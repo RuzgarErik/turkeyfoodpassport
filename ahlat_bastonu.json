@@ -1,0 +1,25 @@
+{
+    "name": "Ahlat Bastonu",
+    "description": "Ahlat Bastonu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/298.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1514235600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38341
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar, kilimler ve dokumalar dışında kalan el sanatı ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bitlis"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Bozcaada Çavuş Üzümü",
+    "description": "Bozcaada Çavuş Üzümü",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/21a5a1c8-0a9a-4709-b9b8-499f1fd8df83.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1591045200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38630
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Çanakkale"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Kayseri Fırın Ağzı Kebabı",
+    "description": "Kayseri Fırın Ağzı Kebabı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/de7aeea8-501d-4cae-b132-86d0024bae46.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1649192400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 4783
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kayseri"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

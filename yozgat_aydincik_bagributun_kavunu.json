@@ -1,0 +1,25 @@
+{
+    "name": "Yozgat Aydıncık Bağrıbütün Kavunu",
+    "description": "Yozgat Aydıncık Bağrıbütün Kavunu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/a462fbbc-bf69-4540-835c-14115be45ca4.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1598302800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 402
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Yozgat"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

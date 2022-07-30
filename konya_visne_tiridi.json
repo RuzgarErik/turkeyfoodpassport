@@ -1,0 +1,25 @@
+{
+    "name": "Konya Vişne Tiridi",
+    "description": "Konya Vişne Tiridi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ad8350ec-367f-4dbf-816d-12169226aada.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1635282000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2572
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Konya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

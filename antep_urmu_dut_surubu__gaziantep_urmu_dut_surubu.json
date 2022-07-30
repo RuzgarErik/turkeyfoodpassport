@@ -1,0 +1,25 @@
+{
+    "name": "Antep Urmu Dut Şurubu / Gaziantep Urmu Dut Şurubu",
+    "description": "Antep Urmu Dut Şurubu / Gaziantep Urmu Dut Şurubu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/3fca0aa1-4fec-412e-b929-5e93f10c3770.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1601240400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38632
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Alkolsüz içecekler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

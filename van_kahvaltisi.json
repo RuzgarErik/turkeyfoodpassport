@@ -1,0 +1,25 @@
+{
+    "name": "Van Kahvaltısı",
+    "description": "Van Kahvaltısı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/1706c3bc-7ef7-4635-874c-82343438c561.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1594846800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38658
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Van"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

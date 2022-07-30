@@ -1,0 +1,25 @@
+{
+    "name": "Sivrihisar Sarkası",
+    "description": "Sivrihisar Sarkası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/9232001f-0f19-4bbd-abe3-9640e409e77d.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1656968400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 4823
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar, kilimler ve dokumalar dışında kalan el sanatı ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Eskişehir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

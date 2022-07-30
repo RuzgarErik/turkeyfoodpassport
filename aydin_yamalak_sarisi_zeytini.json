@@ -1,0 +1,25 @@
+{
+    "name": "Aydın Yamalak Sarısı Zeytini",
+    "description": "Aydın Yamalak Sarısı Zeytini",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/12fab82d-cf57-4c67-b01b-3602f4d35d05.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1618952400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38590
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Aydın"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

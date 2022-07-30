@@ -1,0 +1,25 @@
+{
+    "name": "Bilecik Şerbetçiotu",
+    "description": "Bilecik Şerbetçiotu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/41188f46-8a64-4364-aa0a-daa59d388557.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1606683600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 822
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bilecik"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

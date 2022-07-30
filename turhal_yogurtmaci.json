@@ -1,0 +1,25 @@
+{
+    "name": "Turhal Yoğurtmacı",
+    "description": "Turhal Yoğurtmacı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/181.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1390860000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38074
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Tokat"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

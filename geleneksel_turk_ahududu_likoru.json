@@ -1,0 +1,25 @@
+{
+    "name": "Geleneksel Türk Ahududu Likörü",
+    "description": "Geleneksel Türk Ahududu Likörü",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/4f95320f-b864-4632-ab03-40d0a81a8508.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1307653200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37958
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Biralar ve diğer alkollü içkiler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Türkiye"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

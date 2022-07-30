@@ -1,0 +1,25 @@
+{
+    "name": "Üzümlü Dastarı/Yeşilüzümlü Dastarı",
+    "description": "Üzümlü Dastarı/Yeşilüzümlü Dastarı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/6e618a3e-b6c3-4375-b92f-effb399259c8.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1605819600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38673
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Dokumalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Muğla"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

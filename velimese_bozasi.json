@@ -1,0 +1,25 @@
+{
+    "name": "Velimeşe Bozası",
+    "description": "Velimeşe Bozası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/86a07f14-1c6f-4b1d-a630-e39813452864.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1618261200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2148
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Alkolsüz içecekler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Tekirdağ"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

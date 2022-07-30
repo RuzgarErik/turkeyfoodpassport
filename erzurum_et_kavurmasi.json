@@ -1,0 +1,25 @@
+{
+    "name": "Erzurum Et Kavurması",
+    "description": "Erzurum Et Kavurması",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/affe8628-6d04-4634-90fd-af2cb334573a.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1656968400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3722
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş İşlenmemiş Et Ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Erzurum"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

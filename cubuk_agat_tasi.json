@@ -1,0 +1,25 @@
+{
+    "name": "Çubuk Agat Taşı",
+    "description": "Çubuk Agat Taşı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/260.JPG",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1512507600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38265
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Ankara"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

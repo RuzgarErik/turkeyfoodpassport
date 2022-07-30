@@ -1,0 +1,25 @@
+{
+    "name": "Gaziantep Yoğurtlu Patates/Antep Yoğurtlu Patates",
+    "description": "Gaziantep Yoğurtlu Patates/Antep Yoğurtlu Patates",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/042ac039-9c12-44fc-8713-0b9b5f4f0f85.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1621026000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2227
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

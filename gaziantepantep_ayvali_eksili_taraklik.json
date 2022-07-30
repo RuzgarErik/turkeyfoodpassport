@@ -1,0 +1,25 @@
+{
+    "name": "Gaziantep/Antep Ayvalı Ekşili Taraklık",
+    "description": "Gaziantep/Antep Ayvalı Ekşili Taraklık",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/45c53fed-62a0-46c7-b462-3e920b0e4553.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1650229200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3484
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

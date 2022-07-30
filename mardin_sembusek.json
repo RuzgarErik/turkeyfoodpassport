@@ -1,0 +1,25 @@
+{
+    "name": "Mardin Sembusek",
+    "description": "Mardin Sembusek",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/7f8955cc-08bd-4afe-9ab2-d5525122b55d.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1261519200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37990
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Mardin"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

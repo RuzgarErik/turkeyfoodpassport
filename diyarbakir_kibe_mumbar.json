@@ -1,0 +1,25 @@
+{
+    "name": "Diyarbakır Kibe Mumbar",
+    "description": "Diyarbakır Kibe Mumbar",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/678f86a6-891b-43f7-9c50-487d21c228e1.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1656363600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2923
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Diyarbakır"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

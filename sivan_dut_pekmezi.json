@@ -1,0 +1,25 @@
+{
+    "name": "Sivan Dut Pekmezi",
+    "description": "Sivan Dut Pekmezi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/9d36d7d5-2d22-4cb8-b1a2-24376ad4cc42.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1611694800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1685
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bingöl"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

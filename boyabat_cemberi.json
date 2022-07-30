@@ -1,0 +1,25 @@
+{
+    "name": "Boyabat Çemberi",
+    "description": "Boyabat Çemberi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/126.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1265148000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37992
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Dokumalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Sinop"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

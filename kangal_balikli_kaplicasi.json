@@ -1,0 +1,25 @@
+{
+    "name": "Kangal Balıklı Kaplıcası",
+    "description": "Kangal Balıklı Kaplıcası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/8b08505b-4db5-4354-9c84-3e2e2b8b99d8.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1049662800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37912
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Sivas"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Vezirköprü Tahtaköprü Kilimi",
+    "description": "Vezirköprü Tahtaköprü Kilimi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/309e0eae-5074-4922-8b9f-622b77575acf.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1577048400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38588
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar ve kilimler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Samsun"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

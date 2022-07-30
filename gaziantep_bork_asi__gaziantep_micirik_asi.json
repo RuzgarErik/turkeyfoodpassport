@@ -1,0 +1,25 @@
+{
+    "name": "Gaziantep Börk Aşı / Gaziantep Mıcırık Aşı",
+    "description": "Gaziantep Börk Aşı / Gaziantep Mıcırık Aşı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/a46afb56-396f-43bc-b6b7-01d790ef2fc7.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1633294800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2306
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

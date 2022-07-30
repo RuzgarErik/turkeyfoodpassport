@@ -1,0 +1,25 @@
+{
+    "name": "Elazığ Öküzgözü Üzümü",
+    "description": "Elazığ Öküzgözü Üzümü",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/108.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1236290400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37983
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Elazığ"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Balıkesir Kuzu Eti",
+    "description": "Balıkesir Kuzu Eti",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/314.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1514840400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38242
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş İşlenmemiş Et Ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Balıkesir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

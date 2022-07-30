@@ -1,0 +1,25 @@
+{
+    "name": "Diyarbakır Kengerli Bulgur Pilavı",
+    "description": "Diyarbakır Kengerli Bulgur Pilavı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c44a99e7-6713-4d3c-a07e-1abdf730b2d7.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1654549200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2313
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Diyarbakır"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

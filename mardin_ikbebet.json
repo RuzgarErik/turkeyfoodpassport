@@ -1,0 +1,25 @@
+{
+    "name": "Mardin İkbebet",
+    "description": "Mardin İkbebet",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/edd8a544-6d4d-4e28-9951-ff2a573691fe.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1261519200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37991
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Mardin"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

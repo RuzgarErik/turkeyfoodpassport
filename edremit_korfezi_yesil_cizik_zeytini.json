@@ -1,0 +1,25 @@
+{
+    "name": "Edremit Körfezi Yeşil Çizik Zeytini",
+    "description": "Edremit Körfezi Yeşil Çizik Zeytini",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/50db458c-9d7e-4a96-b536-a9ede275d4e0.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1438290000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38130
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Balıkesir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

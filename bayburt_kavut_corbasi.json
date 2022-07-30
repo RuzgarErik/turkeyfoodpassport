@@ -1,0 +1,25 @@
+{
+    "name": "Bayburt Kavut Çorbası",
+    "description": "Bayburt Kavut Çorbası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/fafcabb8-74a7-46d8-8bca-8e1cdd60288d.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1591563600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38476
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bayburt"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

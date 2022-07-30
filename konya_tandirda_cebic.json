@@ -1,0 +1,25 @@
+{
+    "name": "Konya Tandırda Çebiç",
+    "description": "Konya Tandırda Çebiç",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/a30d4a4c-53bc-424c-b039-de02d5d00d6c.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1633035600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2645
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Konya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

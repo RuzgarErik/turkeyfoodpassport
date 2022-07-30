@@ -1,0 +1,25 @@
+{
+    "name": "Araç Kül Çöreği",
+    "description": "Araç Kül Çöreği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d4296479-95f0-4033-aa0d-8a32a6c3e0dd.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1638997200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1722
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kastamonu"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

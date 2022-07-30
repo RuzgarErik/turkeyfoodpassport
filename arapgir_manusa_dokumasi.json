@@ -1,0 +1,25 @@
+{
+    "name": "Arapgir Manusa Dokuması",
+    "description": "Arapgir Manusa Dokuması",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/bd9ef461-54c7-47b0-94fc-d4b004863cd2.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1643144400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2544
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Dokumalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Malatya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

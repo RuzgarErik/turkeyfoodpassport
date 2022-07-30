@@ -1,0 +1,25 @@
+{
+    "name": "Aydın Memecik Zeytini",
+    "description": "Aydın Memecik Zeytini",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/2162dd04-6c82-4c28-bc59-641faea27cb4.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1620334800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 642
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Aydın"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

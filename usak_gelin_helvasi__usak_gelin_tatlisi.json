@@ -1,0 +1,25 @@
+{
+    "name": "Uşak Gelin Helvası / Uşak Gelin Tatlısı",
+    "description": "Uşak Gelin Helvası / Uşak Gelin Tatlısı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/483cf144-9979-4f35-b69f-0bc8ebce3bf4.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1650229200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 4888
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Uşak"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

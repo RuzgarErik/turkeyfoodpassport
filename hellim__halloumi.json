@@ -1,0 +1,25 @@
+{
+    "name": "Hellim / Halloumi",
+    "description": "Hellim / Halloumi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/8cddcc72-012f-4ff9-ba3d-94b66f8b08c1.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1274648400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38003
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Peynirler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Yurtdışı"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

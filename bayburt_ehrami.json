@@ -1,0 +1,25 @@
+{
+    "name": "Bayburt Ehramı",
+    "description": "Bayburt Ehramı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/2f7d6675-78f8-4395-8504-2770c7166a2f.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1577221200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 222
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Dokumalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bayburt"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

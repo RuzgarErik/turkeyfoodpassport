@@ -1,0 +1,25 @@
+{
+    "name": "Muş Köftesi",
+    "description": "Muş Köftesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/2f299d8a-c029-4514-872e-fc66d555b59c.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1638824400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3284
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Muş"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

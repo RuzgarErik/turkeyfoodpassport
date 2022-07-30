@@ -1,0 +1,25 @@
+{
+    "name": "Beypazarı Dolması / Beypazarı Yaprak Sarması",
+    "description": "Beypazarı Dolması / Beypazarı Yaprak Sarması",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/42e15f4e-62ae-42a5-962e-c1a0a2af15a8.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1652994000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 789
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Ankara"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

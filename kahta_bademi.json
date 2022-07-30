@@ -1,0 +1,25 @@
+{
+    "name": "Kahta Bademi",
+    "description": "Kahta Bademi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0fa43c24-f6c8-479a-b44e-ada87dc2ffb9.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1617570000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1562
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Adıyaman"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

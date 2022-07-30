@@ -1,0 +1,25 @@
+{
+    "name": "Şarkışla Kilimi",
+    "description": "Şarkışla Kilimi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b4340c7d-3658-4342-a5e9-326273a26308.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1573506000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38445
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar ve kilimler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Sivas"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

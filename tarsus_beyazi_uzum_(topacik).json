@@ -1,0 +1,25 @@
+{
+    "name": "Tarsus Beyazı Üzüm (Topacık)",
+    "description": "Tarsus Beyazı Üzüm (Topacık)",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/8a74a4cb-0b15-4db9-8fc8-acf49cda9168.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1118696400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37931
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Mersin"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

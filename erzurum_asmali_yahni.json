@@ -1,0 +1,25 @@
+{
+    "name": "Erzurum Aşmalı Yahni",
+    "description": "Erzurum Aşmalı Yahni",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/cc08b960-ad08-4fb6-8166-b38b2fa9a613.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1640552400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3782
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Erzurum"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

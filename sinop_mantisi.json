@@ -1,0 +1,25 @@
+{
+    "name": "Sinop Mantısı",
+    "description": "Sinop Mantısı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/4a574d22-8fe2-48ce-9445-df1743e8edd6.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1639947600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1584
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Sinop"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

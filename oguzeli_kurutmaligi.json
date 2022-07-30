@@ -1,0 +1,25 @@
+{
+    "name": "Oğuzeli Kurutmalığı",
+    "description": "Oğuzeli Kurutmalığı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c90a0fac-82bb-4fa5-835e-6da945701250.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1617829200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38267
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

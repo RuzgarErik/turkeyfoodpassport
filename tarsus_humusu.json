@@ -1,0 +1,25 @@
+{
+    "name": "Tarsus Humusu",
+    "description": "Tarsus Humusu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d5403b0e-4d39-46f9-9b03-4a3690d3256a.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1509483600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38283
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Mersin"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

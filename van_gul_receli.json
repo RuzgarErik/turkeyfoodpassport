@@ -1,0 +1,25 @@
+{
+    "name": "Van Gül Reçeli",
+    "description": "Van Gül Reçeli",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/aadbcfc7-060e-4736-add3-e210e55aaf25.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1594846800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38659
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Van"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

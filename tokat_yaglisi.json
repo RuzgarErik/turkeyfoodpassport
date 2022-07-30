@@ -1,0 +1,25 @@
+{
+    "name": "Tokat Yağlısı",
+    "description": "Tokat Yağlısı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/9df26024-3867-4baf-876b-b3ecb8998d86.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1631826000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 4226
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Tokat"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

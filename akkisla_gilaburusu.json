@@ -1,0 +1,25 @@
+{
+    "name": "Akkışla Gilaburusu",
+    "description": "Akkışla Gilaburusu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/950a461e-6cab-440e-a755-0c259cb02df0.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1613077200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38229
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kayseri"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Sivrihisar Cebesi",
+    "description": "Sivrihisar Cebesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/af04f8c7-2dfe-4bae-9456-442229d3b86a.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1601845200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1483
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar, kilimler ve dokumalar dışında kalan el sanatı ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Eskişehir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

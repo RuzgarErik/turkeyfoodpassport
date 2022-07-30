@@ -1,0 +1,25 @@
+{
+    "name": "Ayaş Dutu",
+    "description": "Ayaş Dutu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/1d6a2804-72f1-46d1-ba03-ff43fd0d7285.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1632258000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3083
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Ankara"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

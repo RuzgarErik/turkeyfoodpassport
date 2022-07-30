@@ -1,0 +1,25 @@
+{
+    "name": "Siirt Büryan Kebabı",
+    "description": "Siirt Büryan Kebabı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/05a45c71-2263-4b98-b544-1ecc5f233129.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1118696400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37921
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Siirt"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

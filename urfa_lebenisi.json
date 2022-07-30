@@ -1,0 +1,25 @@
+{
+    "name": "Urfa Lebenisi",
+    "description": "Urfa Lebenisi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/320.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1514494800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38132
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Şanlıurfa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

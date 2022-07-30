@@ -1,0 +1,25 @@
+{
+    "name": "Sivas Bıçağı",
+    "description": "Sivas Bıçağı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/401.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1545771600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38375
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar, kilimler ve dokumalar dışında kalan el sanatı ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Sivas"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

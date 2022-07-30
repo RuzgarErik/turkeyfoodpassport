@@ -1,0 +1,25 @@
+{
+    "name": "Kayseri Yağ Mantısı",
+    "description": "Kayseri Yağ Mantısı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/4fdceb39-a2ef-4378-8d6c-bfa3e5b8ef8d.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1642626000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 4429
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kayseri"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

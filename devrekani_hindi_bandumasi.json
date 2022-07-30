@@ -1,0 +1,25 @@
+{
+    "name": "Devrekani Hindi Banduması",
+    "description": "Devrekani Hindi Banduması",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/672de1c9-11bc-4e5d-abd1-3eb4d7174fa1.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1561496400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38385
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kastamonu"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

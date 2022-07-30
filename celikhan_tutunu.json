@@ -1,0 +1,25 @@
+{
+    "name": "Çelikhan Tütünü",
+    "description": "Çelikhan Tütünü",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/66.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1117314000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37911
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Tütün"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Adıyaman"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

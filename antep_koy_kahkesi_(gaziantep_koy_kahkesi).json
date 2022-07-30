@@ -1,0 +1,25 @@
+{
+    "name": "Antep Köy Kahkesi (Gaziantep Köy Kahkesi)",
+    "description": "Antep Köy Kahkesi (Gaziantep Köy Kahkesi)",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/291.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1514149200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38294
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

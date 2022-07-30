@@ -1,0 +1,25 @@
+{
+    "name": "Urfa Kıymalı Söğürme / Şanlıurfa Kıymalı Söğürme",
+    "description": "Urfa Kıymalı Söğürme / Şanlıurfa Kıymalı Söğürme",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d78c9aa9-d787-402f-8b33-f738f5a1a2d6.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1548709200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38123
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Şanlıurfa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

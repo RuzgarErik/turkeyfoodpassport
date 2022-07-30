@@ -1,0 +1,25 @@
+{
+    "name": "Balıkesir Höşmerim Tatlısı",
+    "description": "Balıkesir Höşmerim Tatlısı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ed37c4e8-c40e-4e17-bfab-93afd4b6cea6.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1438290000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38043
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Balıkesir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

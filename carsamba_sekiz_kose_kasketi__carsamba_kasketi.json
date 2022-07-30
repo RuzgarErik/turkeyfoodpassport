@@ -1,0 +1,25 @@
+{
+    "name": "Çarşamba Sekiz Köşe Kasketi / Çarşamba Kasketi",
+    "description": "Çarşamba Sekiz Köşe Kasketi / Çarşamba Kasketi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ba5ed23e-b7cd-4338-97e4-dd7eaa684e11.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1602190800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 944
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar, kilimler ve dokumalar dışında kalan el sanatı ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Samsun"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

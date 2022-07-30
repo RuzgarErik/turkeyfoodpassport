@@ -1,0 +1,25 @@
+{
+    "name": "Tandırda Van Balığı / Tandırda Van İnci Kefali",
+    "description": "Tandırda Van Balığı / Tandırda Van İnci Kefali",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/cb56cc74-8dca-4fb0-9a3a-ea95ece83911.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1642626000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3497
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Van"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

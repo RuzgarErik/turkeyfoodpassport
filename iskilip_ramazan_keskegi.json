@@ -1,0 +1,25 @@
+{
+    "name": "İskilip Ramazan Keşkeği",
+    "description": "İskilip Ramazan Keşkeği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/919d3af2-0357-4de0-bf29-c9f006f305b4.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1632344400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3069
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Çorum"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Hatay Oruğu",
+    "description": "Hatay Oruğu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/6c9e6dbe-4a19-48f9-83fc-5d02af9c176c.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1650229200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 5084
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Hatay"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

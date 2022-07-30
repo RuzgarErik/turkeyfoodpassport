@@ -1,0 +1,25 @@
+{
+    "name": "Elazığ Boğazkere Üzümü",
+    "description": "Elazığ Boğazkere Üzümü",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e5db0f18-e248-4805-b74e-2222c267410e.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1549832400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38402
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Elazığ"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Yamula Patlıcanı",
+    "description": "Yamula Patlıcanı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/574bc2ed-1ac1-427d-9bcb-47e3de47e2d3.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1267048800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37985
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kayseri"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

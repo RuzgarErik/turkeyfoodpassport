@@ -1,0 +1,25 @@
+{
+    "name": "Afyon Kaymağı",
+    "description": "Afyon Kaymağı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/115.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1247173200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37936
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Peynirler ve tereyağı dışında kalan süt ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Afyonkarahisar"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

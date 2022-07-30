@@ -1,0 +1,25 @@
+{
+    "name": "Erzincan Bakır İmalat Ve El İşlemeciliği Sanatı",
+    "description": "Erzincan Bakır İmalat Ve El İşlemeciliği Sanatı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/38.JPG",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1030568400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37905
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar, kilimler ve dokumalar dışında kalan el sanatı ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Erzincan"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

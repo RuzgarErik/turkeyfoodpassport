@@ -1,0 +1,25 @@
+{
+    "name": "Rize Enişte Lokumu",
+    "description": "Rize Enişte Lokumu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/84e1da6a-eb4b-48d4-9758-79abbe254651.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1621976400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2362
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Rize"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

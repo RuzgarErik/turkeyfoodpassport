@@ -1,0 +1,25 @@
+{
+    "name": "Van Pastası",
+    "description": "Van Pastası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ed2b5b1c-a6ff-4cf6-9857-6f9def53140d.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1626382800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 609
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Van"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

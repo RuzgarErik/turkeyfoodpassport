@@ -1,0 +1,25 @@
+{
+    "name": "Antakya Kağıt Kebabı",
+    "description": "Antakya Kağıt Kebabı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/15f31c62-90a9-4611-8615-d35600ebd5c4.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1598216400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 646
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Hatay"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

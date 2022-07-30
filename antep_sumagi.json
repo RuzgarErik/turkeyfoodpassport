@@ -1,0 +1,25 @@
+{
+    "name": "Antep Sumağı",
+    "description": "Antep Sumağı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/46db4bcb-3026-46ba-af0a-4a61fc30bd0c.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1625691600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 102
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yiyecekler için çeşni / lezzet vericiler, soslar ve tuz"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

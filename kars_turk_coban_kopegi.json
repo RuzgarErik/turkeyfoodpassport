@@ -1,0 +1,25 @@
+{
+    "name": "Kars Türk Çoban Köpeği",
+    "description": "Kars Türk Çoban Köpeği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5bfffcb6-19ee-48fb-90c8-9c0e6a6d1505.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1039471200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37902
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kars"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

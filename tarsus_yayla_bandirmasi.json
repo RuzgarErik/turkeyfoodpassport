@@ -1,0 +1,25 @@
+{
+    "name": "Tarsus Yayla Bandırması",
+    "description": "Tarsus Yayla Bandırması",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f2dc9634-d229-44b0-98fd-eb51db40a491.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1228341600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37946
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Çikolata, şekerleme ve türevi ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Mersin"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

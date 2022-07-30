@@ -1,0 +1,25 @@
+{
+    "name": "Antep Zahter Çayı / Gaziantep Zahter Çayı",
+    "description": "Antep Zahter Çayı / Gaziantep Zahter Çayı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c810cac0-41e8-4be6-9e97-7e5b980bba5d.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1652821200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 5627
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

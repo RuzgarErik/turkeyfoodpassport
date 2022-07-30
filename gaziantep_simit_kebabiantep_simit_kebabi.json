@@ -1,0 +1,25 @@
+{
+    "name": "Gaziantep Simit Kebabı/Antep Simit Kebabı",
+    "description": "Gaziantep Simit Kebabı/Antep Simit Kebabı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/736113ad-f5b2-45a1-a320-1be61d6d2d55.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1618779600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2064
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

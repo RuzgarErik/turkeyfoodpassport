@@ -1,0 +1,25 @@
+{
+    "name": "Konya Kenevir Helvası",
+    "description": "Konya Kenevir Helvası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/660ac031-d2fe-4296-ab3c-33e80e974bbb.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1636059600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2563
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Konya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

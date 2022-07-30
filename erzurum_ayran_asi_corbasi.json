@@ -1,0 +1,25 @@
+{
+    "name": "Erzurum Ayran Aşı Çorbası",
+    "description": "Erzurum Ayran Aşı Çorbası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/86ead14e-629b-4d6f-82d2-8135404a4cc4.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1649797200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3745
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Erzurum"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

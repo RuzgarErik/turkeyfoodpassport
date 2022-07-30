@@ -1,0 +1,25 @@
+{
+    "name": "Muş Çorti Turşusu",
+    "description": "Muş Çorti Turşusu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/294.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1514149200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38344
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Muş"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

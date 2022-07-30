@@ -1,0 +1,25 @@
+{
+    "name": "Erzurum Civil Peyniri",
+    "description": "Erzurum Civil Peyniri",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/72e7c2da-ebbf-444e-a2a9-ac0e9a5942a9.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1252616400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37987
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Peynirler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Erzurum"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

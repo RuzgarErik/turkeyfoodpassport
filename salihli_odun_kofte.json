@@ -1,0 +1,25 @@
+{
+    "name": "Salihli Odun Köfte",
+    "description": "Salihli Odun Köfte",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/696d4eca-df6f-4e4b-863f-19966a99aa96.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1219179600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37975
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Manisa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

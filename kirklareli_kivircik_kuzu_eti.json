@@ -1,0 +1,25 @@
+{
+    "name": "Kırklareli Kıvırcık Kuzu Eti",
+    "description": "Kırklareli Kıvırcık Kuzu Eti",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/31f4b7b6-2fe8-4a22-9762-bf30984aac87.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1613595600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38473
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş İşlenmemiş Et Ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kırklareli"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Antep Fıstık Ezmesi (Antepfıstığı Ezmesi / Gaziantep Fıstık Ezmesi)",
+    "description": "Antep Fıstık Ezmesi (Antepfıstığı Ezmesi / Gaziantep Fıstık Ezmesi)",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/237.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1511125200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38244
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Çikolata, şekerleme ve türevi ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

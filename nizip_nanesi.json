@@ -1,0 +1,25 @@
+{
+    "name": "Nizip Nanesi",
+    "description": "Nizip Nanesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/45783f7d-dae6-4df0-b173-ab44401581dc.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1583960400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38458
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yiyecekler için çeşni / lezzet vericiler, soslar ve tuz"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

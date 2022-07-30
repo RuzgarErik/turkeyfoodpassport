@@ -1,0 +1,25 @@
+{
+    "name": "Gerede Şakşak Helvası",
+    "description": "Gerede Şakşak Helvası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d32a7c75-2f01-42b3-95fd-832cdd533162.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1604610000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1162
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bolu"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Yumurta Topuk Çarşamba Ayakkabısı / Çarşamba Ayakkabısı",
+    "description": "Yumurta Topuk Çarşamba Ayakkabısı / Çarşamba Ayakkabısı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/68ad2ca4-e364-4855-9019-ff7091e2a49b.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1602190800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 945
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar, kilimler ve dokumalar dışında kalan el sanatı ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Samsun"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

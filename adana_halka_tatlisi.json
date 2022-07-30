@@ -1,0 +1,25 @@
+{
+    "name": "Adana Halka Tatlısı",
+    "description": "Adana Halka Tatlısı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ac377998-56f2-45d7-8381-8f2780124523.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1601845200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1214
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Adana"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

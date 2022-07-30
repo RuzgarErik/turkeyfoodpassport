@@ -1,0 +1,25 @@
+{
+    "name": "Antep Beyranı",
+    "description": "Antep Beyranı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/11e4e6a7-de56-4a44-891e-2086d075209b.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1484254800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38159
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

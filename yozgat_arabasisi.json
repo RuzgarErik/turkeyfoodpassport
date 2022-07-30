@@ -1,0 +1,25 @@
+{
+    "name": "Yozgat Arabaşısı",
+    "description": "Yozgat Arabaşısı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ad43a3b7-9121-4395-8f3d-25be19995d53.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1388095200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38044
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Yozgat"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

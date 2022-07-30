@@ -1,0 +1,25 @@
+{
+    "name": "Gaziantep Sütlü Zerdesi/Gaziantep Astarlı Sütlacı",
+    "description": "Gaziantep Sütlü Zerdesi/Gaziantep Astarlı Sütlacı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/27f3f023-00b1-4120-9664-d3b41631584f.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1606338000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1807
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

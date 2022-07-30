@@ -1,0 +1,25 @@
+{
+    "name": "Ereğli Koyun Yoğurdu",
+    "description": "Ereğli Koyun Yoğurdu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b4ba5458-ef1b-4f2a-9e67-6be3eb037874.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1626037200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38376
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Peynirler ve tereyağı dışında kalan süt ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Konya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

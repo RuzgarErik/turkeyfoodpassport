@@ -1,0 +1,25 @@
+{
+    "name": "Suşehri Kuru Fasulyesi",
+    "description": "Suşehri Kuru Fasulyesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ee40f3ba-6c25-4a01-8387-ec812063528f.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1654808400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3623
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Sivas"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

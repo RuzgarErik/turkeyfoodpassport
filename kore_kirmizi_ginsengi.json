@@ -1,0 +1,25 @@
+{
+    "name": "Kore Kırmızı Ginsengi\t",
+    "description": "Kore Kırmızı Ginsengi\t",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 0
+        },
+        {
+            "trait_type": "Id",
+            "value": 682
+        },
+        {
+            "trait_type": "Türü",
+            "value": ""
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Yurtdışı"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

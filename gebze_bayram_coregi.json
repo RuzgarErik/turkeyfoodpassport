@@ -1,0 +1,25 @@
+{
+    "name": "Gebze Bayram Çöreği",
+    "description": "Gebze Bayram Çöreği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c3a9692c-37ec-4f58-a4e9-eebe5c20dd80.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1622149200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2845
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Kocaeli"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

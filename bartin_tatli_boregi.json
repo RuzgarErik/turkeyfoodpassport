@@ -1,0 +1,25 @@
+{
+    "name": "Bartın Tatlı Böreği",
+    "description": "Bartın Tatlı Böreği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f667b7eb-ee74-43af-90e3-c5d57989b53e.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1597611600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38541
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bartın"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

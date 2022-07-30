@@ -1,0 +1,25 @@
+{
+    "name": "Bursa Tahinli Pide",
+    "description": "Bursa Tahinli Pide",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ba27ee2b-56ca-4941-aa96-87cb1ff655ab.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1635714000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1204
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bursa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

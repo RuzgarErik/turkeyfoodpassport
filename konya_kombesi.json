@@ -1,0 +1,25 @@
+{
+    "name": "Konya Kömbesi",
+    "description": "Konya Kömbesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/a0378fe2-0373-4153-8469-a93a4da2caa4.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1653339600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2588
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Konya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

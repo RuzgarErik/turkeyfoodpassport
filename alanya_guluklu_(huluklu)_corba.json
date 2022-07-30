@@ -1,0 +1,25 @@
+{
+    "name": "Alanya Gülüklü (Hülüklü) Çorba",
+    "description": "Alanya Gülüklü (Hülüklü) Çorba",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/3c7ed7bf-b39c-4a8c-8200-65a165ee5c17.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1569445200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38532
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Antalya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Antep Peyniri / Gaziantep Peyniri / Antep Sıkma Peyniri",
+    "description": "Antep Peyniri / Gaziantep Peyniri / Antep Sıkma Peyniri",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/356.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1528059600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38271
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Peynirler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Antep Pekmezi / Gaziantep Pekmezi",
+    "description": "Antep Pekmezi / Gaziantep Pekmezi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/cfa81b72-50f1-4b5e-8bdb-f2b1c1c269c9.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1595538000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38296
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

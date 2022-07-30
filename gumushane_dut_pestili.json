@@ -1,0 +1,25 @@
+{
+    "name": "Gümüşhane Dut Pestili",
+    "description": "Gümüşhane Dut Pestili",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/01db3888-73ec-49ba-a777-f028324779b6.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1104098400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37939
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Çikolata, şekerleme ve türevi ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gümüşhane"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

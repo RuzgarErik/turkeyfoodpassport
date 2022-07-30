@@ -1,0 +1,25 @@
+{
+    "name": "İzmir Tulum Peyniri",
+    "description": "İzmir Tulum Peyniri",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/a8a0c4f7-572d-4689-a456-58709940fb4c.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1642971600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38028
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Peynirler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "İzmir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

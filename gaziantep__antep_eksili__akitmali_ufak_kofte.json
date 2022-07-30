@@ -1,0 +1,25 @@
+{
+    "name": "Gaziantep / Antep Ekşili / Akıtmalı Ufak Köfte",
+    "description": "Gaziantep / Antep Ekşili / Akıtmalı Ufak Köfte",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5522c033-caac-4467-84e3-87666f0d9c67.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1642366800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2146
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Gaziantep"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

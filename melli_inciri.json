@@ -1,0 +1,25 @@
+{
+    "name": "Melli İnciri",
+    "description": "Melli İnciri",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/370.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1532898000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38312
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Burdur"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

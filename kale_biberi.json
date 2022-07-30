@@ -1,0 +1,25 @@
+{
+    "name": "Kale Biberi",
+    "description": "Kale Biberi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/139.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1265839200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38005
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Denizli"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Sivrihisar Muska Baklavası",
+    "description": "Sivrihisar Muska Baklavası",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/381.JPG",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1536094800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38261
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Eskişehir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

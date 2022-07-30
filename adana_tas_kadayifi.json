@@ -1,0 +1,25 @@
+{
+    "name": "Adana Taş Kadayıfı",
+    "description": "Adana Taş Kadayıfı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/66c5099d-fa3d-49eb-9785-d54b1e85498e.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1609880400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 1218
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Adana"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Gelveri Ekmeği",
+    "description": "Gelveri Ekmeği",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e43d62f9-87a9-4dab-bb13-3265cf103e7c.png",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1646600400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 3625
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Aksaray"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

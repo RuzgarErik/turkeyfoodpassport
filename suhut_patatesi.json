@@ -1,0 +1,25 @@
+{
+    "name": "Şuhut Patatesi",
+    "description": "Şuhut Patatesi",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/00b3cfbb-4035-4885-94c3-a23f0d05b8b2.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1649106000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 4242
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Afyonkarahisar"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

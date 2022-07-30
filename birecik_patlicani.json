@@ -1,0 +1,25 @@
+{
+    "name": "Birecik Patlıcanı",
+    "description": "Birecik Patlıcanı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/217.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1497819600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38111
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Şanlıurfa"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

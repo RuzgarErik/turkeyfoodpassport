@@ -1,0 +1,25 @@
+{
+    "name": "Douro",
+    "description": "Douro",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/2081d9a7-e516-4d78-8c53-3308fbe524cf.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1643576400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2187
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Biralar ve diğer alkollü içkiler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Yurtdışı"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

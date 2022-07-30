@@ -1,0 +1,25 @@
+{
+    "name": "Konya Patlıcan Bayıldan",
+    "description": "Konya Patlıcan Bayıldan",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/7216e010-8363-4150-8389-060264f3c980.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1630962000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2604
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Yemekler ve çorbalar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Konya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

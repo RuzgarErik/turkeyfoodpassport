@@ -1,0 +1,25 @@
+{
+    "name": "Muğla Çam Balı",
+    "description": "Muğla Çam Balı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/379.jpg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1534280400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37982
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Bal"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Muğla"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

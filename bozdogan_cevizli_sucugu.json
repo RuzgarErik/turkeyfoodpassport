@@ -1,0 +1,25 @@
+{
+    "name": "Bozdoğan Cevizli Sucuğu",
+    "description": "Bozdoğan Cevizli Sucuğu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0451f213-9af0-462f-8ea0-cbce38e36f45.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1606683600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 161
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Çikolata, şekerleme ve türevi ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Aydın"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

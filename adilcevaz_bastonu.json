@@ -1,0 +1,25 @@
+{
+    "name": "Adilcevaz Bastonu",
+    "description": "Adilcevaz Bastonu",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/55dfab3f-7653-4ae8-aeb9-7793ce28c692.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1555880400000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38567
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar, kilimler ve dokumalar dışında kalan el sanatı ürünleri"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Bitlis"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

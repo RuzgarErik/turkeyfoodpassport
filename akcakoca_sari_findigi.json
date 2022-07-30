@@ -1,0 +1,25 @@
+{
+    "name": "Akçakoca Sarı Fındığı",
+    "description": "Akçakoca Sarı Fındığı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/25968c18-242d-4a6b-8b91-b490d6b0155f.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1551214800000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38323
+        },
+        {
+            "trait_type": "Türü",
+            "value": "İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Düzce"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

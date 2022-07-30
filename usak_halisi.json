@@ -1,0 +1,25 @@
+{
+    "name": "Uşak Halısı",
+    "description": "Uşak Halısı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ea5fac9d-8f29-4234-8e9e-edb3bf33d7d6.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1328565600000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38016
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Halılar ve kilimler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Uşak"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

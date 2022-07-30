@@ -1,0 +1,25 @@
+{
+    "name": "Burhaniye Zeytinyağı",
+    "description": "Burhaniye Zeytinyağı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0bdf5700-49cc-4834-b811-01bf8b8de1b6.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1597093200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 104
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Tereyağı dâhil katı ve sıvı yağlar"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Balıkesir"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

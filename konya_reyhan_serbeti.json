@@ -1,0 +1,25 @@
+{
+    "name": "Konya Reyhan Şerbeti",
+    "description": "Konya Reyhan Şerbeti",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ee1daeb9-4af6-40e9-8265-a5d616006f57.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1628197200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 2660
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Alkolsüz içecekler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Konya"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

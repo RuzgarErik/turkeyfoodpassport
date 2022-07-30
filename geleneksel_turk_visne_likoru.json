@@ -1,0 +1,25 @@
+{
+    "name": "Geleneksel Türk Vişne Likörü",
+    "description": "Geleneksel Türk Vişne Likörü",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0431c12f-11c4-49d3-8e76-352bd1a4fa02.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1307653200000
+        },
+        {
+            "trait_type": "Id",
+            "value": 37955
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Biralar ve diğer alkollü içkiler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Türkiye"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

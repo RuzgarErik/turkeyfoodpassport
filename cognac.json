@@ -1,0 +1,25 @@
+{
+    "name": "Cognac",
+    "description": "Cognac",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/77b8f974-a011-4fd3-8d52-5ca0a46458e6.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1616706000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 124
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Biralar ve diğer alkollü içkiler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Yurtdışı"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

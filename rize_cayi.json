@@ -1,0 +1,25 @@
+{
+    "name": "Rize Çayı",
+    "description": "Rize Çayı",
+    "image": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/2fb62c74-a098-4c44-9a48-14f46d79a578.jpeg",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Tescil Tarihi",
+            "value": 1616706000000
+        },
+        {
+            "trait_type": "Id",
+            "value": 38339
+        },
+        {
+            "trait_type": "Türü",
+            "value": "Diğer ürünler"
+        },
+        {
+            "trait_type": "Sehir",
+            "value": "Rize"
+        }
+    ],
+    "external_url": "https://ruzgarerik.com"
+}

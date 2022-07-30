@@ -6,7 +6,7 @@ import os
 jsonurl = "https://ci.turkpatent.gov.tr/Data/GetList?Name=&FileNumber=&ApplicationDate=&ApplicationDateEnd=&RegistrationDate=&RegistrationDateEnd=&TypeId=&ProductGroupId=&CityId=&StatusId="
 photourl = "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/"
 Tr2Eng = str.maketrans("çğıöşüİ", "cgiosui")
-jsonmetadataurl= "http://ruzgarerik.com/turkeyfoodpassport/"
+jsonmetadataurl= "https://ruzgarerik.com/turkeyfoodpassport/"
 
 
 nftData = {

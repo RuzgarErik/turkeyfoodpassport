@@ -1,0 +1,982 @@
+[
+    {
+        "name": "Antep Allı Yeşilli Dolma /Antep Nakışlı Dolma /Antep Yaz Dolması",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ba679a2f-f604-4b71-8e8f-f690b232983e.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/antep_alli_yesilli_dolma_antep_nakisli_dolma_antep_yaz_dolmasi.json"
+    },
+    {
+        "name": "Antep Baklavası",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c61b7484-6c07-456d-9ddb-46e11942e5cc.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/antep_baklavasi.json"
+    },
+    {
+        "name": "Antep Beyranı",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/11e4e6a7-de56-4a44-891e-2086d075209b.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/antep_beyrani.json"
+    },
+    {
+        "name": "Antep Bulguru / Gaziantep Bulguru",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/289.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/antep_bulguru__gaziantep_bulguru.json"
+    },
+    {
+        "name": "Antep Dolmalık Biber Kurusu / Gaziantep Dolmalık Biber Kurusu",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/597bc12a-20ac-4337-8a6b-101cdfe61702.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/antep_dolmalik_biber_kurusu__gaziantep_dolmalik_biber_kurusu.json"
+    },
+    {
+        "name": "Antep Firiği",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/244.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/antep_firigi.json"
+    },
+    {
+        "name": "Antep Fıstık Ezmesi (Antepfıstığı Ezmesi / Gaziantep Fıstık Ezmesi)",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/237.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/antep_fistik_ezmesi_(antepfistigi_ezmesi__gaziantep_fistik_ezmesi).json"
+    },
+    {
+        "name": "Antep Fıstığı",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/1e8253c5-8602-4ac0-82b9-a12fd111d86b.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/antep_fistigi.json"
+    },
+    {
+        "name": "Antep Haylan Kabağı Kurusu / Gaziantep Haylan Kabağı Kurusu",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/409a01c9-5342-45b3-a433-0229a074ee1c.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/antep_haylan_kabagi_kurusu__gaziantep_haylan_kabagi_kurusu.json"
+    },
+    {
+        "name": "Antep Karası Kuru Üzümü",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/604752ce-dae0-4bb8-ad26-4bc4ebb07ca9.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/antep_karasi_kuru_uzumu.json"
+    },
+    {
+        "name": "Antep Katmeri",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/264.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/antep_katmeri.json"
+    },
+    {
+        "name": "Antep Kurabiyesi",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/8d50a00b-ea4b-48b2-8418-03f94d1f1f5a.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/antep_kurabiyesi.json"
+    },
+    {
+        "name": "Antep Kuruluk Patlıcanı (Gaziantep Kuru Patlıcanı)",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/376.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/antep_kuruluk_patlicani_(gaziantep_kuru_patlicani).json"
+    },
+    {
+        "name": "Antep Kutnu Kumaşı",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/199.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/antep_kutnu_kumasi.json"
+    },
+    {
+        "name": "Antep Köy Kahkesi (Gaziantep Köy Kahkesi)",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/291.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/antep_koy_kahkesi_(gaziantep_koy_kahkesi).json"
+    },
+    {
+        "name": "Antep Kübban Ekmeği",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d1ed73b8-cfe5-46b2-93d0-77b40e686401.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/antep_kubban_ekmegi.json"
+    },
+    {
+        "name": "Antep Lahmacunu / Gaziantep Lahmacunu",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/236.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/antep_lahmacunu__gaziantep_lahmacunu.json"
+    },
+    {
+        "name": "Antep Menengiç Kahvesi / Gaziantep Menengiç Kahvesi / Antep Melengiç Kahvesi / Gaziantep Melengiç Kahvesi",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e7847c49-51d2-4b01-86c1-6199f53e1abd.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/antep_menengic_kahvesi__gaziantep_menengic_kahvesi__antep_melengic_kahvesi__gaziantep_melengic_kahvesi.json"
+    },
+    {
+        "name": "Antep Meyan Şerbeti (Gaziantep Meyan Şerbeti, Antep Meyankökü Şerbeti)",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/cac1cc7a-c9fa-4c2a-b07a-2d5af0f5a8fb.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/antep_meyan_serbeti_(gaziantep_meyan_serbeti,_antep_meyankoku_serbeti).json"
+    },
+    {
+        "name": "Antep Muskası (Gaziantep Muskası)",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/360.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/antep_muskasi_(gaziantep_muskasi).json"
+    },
+    {
+        "name": "Antep Pekmezi / Gaziantep Pekmezi",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/cfa81b72-50f1-4b5e-8bdb-f2b1c1c269c9.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/antep_pekmezi__gaziantep_pekmezi.json"
+    },
+    {
+        "name": "Antep Peyniri / Gaziantep Peyniri / Antep Sıkma Peyniri",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/356.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/antep_peyniri__gaziantep_peyniri__antep_sikma_peyniri.json"
+    },
+    {
+        "name": "Antep Peynirli İrmik Helvası  / Gaziantep Peynirli İrmik Helvası",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ca69a810-8708-4eec-811a-3073e235fcad.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/antep_peynirli_irmik_helvasi___gaziantep_peynirli_irmik_helvasi.json"
+    },
+    {
+        "name": "Antep Sumağı",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/46db4bcb-3026-46ba-af0a-4a61fc30bd0c.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/antep_sumagi.json"
+    },
+    {
+        "name": "Antep Tırnaklı Pidesi / Gaziantep Tırnaklı Pidesi / Antep Pidesi",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/223.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/antep_tirnakli_pidesi__gaziantep_tirnakli_pidesi__antep_pidesi.json"
+    },
+    {
+        "name": "Antep Urmu Dut Şurubu / Gaziantep Urmu Dut Şurubu",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/3fca0aa1-4fec-412e-b929-5e93f10c3770.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/antep_urmu_dut_surubu__gaziantep_urmu_dut_surubu.json"
+    },
+    {
+        "name": "Antep Yuvarlaması / Antep Yuvalaması",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c041122f-f7c6-45c1-af58-6dda11ad5cd3.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/antep_yuvarlamasi__antep_yuvalamasi.json"
+    },
+    {
+        "name": "Antep Zahter Balı / Gaziantep Zahter Balı",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/952f434b-7c93-4dd4-9aaa-ebd1902dc6cb.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/antep_zahter_bali__gaziantep_zahter_bali.json"
+    },
+    {
+        "name": "Antep Zahter Çayı / Gaziantep Zahter Çayı",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c810cac0-41e8-4be6-9e97-7e5b980bba5d.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/antep_zahter_cayi__gaziantep_zahter_cayi.json"
+    },
+    {
+        "name": "Antep İşi",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5e7fa11d-bd48-4c1a-837a-70cbd28f7967.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/antep_isi.json"
+    },
+    {
+        "name": "Antep Şiveydizi",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/331.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/antep_siveydizi.json"
+    },
+    {
+        "name": "Araban Sarımsağı",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/82e547c8-11fa-43ec-9314-844fafbd0eab.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/araban_sarimsagi.json"
+    },
+    {
+        "name": "Gaziantep / Antep Altı Ezmeli Kebap,  Gaziantep / Antep Altı Ezmeli Kuşbaşı Kebabı,  Gaziantep / Antep Altı Ezmeli Kıyma Kebabı",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c7921562-ca34-4330-9071-3d9b75d5fed6.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantep__antep_alti_ezmeli_kebap,__gaziantep__antep_alti_ezmeli_kusbasi_kebabi,__gaziantep__antep_alti_ezmeli_kiyma_kebabi.json"
+    },
+    {
+        "name": "Gaziantep / Antep Ekşili / Akıtmalı Ufak Köfte",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5522c033-caac-4467-84e3-87666f0d9c67.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantep__antep_eksili__akitmali_ufak_kofte.json"
+    },
+    {
+        "name": "Gaziantep / Antep Yarım Tava",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b88eacb2-130b-42e7-bec3-65cebdaff334.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantep__antep_yarim_tava.json"
+    },
+    {
+        "name": "Gaziantep Acur-Biber Turşusu",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ea6d8164-9547-46b2-97ac-88ac86906b99.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantep_acur-biber_tursusu.json"
+    },
+    {
+        "name": "Gaziantep Alenaziği /Antep Alenaziği",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f2bbd319-fd43-4737-85f1-a9c8bfa88bbd.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantep_alenazigi_antep_alenazigi.json"
+    },
+    {
+        "name": "Gaziantep Arap Köftesi / Antep Arap Köftesi",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/995a8948-b512-4485-aac8-ea23e5b6c871.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantep_arap_koftesi__antep_arap_koftesi.json"
+    },
+    {
+        "name": "Gaziantep Bakır El Işlemeciliği",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/af809be5-b269-41a2-85d7-7d5a413cb545.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantep_bakir_el_islemeciligi.json"
+    },
+    {
+        "name": "Gaziantep Buhara Pilavı / Antep Buhara Pilavı",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/944a3954-dc8a-42c0-87d9-db829fb2163c.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantep_buhara_pilavi__antep_buhara_pilavi.json"
+    },
+    {
+        "name": "Gaziantep Börek Çorbası / Antep Börek Çorbası",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/9d35a7bd-fcb8-43ee-85d8-248ca0501c8d.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantep_borek_corbasi__antep_borek_corbasi.json"
+    },
+    {
+        "name": "Gaziantep Börk Aşı / Gaziantep Mıcırık Aşı",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/a46afb56-396f-43bc-b6b7-01d790ef2fc7.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantep_bork_asi__gaziantep_micirik_asi.json"
+    },
+    {
+        "name": "Gaziantep Bülbül Yuvası",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/3e23f160-264d-439c-b894-518ab527b9bc.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantep_bulbul_yuvasi.json"
+    },
+    {
+        "name": "Gaziantep Cağırtlak Kebabı/ Antep Cağırtlak Kebabı / Gaziantep Cartlak Kebabı / Antep Cartlak Kebabı",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/2edf4310-9972-4ec8-9337-e1bc74eb26ff.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantep_cagirtlak_kebabi_antep_cagirtlak_kebabi__gaziantep_cartlak_kebabi__antep_cartlak_kebabi.json"
+    },
+    {
+        "name": "Gaziantep Damat Dolması / Gaziantep Kuzu İçli Kabak Dolma",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/83b7b235-b3a2-405b-90cc-e09779b1210e.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantep_damat_dolmasi__gaziantep_kuzu_icli_kabak_dolma.json"
+    },
+    {
+        "name": "Gaziantep Dolangel Tatlısı",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/47ee1322-23d4-4368-87c3-b96cb5214cc3.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantep_dolangel_tatlisi.json"
+    },
+    {
+        "name": "Gaziantep Doğrama/Antep Doğrama",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/4cbd2589-df18-45c2-a5f7-599acf101298.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantep_dogramaantep_dograma.json"
+    },
+    {
+        "name": "Gaziantep Fasulyeli Kabak Dolması",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/bdec7944-e564-4767-9134-02f335af5f69.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantep_fasulyeli_kabak_dolmasi.json"
+    },
+    {
+        "name": "Gaziantep Haveydi Köfte / Antep Haveydi Köfte",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/498b66bf-0de8-4ac5-9000-0f144e13ebed.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantep_haveydi_kofte__antep_haveydi_kofte.json"
+    },
+    {
+        "name": "Gaziantep Haylan Kabağı Dolması / Antep Haylan Kabağı Dolması",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/70622155-7bd5-4eb9-aa81-3e3d7c496400.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantep_haylan_kabagi_dolmasi__antep_haylan_kabagi_dolmasi.json"
+    },
+    {
+        "name": "Gaziantep Kabaklama/Antep Kabaklama",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/65b1bc2e-eec7-4412-b7a2-6288c7bd1076.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantep_kabaklamaantep_kabaklama.json"
+    },
+    {
+        "name": "Gaziantep Koruk Ekşisi",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/cb99a8bb-d031-4274-a41c-8e3f6b5d57d5.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantep_koruk_eksisi.json"
+    },
+    {
+        "name": "Gaziantep Kuymağı/Antep Kuymağı",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/bc917103-857a-47a5-b5fc-7566ac920248.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantep_kuymagiantep_kuymagi.json"
+    },
+    {
+        "name": "Gaziantep Küşleme Kebabı/Antep Küşleme Kebabı",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/115367b9-809f-4536-94f5-5c3a43eb1f49.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantep_kusleme_kebabiantep_kusleme_kebabi.json"
+    },
+    {
+        "name": "Gaziantep Lebeniye Çorbası/Antep Lebeniye Çorbası",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5bf8a80a-7f4c-487a-88dc-8be5944e1b69.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantep_lebeniye_corbasiantep_lebeniye_corbasi.json"
+    },
+    {
+        "name": "Gaziantep Malhıtalı Köftesi/Gaziantep Mercimekli Köftesi",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c53fd9e7-bcca-4392-be3c-cf3ec62836cf.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantep_malhitali_koftesigaziantep_mercimekli_koftesi.json"
+    },
+    {
+        "name": "Gaziantep Muhammarası",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/2a9e8b6c-c243-4c76-b765-a481cea40bbc.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantep_muhammarasi.json"
+    },
+    {
+        "name": "Gaziantep Mumbar Dolması/ Antep Mumbar Dolması",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/bf007af1-deb0-46c4-a361-99fdff006f6e.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantep_mumbar_dolmasi_antep_mumbar_dolmasi.json"
+    },
+    {
+        "name": "Gaziantep Nohut Dürümü/Antep Nohut Dürümü",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/3bda20ed-5ed4-4c68-96c2-33c30f69a3be.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantep_nohut_durumuantep_nohut_durumu.json"
+    },
+    {
+        "name": "Gaziantep Omacı/Antep Omacı/Pisik Köftesi",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/3bd12522-1896-4944-b14b-67376e0a020f.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantep_omaciantep_omacipisik_koftesi.json"
+    },
+    {
+        "name": "Gaziantep Oğuzeli Narı /Antep Oğuzeli Narı",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/bc634653-4279-4280-ae59-b0eff9935c94.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantep_oguzeli_nari_antep_oguzeli_nari.json"
+    },
+    {
+        "name": "Gaziantep Pirpirim Aşı/Antep Pirpirim Aşı",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/39d576d7-f3c7-48be-a721-97091018cf8a.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantep_pirpirim_asiantep_pirpirim_asi.json"
+    },
+    {
+        "name": "Gaziantep Sarımsak Aşı",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e16b8746-cc7a-4240-9de3-47a783c3c0bb.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantep_sarimsak_asi.json"
+    },
+    {
+        "name": "Gaziantep Sarımsak Kebabı",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b66ce096-6dc1-4033-9695-55c17558bf3f.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantep_sarimsak_kebabi.json"
+    },
+    {
+        "name": "Gaziantep Sebzeli Peynirli Böreği /Antep Sebzeli Peynirli Böreği",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ce4d64b7-6e4d-4638-bd17-af69bf840e8b.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantep_sebzeli_peynirli_boregi_antep_sebzeli_peynirli_boregi.json"
+    },
+    {
+        "name": "Gaziantep Sedef El Işlemeciliği",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c29e8d3e-f794-4c3e-95d3-e0b08609f4ef.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantep_sedef_el_islemeciligi.json"
+    },
+    {
+        "name": "Gaziantep Simit Kebabı/Antep Simit Kebabı",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/736113ad-f5b2-45a1-a320-1be61d6d2d55.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantep_simit_kebabiantep_simit_kebabi.json"
+    },
+    {
+        "name": "Gaziantep Sini Köftesi",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b5deec98-00ea-4ffc-91a3-16c12d3cd6fd.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantep_sini_koftesi.json"
+    },
+    {
+        "name": "Gaziantep Sütlü Zerdesi/Gaziantep Astarlı Sütlacı",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/27f3f023-00b1-4120-9664-d3b41631584f.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantep_sutlu_zerdesigaziantep_astarli_sutlaci.json"
+    },
+    {
+        "name": "Gaziantep Süzek Yapması / Antep Süzek Yapması",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e2308419-4545-4fe1-a50c-b36dd3b2df0a.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantep_suzek_yapmasi__antep_suzek_yapmasi.json"
+    },
+    {
+        "name": "Gaziantep Tene Katması / Antep Tene Katması",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/8b94beed-14bf-4172-997e-b202f393de13.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantep_tene_katmasi__antep_tene_katmasi.json"
+    },
+    {
+        "name": "Gaziantep Yağlı Köfte / Antep Yağlı Köfte",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/cb94d135-09ea-4689-893c-bb362256075e.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantep_yagli_kofte__antep_yagli_kofte.json"
+    },
+    {
+        "name": "Gaziantep Yenidünya Kebabı/Antep Yenidünya Kebabı",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/bcaf7730-aa1d-475d-bf06-adba206a1c95.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantep_yenidunya_kebabiantep_yenidunya_kebabi.json"
+    },
+    {
+        "name": "Gaziantep Yeşil Zeytin Böreği",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/394.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantep_yesil_zeytin_boregi.json"
+    },
+    {
+        "name": "Gaziantep Yoğurtlu Patates/Antep Yoğurtlu Patates",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/042ac039-9c12-44fc-8713-0b9b5f4f0f85.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantep_yogurtlu_patatesantep_yogurtlu_patates.json"
+    },
+    {
+        "name": "Gaziantep Yoğurtlu Taze Fasulye/Antep Yoğurtlu Taze Fasulye",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/00cb2f44-f176-4638-80eb-eccbf2e8ac68.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantep_yogurtlu_taze_fasulyeantep_yogurtlu_taze_fasulye.json"
+    },
+    {
+        "name": "Gaziantep Öz Çorba/Antep Öz Çorba",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c3c1bf0a-1ca9-47c0-af56-50c43435bcaa.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantep_oz_corbaantep_oz_corba.json"
+    },
+    {
+        "name": "Gaziantep İçli Köftesi / Antep İçli Köftesi",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/2dc0c4ac-2bb5-4f3c-b1ae-649076f234c3.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantep_icli_koftesi__antep_icli_koftesi.json"
+    },
+    {
+        "name": "Gaziantep Şekerli Peynirli Böreği/ Antep Şekerli Peynirli Böreği",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/7708250c-224a-4099-bfa5-a014d13931e5.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantep_sekerli_peynirli_boregi_antep_sekerli_peynirli_boregi.json"
+    },
+    {
+        "name": "Gaziantep Şirin Tarhanası",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ba635024-de31-47f3-a967-c8a126409d0c.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantep_sirin_tarhanasi.json"
+    },
+    {
+        "name": "Gaziantep Şöbiyeti / Antep Şöbiyeti",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/40be9628-ae94-4ed6-ac30-f818b69fc0a4.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantep_sobiyeti__antep_sobiyeti.json"
+    },
+    {
+        "name": "Gaziantep/Antep Alaca Çorba",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/4dcfdfda-aa8c-4f99-9e76-4d15e178cc3e.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantepantep_alaca_corba.json"
+    },
+    {
+        "name": "Gaziantep/Antep Ayvalı Ekşili Taraklık",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/45c53fed-62a0-46c7-b462-3e920b0e4553.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantepantep_ayvali_eksili_taraklik.json"
+    },
+    {
+        "name": "Gaziantep/Antep Erik Tavası",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/171162f9-e00d-41fa-85dd-bfcb6ac5883b.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantepantep_erik_tavasi.json"
+    },
+    {
+        "name": "Gaziantep/Antep Firik Pilavı",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/230de027-81bb-4b10-9eb2-027310166534.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantepantep_firik_pilavi.json"
+    },
+    {
+        "name": "Gaziantep/Antep Firikli Acur Dolması",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b35a06ef-ae23-4157-a9d8-12b77e8960d6.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantepantep_firikli_acur_dolmasi.json"
+    },
+    {
+        "name": "Gaziantep/Antep Keme Kebabı",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f78d3c1f-93e9-4735-9c30-117036c3c6da.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantepantep_keme_kebabi.json"
+    },
+    {
+        "name": "Gaziantep/Antep Maş Piyazı",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/97c52102-f325-4a0f-aa90-d429a9ea53a7.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantepantep_mas_piyazi.json"
+    },
+    {
+        "name": "Gaziantep/Antep Maş Çorbası",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0204cc71-d8d2-4525-bb0b-e8a9a15a0080.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantepantep_mas_corbasi.json"
+    },
+    {
+        "name": "Gaziantep/Antep Sebzeli Kebap",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/aae306f6-a704-44fe-b7de-b5000ae8916a.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantepantep_sebzeli_kebap.json"
+    },
+    {
+        "name": "Gaziantep/Antep Çağla Aşı",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0bc2179f-bbda-439c-af91-92d51d172edc.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gaziantepantep_cagla_asi.json"
+    },
+    {
+        "name": "Nizip Nanesi",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/45783f7d-dae6-4df0-b173-ab44401581dc.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/nizip_nanesi.json"
+    },
+    {
+        "name": "Nizip Patlıcanı",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/16d99123-f168-452c-b8fc-f20bd9c4f8d4.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/nizip_patlicani.json"
+    },
+    {
+        "name": "Nizip Sabunu",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0739b079-ef00-426e-bfd3-50e7ca9360e9.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/nizip_sabunu.json"
+    },
+    {
+        "name": "Nizip Zeytinyağı",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/158.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/nizip_zeytinyagi.json"
+    },
+    {
+        "name": "Oğuzeli Kurutmalığı",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c90a0fac-82bb-4fa5-835e-6da945701250.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/oguzeli_kurutmaligi.json"
+    },
+    {
+        "name": "Oğuzeli Nar Ekşisi",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b902ee6d-e039-412b-92c9-c8af37e6cdd0.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/oguzeli_nar_eksisi.json"
+    },
+    {
+        "name": "İslahiye Biberi",
+        "CityName": "Gaziantep",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/14cc2cef-ce60-416f-b86a-3f4306cfad45.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/islahiye_biberi.json"
+    }
+]

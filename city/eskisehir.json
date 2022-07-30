@@ -1,0 +1,132 @@
+[
+    {
+        "name": "Eskişehir Lüle Taşı",
+        "CityName": "Eskişehir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/8a42d4f5-a49b-4d63-acc5-ffd32de3aa9f.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/eskisehir_lule_tasi.json"
+    },
+    {
+        "name": "Eskişehir Met Helvası",
+        "CityName": "Eskişehir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/250.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/eskisehir_met_helvasi.json"
+    },
+    {
+        "name": "Eskişehir Simidi",
+        "CityName": "Eskişehir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b138f308-35d8-4896-8eea-017d15fd3fae.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/eskisehir_simidi.json"
+    },
+    {
+        "name": "Eskişehir Çiğböreği (Çibörek)",
+        "CityName": "Eskişehir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/163.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/eskisehir_cigboregi_(ciborek).json"
+    },
+    {
+        "name": "Sivrihisar Arabaşı",
+        "CityName": "Eskişehir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/86f17ff0-f77c-4b50-8fe1-5e0d36d11ab1.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/sivrihisar_arabasi.json"
+    },
+    {
+        "name": "Sivrihisar Cebesi",
+        "CityName": "Eskişehir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/af04f8c7-2dfe-4bae-9456-442229d3b86a.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/sivrihisar_cebesi.json"
+    },
+    {
+        "name": "Sivrihisar Dövme Sucuğu",
+        "CityName": "Eskişehir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/8089eca7-0b63-405d-9bc2-990c996ae79a.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/sivrihisar_dovme_sucugu.json"
+    },
+    {
+        "name": "Sivrihisar Höşmerim Tatlısı",
+        "CityName": "Eskişehir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e0d01036-5638-4489-a6a4-7101d71fce9c.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/sivrihisar_hosmerim_tatlisi.json"
+    },
+    {
+        "name": "Sivrihisar Kilimi",
+        "CityName": "Eskişehir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f9735e0a-f429-4258-b209-81803ed21ff9.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/sivrihisar_kilimi.json"
+    },
+    {
+        "name": "Sivrihisar Muska Baklavası",
+        "CityName": "Eskişehir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/381.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/sivrihisar_muska_baklavasi.json"
+    },
+    {
+        "name": "Sivrihisar Sarkası",
+        "CityName": "Eskişehir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/9232001f-0f19-4bbd-abe3-9640e409e77d.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/sivrihisar_sarkasi.json"
+    },
+    {
+        "name": "Sivrihisar İncili Küpe",
+        "CityName": "Eskişehir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/59a24c83-ad93-4b5a-889b-c86b230738f8.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/sivrihisar_incili_kupe.json"
+    },
+    {
+        "name": "Sorkun Çömleği",
+        "CityName": "Eskişehir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/37243d1e-deb0-4090-a972-4b1668354bcf.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/sorkun_comlegi.json"
+    }
+]

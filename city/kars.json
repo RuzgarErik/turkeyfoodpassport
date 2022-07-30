@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Kars Balı",
+        "CityName": "Kars",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/374.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kars_bali.json"
+    },
+    {
+        "name": "Kars El Halısı",
+        "CityName": "Kars",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/8.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kars_el_halisi.json"
+    },
+    {
+        "name": "Kars Kaşarı",
+        "CityName": "Kars",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/6c70923f-6a6e-424e-bd2e-37ff1c8cdda0.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kars_kasari.json"
+    },
+    {
+        "name": "Kars Türk Çoban Köpeği",
+        "CityName": "Kars",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5bfffcb6-19ee-48fb-90c8-9c0e6a6d1505.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kars_turk_coban_kopegi.json"
+    },
+    {
+        "name": "Kağızman Uzun Elması",
+        "CityName": "Kars",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/307.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kagizman_uzun_elmasi.json"
+    },
+    {
+        "name": "Sümer Kars El Halısı",
+        "CityName": "Kars",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/85033c0f-7352-40c8-b260-73369c8e5ce1.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/sumer_kars_el_halisi.json"
+    }
+]

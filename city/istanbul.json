@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Şile Bezi",
+        "CityName": "İstanbul",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/272.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/sile_bezi.json"
+    },
+    {
+        "name": "Şile Kestane Balı",
+        "CityName": "İstanbul",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/1c5be1b7-35fa-43cb-81df-d5595f7c303a.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/sile_kestane_bali.json"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Iğdır Beyaz Üzümü /Miskalı",
+        "CityName": "Iğdır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/95f91ea7-68f3-4cab-a379-f704c1edb0b7.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/igdir_beyaz_uzumu_miskali.json"
+    },
+    {
+        "name": "Iğdır Bozbaş Yemeği",
+        "CityName": "Iğdır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/28bd3819-58b6-4aa2-8399-05ad9b248c3b.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/igdir_bozbas_yemegi.json"
+    },
+    {
+        "name": "Iğdır Kayısısı",
+        "CityName": "Iğdır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/385.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/igdir_kayisisi.json"
+    },
+    {
+        "name": "Iğdır Omaç Aşı Çorbası",
+        "CityName": "Iğdır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/a5401525-25a6-4235-9bdd-b2309f6910bd.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/igdir_omac_asi_corbasi.json"
+    },
+    {
+        "name": "Iğdır Patlıcan Reçeli",
+        "CityName": "Iğdır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/3e36ccdc-f230-4144-bac4-80364443c7f2.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/igdir_patlican_receli.json"
+    },
+    {
+        "name": "Iğdır Taş Köfte Yemeği",
+        "CityName": "Iğdır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/276.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/igdir_tas_kofte_yemegi.json"
+    }
+]

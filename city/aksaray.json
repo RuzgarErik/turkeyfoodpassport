@@ -1,0 +1,112 @@
+[
+    {
+        "name": "Aksaray Kabak Çekirdeği",
+        "CityName": "Aksaray",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/7ebbcba3-00a3-4638-8918-ab1427535578.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/aksaray_kabak_cekirdegi.json"
+    },
+    {
+        "name": "Aksaray Köpük Helva",
+        "CityName": "Aksaray",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/02e00ee0-ee09-4e0f-844b-855632262448.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/aksaray_kopuk_helva.json"
+    },
+    {
+        "name": "Aksaray Tahinlisi",
+        "CityName": "Aksaray",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/46b289ee-c989-49bf-90d1-f8811691bddc.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/aksaray_tahinlisi.json"
+    },
+    {
+        "name": "Aksaray Tulum Kebabı",
+        "CityName": "Aksaray",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0fe38b16-a7e9-4e84-a4a4-cf4baf4ae91c.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/aksaray_tulum_kebabi.json"
+    },
+    {
+        "name": "Aksaray Un Kurabiyesi / Aksaray Asker Kurabiyesi",
+        "CityName": "Aksaray",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5e3a7914-a6c6-4d52-944e-44d7c353079c.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/aksaray_un_kurabiyesi__aksaray_asker_kurabiyesi.json"
+    },
+    {
+        "name": "Aksaray İnceelek Tatlısı",
+        "CityName": "Aksaray",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e504f660-e311-4334-9c7c-809bac062790.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/aksaray_inceelek_tatlisi.json"
+    },
+    {
+        "name": "Aksaray Şeker Böreği",
+        "CityName": "Aksaray",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ab318cc7-1e97-46ee-8302-a59807ecc337.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/aksaray_seker_boregi.json"
+    },
+    {
+        "name": "Aksaray Şerbetli Pidesi",
+        "CityName": "Aksaray",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/dcef0efa-3a4f-4f49-ad2e-25cbcec3310d.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/aksaray_serbetli_pidesi.json"
+    },
+    {
+        "name": "Eşmekaya Yoğurdu",
+        "CityName": "Aksaray",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f268eabb-7d9d-46e4-be0a-dbc220129cbc.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/esmekaya_yogurdu.json"
+    },
+    {
+        "name": "Gelveri Ekmeği",
+        "CityName": "Aksaray",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e43d62f9-87a9-4dab-bb13-3265cf103e7c.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gelveri_ekmegi.json"
+    },
+    {
+        "name": "Taşpınar El Halısı",
+        "CityName": "Aksaray",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/7.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/taspinar_el_halisi.json"
+    }
+]

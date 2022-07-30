@@ -1,0 +1,112 @@
+[
+    {
+        "name": "Amasya Baklalı Dolması",
+        "CityName": "Amasya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/a9f7f113-91f9-42f0-bb34-e57225dda700.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/amasya_baklali_dolmasi.json"
+    },
+    {
+        "name": "Amasya Beji Mermeri",
+        "CityName": "Amasya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/358.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/amasya_beji_mermeri.json"
+    },
+    {
+        "name": "Amasya Etli Çiçek Bamyası Yemeği",
+        "CityName": "Amasya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/df712ebc-7193-4f69-abcb-c2f5dc880d61.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/amasya_etli_cicek_bamyasi_yemegi.json"
+    },
+    {
+        "name": "Amasya Misket Elması",
+        "CityName": "Amasya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/49c11cd1-f5f7-42d7-ba91-d74ca53bf6d7.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/amasya_misket_elmasi.json"
+    },
+    {
+        "name": "Amasya Patlıcan Pehli",
+        "CityName": "Amasya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/a773c023-a801-4609-b6da-ca0f76eb858f.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/amasya_patlican_pehli.json"
+    },
+    {
+        "name": "Amasya Toyga Çorbası",
+        "CityName": "Amasya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/dbaa5f92-a6ac-4d86-8ffd-dd472a619b28.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/amasya_toyga_corbasi.json"
+    },
+    {
+        "name": "Amasya Yağlısı",
+        "CityName": "Amasya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0a3053f7-8d7e-4ae6-922d-0b65cee37e96.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/amasya_yaglisi.json"
+    },
+    {
+        "name": "Amasya Çiçek Bamyası",
+        "CityName": "Amasya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/352.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/amasya_cicek_bamyasi.json"
+    },
+    {
+        "name": "Amasya Çöreği",
+        "CityName": "Amasya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/7de39860-8b15-4572-8ef2-8ee3a98557ca.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/amasya_coregi.json"
+    },
+    {
+        "name": "Burmalı Amasya Çöreği",
+        "CityName": "Amasya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/4589ba06-3b62-4ab0-83a2-0cb9079f2adf.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/burmali_amasya_coregi.json"
+    },
+    {
+        "name": "Merzifon Keşkeği",
+        "CityName": "Amasya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/186.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/merzifon_keskegi.json"
+    }
+]

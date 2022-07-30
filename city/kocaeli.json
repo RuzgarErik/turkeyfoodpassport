@@ -1,0 +1,112 @@
+[
+    {
+        "name": "Gebze Bayram Çöreği",
+        "CityName": "Kocaeli",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c3a9692c-37ec-4f58-a4e9-eebe5c20dd80.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gebze_bayram_coregi.json"
+    },
+    {
+        "name": "Hereke Yün El Halısı",
+        "CityName": "Kocaeli",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b48678c0-9a2b-434d-bd6e-2cc854ce3843.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/hereke_yun_el_halisi.json"
+    },
+    {
+        "name": "Hereke Yün İpek El Halısı",
+        "CityName": "Kocaeli",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5022dbe2-989c-4e3f-a460-f8acf767e50c.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/hereke_yun_ipek_el_halisi.json"
+    },
+    {
+        "name": "Hereke İpek Halısı",
+        "CityName": "Kocaeli",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/a5558970-f04a-4cc0-854a-568da614a8c7.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/hereke_ipek_halisi.json"
+    },
+    {
+        "name": "Kandıra Bezi",
+        "CityName": "Kocaeli",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/396.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kandira_bezi.json"
+    },
+    {
+        "name": "Kandıra Dartısı",
+        "CityName": "Kocaeli",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ad32eab2-3c1a-4847-970b-b0b3b0febafc.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kandira_dartisi.json"
+    },
+    {
+        "name": "Kandıra Karpuzu",
+        "CityName": "Kocaeli",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c4f42694-bbcb-4f0d-94b7-1820f1344823.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kandira_karpuzu.json"
+    },
+    {
+        "name": "Karamürsel Sepeti",
+        "CityName": "Kocaeli",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/36a5fa43-95ed-4768-8a7c-b9c12dce86d0.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/karamursel_sepeti.json"
+    },
+    {
+        "name": "Nüzhetiye Bebeği / Döşeme Bebeği",
+        "CityName": "Kocaeli",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/cf91530a-71f8-4d25-a748-270790ebebdc.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/nuzhetiye_bebegi__doseme_bebegi.json"
+    },
+    {
+        "name": "İzmit Pişmaniyesi",
+        "CityName": "Kocaeli",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/34.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/izmit_pismaniyesi.json"
+    },
+    {
+        "name": "İzmit Simidi",
+        "CityName": "Kocaeli",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d6bca8fe-f5ae-4382-9080-ea86746e67b5.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/izmit_simidi.json"
+    }
+]

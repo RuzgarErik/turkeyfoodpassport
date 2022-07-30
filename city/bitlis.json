@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Adilcevaz Bastonu",
+        "CityName": "Bitlis",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/55dfab3f-7653-4ae8-aeb9-7793ce28c692.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/adilcevaz_bastonu.json"
+    },
+    {
+        "name": "Ahlat Bastonu",
+        "CityName": "Bitlis",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/298.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/ahlat_bastonu.json"
+    },
+    {
+        "name": "Bitlis Büryan Kebabı",
+        "CityName": "Bitlis",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d0fe1fb3-3026-47e8-a844-4829a0132701.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bitlis_buryan_kebabi.json"
+    }
+]

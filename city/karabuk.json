@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Eflani Cember Bezi",
+        "CityName": "Karabük",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/191.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/eflani_cember_bezi.json"
+    },
+    {
+        "name": "Eflani Hindi Bandırması",
+        "CityName": "Karabük",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/304.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/eflani_hindi_bandirmasi.json"
+    },
+    {
+        "name": "Safranbolu Kıtırı",
+        "CityName": "Karabük",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e4d82a0c-21f8-49db-a418-bb97136bec45.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/safranbolu_kitiri.json"
+    },
+    {
+        "name": "Safranbolu Lokumu",
+        "CityName": "Karabük",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/183.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/safranbolu_lokumu.json"
+    },
+    {
+        "name": "Safranbolu Safranı",
+        "CityName": "Karabük",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/144.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/safranbolu_safrani.json"
+    }
+]

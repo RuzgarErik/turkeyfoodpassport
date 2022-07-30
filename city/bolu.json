@@ -1,0 +1,222 @@
+[
+    {
+        "name": "Bolu Dağ Fındığı",
+        "CityName": "Bolu",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f4707e46-303f-4509-aa82-b9a60b802c0b.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bolu_dag_findigi.json"
+    },
+    {
+        "name": "Bolu Fındık Şekeri",
+        "CityName": "Bolu",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d520b312-1823-4cc2-a188-9fb31cfc0bd9.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bolu_findik_sekeri.json"
+    },
+    {
+        "name": "Bolu Göynük Uğut Tatlısı",
+        "CityName": "Bolu",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/16542411-3f79-47a3-bd9e-22b58882a162.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bolu_goynuk_ugut_tatlisi.json"
+    },
+    {
+        "name": "Bolu Kabaklı Gözlemesi",
+        "CityName": "Bolu",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c595c90c-14da-4e37-a329-2787aa2ea27b.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bolu_kabakli_gozlemesi.json"
+    },
+    {
+        "name": "Bolu Kanlıca Mantarı",
+        "CityName": "Bolu",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/4ccbc165-cc89-479a-8d3e-add63d789101.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bolu_kanlica_mantari.json"
+    },
+    {
+        "name": "Bolu Kara Kabağı",
+        "CityName": "Bolu",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/a67f651b-8edb-4fb3-beb3-372b069800d0.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bolu_kara_kabagi.json"
+    },
+    {
+        "name": "Bolu Keşi",
+        "CityName": "Bolu",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c2e53c35-7801-46b0-972c-aec6947155e2.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bolu_kesi.json"
+    },
+    {
+        "name": "Bolu Kıbrıscık Pirinci",
+        "CityName": "Bolu",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/735ac1bc-9c6a-4d4b-a39c-dc5256967ef1.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bolu_kibriscik_pirinci.json"
+    },
+    {
+        "name": "Bolu Kızılcık Tarhanası",
+        "CityName": "Bolu",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/252.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bolu_kizilcik_tarhanasi.json"
+    },
+    {
+        "name": "Bolu Manda Kaymağı",
+        "CityName": "Bolu",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ec1ad357-30a2-47af-82e5-435ba097b339.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bolu_manda_kaymagi.json"
+    },
+    {
+        "name": "Bolu Patatesli Ekmeği",
+        "CityName": "Bolu",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/50beb9e8-6a4c-4fe7-8a7a-f87b3807d683.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bolu_patatesli_ekmegi.json"
+    },
+    {
+        "name": "Bolu Sarı Patatesi",
+        "CityName": "Bolu",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f0393f6c-c287-4850-af4f-78e19c36f6da.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bolu_sari_patatesi.json"
+    },
+    {
+        "name": "Bolu Çivril Fasulyesi",
+        "CityName": "Bolu",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/87802ff6-b16c-4ea1-8fea-57b8e102a001.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bolu_civril_fasulyesi.json"
+    },
+    {
+        "name": "Gerede Keşi",
+        "CityName": "Bolu",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/6da604a0-11c8-4cff-b9bd-3d9f1a4c0305.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gerede_kesi.json"
+    },
+    {
+        "name": "Gerede Şakşak Helvası",
+        "CityName": "Bolu",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d32a7c75-2f01-42b3-95fd-832cdd533162.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gerede_saksak_helvasi.json"
+    },
+    {
+        "name": "Göynük Bombay Fasulye",
+        "CityName": "Bolu",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b8d259c2-0198-448e-aba6-ab50f8cda070.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/goynuk_bombay_fasulye.json"
+    },
+    {
+        "name": "Göynük Dik Börek/Göynük Oklava Tatlısı",
+        "CityName": "Bolu",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/38011f32-eb9d-471d-92b7-40289eaa6c57.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/goynuk_dik_borekgoynuk_oklava_tatlisi.json"
+    },
+    {
+        "name": "Göynük Kabaklı Yufka Tatlısı",
+        "CityName": "Bolu",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/265c26d4-3e9d-4889-a9e4-47c5aec7de97.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/goynuk_kabakli_yufka_tatlisi.json"
+    },
+    {
+        "name": "Göynük Tokalı Örtme",
+        "CityName": "Bolu",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/90d97d6d-1bca-48ad-9658-cbde7db4f92d.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/goynuk_tokali_ortme.json"
+    },
+    {
+        "name": "Mudurnu Bal Kabaklı Gözlemesi",
+        "CityName": "Bolu",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5a37b0a3-affe-4740-8884-f124f2ca4c3d.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/mudurnu_bal_kabakli_gozlemesi.json"
+    },
+    {
+        "name": "Mudurnu Basma Helva",
+        "CityName": "Bolu",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ff1ffefa-f770-4baf-984d-b9d2361ca544.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/mudurnu_basma_helva.json"
+    },
+    {
+        "name": "Mudurnu Kaşık Sapı",
+        "CityName": "Bolu",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/edb8f4c6-fe64-4b4c-8985-fe974e6c8520.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/mudurnu_kasik_sapi.json"
+    }
+]

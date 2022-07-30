@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Bingöl Çobantaşı Kavurması",
+        "CityName": "Bingöl",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/306.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bingol_cobantasi_kavurmasi.json"
+    },
+    {
+        "name": "Sivan Dut Pekmezi",
+        "CityName": "Bingöl",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/9d36d7d5-2d22-4cb8-b1a2-24376ad4cc42.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/sivan_dut_pekmezi.json"
+    },
+    {
+        "name": "Yedisu Horoz Kuru Fasulyesi",
+        "CityName": "Bingöl",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ecc9a131-49ae-44b6-b756-75d76f6171bd.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/yedisu_horoz_kuru_fasulyesi.json"
+    }
+]

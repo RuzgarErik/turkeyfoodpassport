@@ -1,0 +1,192 @@
+[
+    {
+        "name": "Bodrum Mandarini",
+        "CityName": "Muğla",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/7e5791f1-4721-48b2-931c-91da850f1ce8.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bodrum_mandarini.json"
+    },
+    {
+        "name": "Fethiye Kaya Halısı/Fethiye Kayaköy Halısı/Fethiye Halısı",
+        "CityName": "Muğla",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b102fadc-fa8c-49ef-877a-2b6d0e4fc7b8.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/fethiye_kaya_halisifethiye_kayakoy_halisifethiye_halisi.json"
+    },
+    {
+        "name": "Fethiye Kaya İnciri",
+        "CityName": "Muğla",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/3c248c6a-918a-4e7d-bd08-5cab7c5ce32e.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/fethiye_kaya_inciri.json"
+    },
+    {
+        "name": "Fethiye Tahini",
+        "CityName": "Muğla",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0eaeeead-388c-4476-812e-5527af8e6f06.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/fethiye_tahini.json"
+    },
+    {
+        "name": "Kavaklıdere Cevizi",
+        "CityName": "Muğla",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/2385de95-a50a-49c8-86a3-9f0a72f0e0a6.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kavaklidere_cevizi.json"
+    },
+    {
+        "name": "Köyceğiz Portakalı",
+        "CityName": "Muğla",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/48f07116-0202-4d5b-a11d-60b420a7777f.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/koycegiz_portakali.json"
+    },
+    {
+        "name": "Marmaris Çam Balı",
+        "CityName": "Muğla",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/9a4bea3e-a8ae-47f8-87ac-0892266672da.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/marmaris_cam_bali.json"
+    },
+    {
+        "name": "Milas El Halısı",
+        "CityName": "Muğla",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/15.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/milas_el_halisi.json"
+    },
+    {
+        "name": "Milas Tepsi Böreği",
+        "CityName": "Muğla",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/395.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/milas_tepsi_boregi.json"
+    },
+    {
+        "name": "Milas Yağlı Zeytini",
+        "CityName": "Muğla",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/afed2ab7-8128-462e-b2fe-a0b393a5132a.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/milas_yagli_zeytini.json"
+    },
+    {
+        "name": "Milas Zeytinyağı",
+        "CityName": "Muğla",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/201.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/milas_zeytinyagi.json"
+    },
+    {
+        "name": "Milas Çekişke Zeytini",
+        "CityName": "Muğla",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/aea25e05-66a0-42d2-9d2a-a11a258acd2c.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/milas_cekiske_zeytini.json"
+    },
+    {
+        "name": "Muğla Beyaz Mermeri",
+        "CityName": "Muğla",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/cfe68567-1b0e-4681-9953-5cb67e494be8.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/mugla_beyaz_mermeri.json"
+    },
+    {
+        "name": "Muğla Göce Tarhanası",
+        "CityName": "Muğla",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/bcdb5cd5-95d8-4726-95c9-96b88ab869d2.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/mugla_goce_tarhanasi.json"
+    },
+    {
+        "name": "Muğla Köftesi",
+        "CityName": "Muğla",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/347.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/mugla_koftesi.json"
+    },
+    {
+        "name": "Muğla Saraylısı",
+        "CityName": "Muğla",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/346.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/mugla_saraylisi.json"
+    },
+    {
+        "name": "Muğla Çam Balı",
+        "CityName": "Muğla",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/379.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/mugla_cam_bali.json"
+    },
+    {
+        "name": "Seydiler Kilimi",
+        "CityName": "Muğla",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/6c5d678d-f155-4697-8123-17cee6f03c53.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/seydiler_kilimi.json"
+    },
+    {
+        "name": "Üzümlü Dastarı/Yeşilüzümlü Dastarı",
+        "CityName": "Muğla",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/6e618a3e-b6c3-4375-b92f-effb399259c8.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/uzumlu_dastariyesiluzumlu_dastari.json"
+    }
+]

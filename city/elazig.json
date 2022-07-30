@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Ağın Leblebisi",
+        "CityName": "Elazığ",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/259.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/agin_leblebisi.json"
+    },
+    {
+        "name": "Elazığ Boğazkere Üzümü",
+        "CityName": "Elazığ",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e5db0f18-e248-4805-b74e-2222c267410e.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/elazig_bogazkere_uzumu.json"
+    },
+    {
+        "name": "Elazığ Menceki Buğdayı",
+        "CityName": "Elazığ",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c4eb6b77-9cab-44d6-8813-4d03f65d672a.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/elazig_menceki_bugdayi.json"
+    },
+    {
+        "name": "Elazığ Orciği",
+        "CityName": "Elazığ",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/398.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/elazig_orcigi.json"
+    },
+    {
+        "name": "Elazığ Çedene Kahvesi",
+        "CityName": "Elazığ",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/61e93fa1-23cb-4c9c-99e9-30e2002e15d0.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/elazig_cedene_kahvesi.json"
+    },
+    {
+        "name": "Elazığ Öküzgözü Üzümü",
+        "CityName": "Elazığ",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/108.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/elazig_okuzgozu_uzumu.json"
+    }
+]

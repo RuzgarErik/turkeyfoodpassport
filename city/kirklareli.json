@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Kırklareli Beyaz Peyniri",
+        "CityName": "Kırklareli",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/22a81a76-6be3-4e4c-b77e-0b9a5f776431.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kirklareli_beyaz_peyniri.json"
+    },
+    {
+        "name": "Kırklareli Hardaliyesi",
+        "CityName": "Kırklareli",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/278.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kirklareli_hardaliyesi.json"
+    },
+    {
+        "name": "Kırklareli Kıvırcık Kuzu Eti",
+        "CityName": "Kırklareli",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/31f4b7b6-2fe8-4a22-9762-bf30984aac87.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kirklareli_kivircik_kuzu_eti.json"
+    },
+    {
+        "name": "Kırklareli Meşe Balı",
+        "CityName": "Kırklareli",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/cd501e7f-098d-4e7b-afc2-5497ddd49d81.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kirklareli_mese_bali.json"
+    }
+]

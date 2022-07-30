@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Adıyaman Besni Üzümü",
+        "CityName": "Adıyaman",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/357.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/adiyaman_besni_uzumu.json"
+    },
+    {
+        "name": "Adıyaman Etsiz Çiğ Köfte",
+        "CityName": "Adıyaman",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/366.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/adiyaman_etsiz_cig_kofte.json"
+    },
+    {
+        "name": "Adıyaman Tut Dutu",
+        "CityName": "Adıyaman",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0fcb97ce-7605-46ed-a013-029028d0b8c5.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/adiyaman_tut_dutu.json"
+    },
+    {
+        "name": "Kahta Bademi",
+        "CityName": "Adıyaman",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0fa43c24-f6c8-479a-b44e-ada87dc2ffb9.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kahta_bademi.json"
+    },
+    {
+        "name": "Kahta Bademli İrmik Helvası",
+        "CityName": "Adıyaman",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5141d985-aa47-4743-9ee3-99af8d2b7acf.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kahta_bademli_irmik_helvasi.json"
+    },
+    {
+        "name": "Kahta Bulgur Pilavı",
+        "CityName": "Adıyaman",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/a7c3b699-4811-4d63-abe3-e129b3e3172c.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kahta_bulgur_pilavi.json"
+    },
+    {
+        "name": "Kahta Narı",
+        "CityName": "Adıyaman",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/2e1b6367-1f4f-49e4-b52f-8c9311ba39b5.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kahta_nari.json"
+    },
+    {
+        "name": "Sincik El Dokuma Halısı",
+        "CityName": "Adıyaman",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/abf9673c-cea9-4cfd-b7f1-05f72811ff62.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/sincik_el_dokuma_halisi.json"
+    },
+    {
+        "name": "Çelikhan Tütünü",
+        "CityName": "Adıyaman",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/66.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/celikhan_tutunu.json"
+    }
+]

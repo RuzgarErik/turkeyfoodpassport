@@ -1,0 +1,132 @@
+[
+    {
+        "name": "Alanya Avokadosu",
+        "CityName": "Antalya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/386.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/alanya_avokadosu.json"
+    },
+    {
+        "name": "Alanya Gülüklü (Hülüklü) Çorba",
+        "CityName": "Antalya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/3c7ed7bf-b39c-4a8c-8200-65a165ee5c17.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/alanya_guluklu_(huluklu)_corba.json"
+    },
+    {
+        "name": "Alanya Yenidünyası",
+        "CityName": "Antalya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/373.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/alanya_yenidunyasi.json"
+    },
+    {
+        "name": "Antalya Bergamot Kabuğu Reçeli",
+        "CityName": "Antalya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/8ba6521f-bae7-4c3c-a3f3-3346ee48f08a.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/antalya_bergamot_kabugu_receli.json"
+    },
+    {
+        "name": "Antalya Kabak Tatlısı",
+        "CityName": "Antalya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/dc193856-dec6-4c5f-82bc-9d39bea7a402.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/antalya_kabak_tatlisi.json"
+    },
+    {
+        "name": "Antalya Piyazı",
+        "CityName": "Antalya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/315.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/antalya_piyazi.json"
+    },
+    {
+        "name": "Antalya Serpme Böreği",
+        "CityName": "Antalya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/6c5c8914-58eb-415f-b74d-b7a51314cd10.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/antalya_serpme_boregi.json"
+    },
+    {
+        "name": "Antalya Tavşan Yüreği Zeytini",
+        "CityName": "Antalya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/384.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/antalya_tavsan_yuregi_zeytini.json"
+    },
+    {
+        "name": "Antalya Turunç Kabuğu Reçeli",
+        "CityName": "Antalya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/6d2a8e96-c509-4cf4-b87a-0f6b1c11ec10.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/antalya_turunc_kabugu_receli.json"
+    },
+    {
+        "name": "Döşemealtı El Halısı",
+        "CityName": "Antalya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/fbb900a4-17ae-4313-b31a-fef9e2f86186.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/dosemealti_el_halisi.json"
+    },
+    {
+        "name": "Finike Portakalı",
+        "CityName": "Antalya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/106.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/finike_portakali.json"
+    },
+    {
+        "name": "Korkuteli Karyağdı Armudu",
+        "CityName": "Antalya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/369.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/korkuteli_karyagdi_armudu.json"
+    },
+    {
+        "name": "Manavgat Altın Susamı",
+        "CityName": "Antalya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/4701e00c-5a64-4ebc-a537-5f3ee0224287.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/manavgat_altin_susami.json"
+    }
+]

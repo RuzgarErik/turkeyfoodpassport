@@ -1,0 +1,152 @@
+[
+    {
+        "name": "Emet Pidesi",
+        "CityName": "Kütahya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/70e13c2c-7fcd-4eeb-9696-2439e00e4f36.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/emet_pidesi.json"
+    },
+    {
+        "name": "Gediz Güveci",
+        "CityName": "Kütahya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c75c0d04-62e5-4021-b0eb-cc4ab8c37f76.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gediz_guveci.json"
+    },
+    {
+        "name": "Gediz Tarhanası",
+        "CityName": "Kütahya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/41367f22-3342-4f5e-ad1e-61c7b9328bcb.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gediz_tarhanasi.json"
+    },
+    {
+        "name": "Kütahya Bitli Helva",
+        "CityName": "Kütahya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/4b99a057-235c-417f-ae15-f57347d24d43.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kutahya_bitli_helva.json"
+    },
+    {
+        "name": "Kütahya Cimcik Aşı/Kütahya Cimcik",
+        "CityName": "Kütahya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/2f0ca8e9-5761-4fba-9d9b-0380e2fcb562.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kutahya_cimcik_asikutahya_cimcik.json"
+    },
+    {
+        "name": "Kütahya Köpük Helvası",
+        "CityName": "Kütahya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d9bfce2e-7e79-47c0-84df-43696c5b22b2.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kutahya_kopuk_helvasi.json"
+    },
+    {
+        "name": "Kütahya Kızılcık Tarhanası",
+        "CityName": "Kütahya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/2806e25b-e462-4324-a7cc-f207372e4c70.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kutahya_kizilcik_tarhanasi.json"
+    },
+    {
+        "name": "Kütahya Pazarlar Kirazı",
+        "CityName": "Kütahya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e9664b9e-e3a6-4421-be3b-c858e78f99e2.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kutahya_pazarlar_kirazi.json"
+    },
+    {
+        "name": "Kütahya Çinisi",
+        "CityName": "Kütahya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/77.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kutahya_cinisi.json"
+    },
+    {
+        "name": "Paşa Helvası",
+        "CityName": "Kütahya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/1288667f-896d-48fc-a73c-9a835fca57c5.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/pasa_helvasi.json"
+    },
+    {
+        "name": "Simav El Halısı",
+        "CityName": "Kütahya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/685c281a-d537-42e2-9e48-b5a4acd813b6.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/simav_el_halisi.json"
+    },
+    {
+        "name": "Simav Kestanesi",
+        "CityName": "Kütahya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f5966295-025d-4c2e-9497-b82fe8e368fe.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/simav_kestanesi.json"
+    },
+    {
+        "name": "Tavşanlı Güveci / Tavşanlı Göveci",
+        "CityName": "Kütahya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/fac38599-94a3-4814-8f0a-fc0864fe13dc.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/tavsanli_guveci__tavsanli_goveci.json"
+    },
+    {
+        "name": "Tavşanlı Leblebisi",
+        "CityName": "Kütahya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/60.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/tavsanli_leblebisi.json"
+    },
+    {
+        "name": "Şaphane Vişnesi",
+        "CityName": "Kütahya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/a8df5d4a-8b95-46cb-8bd7-41a42ef165ae.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/saphane_visnesi.json"
+    }
+]

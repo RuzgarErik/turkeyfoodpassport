@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Pervari Balı",
+        "CityName": "Siirt",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/59.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/pervari_bali.json"
+    },
+    {
+        "name": "Siirt Battaniyesi",
+        "CityName": "Siirt",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/29ffadce-1776-49f8-ab8f-cf6973b0d8c4.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/siirt_battaniyesi.json"
+    },
+    {
+        "name": "Siirt Büryan Kebabı",
+        "CityName": "Siirt",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/05a45c71-2263-4b98-b544-1ecc5f233129.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/siirt_buryan_kebabi.json"
+    },
+    {
+        "name": "Siirt Perde Pilavı",
+        "CityName": "Siirt",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d16f101b-0c98-4564-8e37-4d6f59814338.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/siirt_perde_pilavi.json"
+    }
+]

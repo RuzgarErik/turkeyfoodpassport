@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Cennet Çamuru / Kilis Kaymaklı Kırma Künefe",
+        "CityName": "Kilis",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/393.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/cennet_camuru__kilis_kaymakli_kirma_kunefe.json"
+    },
+    {
+        "name": "Kilis Katmeri",
+        "CityName": "Kilis",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/193.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kilis_katmeri.json"
+    },
+    {
+        "name": "Kilis Tava",
+        "CityName": "Kilis",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/77042773-4a63-4fc5-b578-30e333d72a35.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kilis_tava.json"
+    },
+    {
+        "name": "Kilis Zeytinyağı",
+        "CityName": "Kilis",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/52dad6aa-3834-4a92-8a76-9b3e18a28dcb.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kilis_zeytinyagi.json"
+    },
+    {
+        "name": "Kırk Semseği",
+        "CityName": "Kilis",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/2e168581-5129-4a0e-aca6-964c33abc938.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kirk_semsegi.json"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Bor Söğürmesi",
+        "CityName": "Niğde",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/317.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bor_sogurmesi.json"
+    },
+    {
+        "name": "Darboğaz Kirazı",
+        "CityName": "Niğde",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/76374d37-dc7b-499d-bced-d1ceef7aa74b.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/darbogaz_kirazi.json"
+    },
+    {
+        "name": "Niğde Tahinlisi",
+        "CityName": "Niğde",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0ffb784b-2832-4cb8-beed-ec48d53599b2.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/nigde_tahinlisi.json"
+    },
+    {
+        "name": "Obruk (Arısama) Halısı",
+        "CityName": "Niğde",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/274.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/obruk_(arisama)_halisi.json"
+    }
+]

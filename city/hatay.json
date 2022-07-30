@@ -1,0 +1,182 @@
+[
+    {
+        "name": "Antakya Carra Peyniri",
+        "CityName": "Hatay",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/48b81cee-e112-483a-b73c-f31e108701ab.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/antakya_carra_peyniri.json"
+    },
+    {
+        "name": "Antakya Kağıt Kebabı",
+        "CityName": "Hatay",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/15f31c62-90a9-4611-8615-d35600ebd5c4.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/antakya_kagit_kebabi.json"
+    },
+    {
+        "name": "Antakya Küflü Sürkü (Çökeleği)",
+        "CityName": "Hatay",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/359.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/antakya_kuflu_surku_(cokelegi).json"
+    },
+    {
+        "name": "Antakya Künefelik Peyniri",
+        "CityName": "Hatay",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/86ae7627-67e0-424b-a680-6f418a2656b1.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/antakya_kunefelik_peyniri.json"
+    },
+    {
+        "name": "Antakya Künefesi",
+        "CityName": "Hatay",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/101.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/antakya_kunefesi.json"
+    },
+    {
+        "name": "Antakya Sürkü (Antakya Çökeleği)",
+        "CityName": "Hatay",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/330.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/antakya_surku_(antakya_cokelegi).json"
+    },
+    {
+        "name": "Antakya Tuzlu Yoğurdu",
+        "CityName": "Hatay",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/50393317-00a9-45f5-8c53-33a1c3525d9b.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/antakya_tuzlu_yogurdu.json"
+    },
+    {
+        "name": "Belen Kömürçukuru Pekmezi",
+        "CityName": "Hatay",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0c67823b-2e57-435a-bc7c-a138754c93a4.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/belen_komurcukuru_pekmezi.json"
+    },
+    {
+        "name": "Dörtyol Mandarini",
+        "CityName": "Hatay",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c980030b-8e51-40d4-b5a9-593893cfa52a.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/dortyol_mandarini.json"
+    },
+    {
+        "name": "Hatay Ceviz Reçeli",
+        "CityName": "Hatay",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/a083bc81-6f0a-4b16-be99-3b33a5fffe01.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/hatay_ceviz_receli.json"
+    },
+    {
+        "name": "Hatay Defne Sabunu",
+        "CityName": "Hatay",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/219.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/hatay_defne_sabunu.json"
+    },
+    {
+        "name": "Hatay Kabak Tatlısı",
+        "CityName": "Hatay",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/03d532fe-dba6-4c4d-8981-66a97fe30222.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/hatay_kabak_tatlisi.json"
+    },
+    {
+        "name": "Hatay Kaytaz Böreği",
+        "CityName": "Hatay",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/276bb91d-ec1d-4d46-950e-d6463279cb67.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/hatay_kaytaz_boregi.json"
+    },
+    {
+        "name": "Hatay Oruğu",
+        "CityName": "Hatay",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/6c9e6dbe-4a19-48f9-83fc-5d02af9c176c.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/hatay_orugu.json"
+    },
+    {
+        "name": "Hatay İpeği",
+        "CityName": "Hatay",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/4dbb6726-8fc3-45f7-879a-8ca7f7934ff0.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/hatay_ipegi.json"
+    },
+    {
+        "name": "Kırıkhan Kavunu",
+        "CityName": "Hatay",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/a3fc99e2-ed76-44c1-9daf-f7ed52ae99b5.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kirikhan_kavunu.json"
+    },
+    {
+        "name": "Samandağ Biberi",
+        "CityName": "Hatay",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/976eb6f7-d858-40af-8e0f-4c281133c7b5.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/samandag_biberi.json"
+    },
+    {
+        "name": "Samandağ Ney-i",
+        "CityName": "Hatay",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/be16c606-058e-4b10-aacc-1c286fee9280.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/samandag_ney-i.json"
+    }
+]

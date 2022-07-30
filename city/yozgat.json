@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Akdağmadeni Salebi",
+        "CityName": "Yozgat",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c7593cb2-8d77-4693-80fc-e56750b7dd30.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/akdagmadeni_salebi.json"
+    },
+    {
+        "name": "Sorgun Yağlısı",
+        "CityName": "Yozgat",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c60c98d4-5543-4d15-9e24-3034c723e01b.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/sorgun_yaglisi.json"
+    },
+    {
+        "name": "Yozgat Arabaşısı",
+        "CityName": "Yozgat",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ad43a3b7-9121-4395-8f3d-25be19995d53.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/yozgat_arabasisi.json"
+    },
+    {
+        "name": "Yozgat Aydıncık Bağrıbütün Kavunu",
+        "CityName": "Yozgat",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/a462fbbc-bf69-4540-835c-14115be45ca4.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/yozgat_aydincik_bagributun_kavunu.json"
+    },
+    {
+        "name": "Yozgat Parmak Çöreği",
+        "CityName": "Yozgat",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ef89d5f6-c4ec-4ff0-b3a3-fefaa9385691.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/yozgat_parmak_coregi.json"
+    },
+    {
+        "name": "Yozgat Tandır Kebabı",
+        "CityName": "Yozgat",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/29c1688c-79ed-483e-b106-f4eb0e1dc88a.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/yozgat_tandir_kebabi.json"
+    },
+    {
+        "name": "Yozgat Çanak Peyniri",
+        "CityName": "Yozgat",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5f50ad7c-bad5-4e98-bded-329d630ea302.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/yozgat_canak_peyniri.json"
+    }
+]

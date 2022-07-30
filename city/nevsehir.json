@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Avanos Çömleği",
+        "CityName": "Nevşehir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/293.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/avanos_comlegi.json"
+    },
+    {
+        "name": "Derinkuyu Kuru Fasulyesi",
+        "CityName": "Nevşehir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/72e0f2d1-802d-481f-953e-e6aa6919b362.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/derinkuyu_kuru_fasulyesi.json"
+    },
+    {
+        "name": "Kaymaklı Kuru Kaymağı",
+        "CityName": "Nevşehir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ebcb0395-32bf-436a-bc2f-9cb6b74cd58e.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kaymakli_kuru_kaymagi.json"
+    },
+    {
+        "name": "Kaymaklı Çöreği",
+        "CityName": "Nevşehir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5e34df6e-23fe-4702-bd24-c01f4d29befd.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kaymakli_coregi.json"
+    },
+    {
+        "name": "Nevşehir Kabak Çekirdeği",
+        "CityName": "Nevşehir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/4986ada0-21e5-4b48-9b61-e1cd6026b0ba.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/nevsehir_kabak_cekirdegi.json"
+    },
+    {
+        "name": "Nevşehir Simidi",
+        "CityName": "Nevşehir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/1a493f1b-7a9c-404b-9987-c257ce30fcaa.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/nevsehir_simidi.json"
+    },
+    {
+        "name": "Nevşehir Testi Kebabı",
+        "CityName": "Nevşehir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/2a3dbbad-25ac-410e-ba03-5dc7d36f0c1f.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/nevsehir_testi_kebabi.json"
+    }
+]

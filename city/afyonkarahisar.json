@@ -1,0 +1,392 @@
+[
+    {
+        "name": "Afyon Ağzıaçığı",
+        "CityName": "Afyonkarahisar",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b8e8d32b-03e9-494e-9d07-3a5d050d8c6e.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/afyon_agziacigi.json"
+    },
+    {
+        "name": "Afyon Bükmesi",
+        "CityName": "Afyonkarahisar",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/fae5e5f3-8caa-48b3-9393-92ed99974cac.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/afyon_bukmesi.json"
+    },
+    {
+        "name": "Afyon Kaymaklı Ekmek Kadayıfı",
+        "CityName": "Afyonkarahisar",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/30828f4d-52d5-4e6c-a494-d3bb668bea4d.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/afyon_kaymakli_ekmek_kadayifi.json"
+    },
+    {
+        "name": "Afyon Kaymağı",
+        "CityName": "Afyonkarahisar",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/115.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/afyon_kaymagi.json"
+    },
+    {
+        "name": "Afyon Kebabı",
+        "CityName": "Afyonkarahisar",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/30cbcea7-f162-4db6-8dd5-013952faf326.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/afyon_kebabi.json"
+    },
+    {
+        "name": "Afyon Lokumu",
+        "CityName": "Afyonkarahisar",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/9fbc36d7-3989-44d2-bc57-dc439b03b896.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/afyon_lokumu.json"
+    },
+    {
+        "name": "Afyon Manda Yoğurdu / Afyonkarahisar Manda Yoğurdu",
+        "CityName": "Afyonkarahisar",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c578f27f-29b3-4a9a-b241-592318457c94.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/afyon_manda_yogurdu__afyonkarahisar_manda_yogurdu.json"
+    },
+    {
+        "name": "Afyon Mermeri",
+        "CityName": "Afyonkarahisar",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/114.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/afyon_mermeri.json"
+    },
+    {
+        "name": "Afyon Pastırması",
+        "CityName": "Afyonkarahisar",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/73.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/afyon_pastirmasi.json"
+    },
+    {
+        "name": "Afyon Patlıcan Böreği",
+        "CityName": "Afyonkarahisar",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/8c88e61a-015b-4eab-9018-40d0e497181e.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/afyon_patlican_boregi.json"
+    },
+    {
+        "name": "Afyon Sucuğu",
+        "CityName": "Afyonkarahisar",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/74.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/afyon_sucugu.json"
+    },
+    {
+        "name": "Afyon Velense Hamur Aşı / Afyonkarahisar Velense Hamur Aşı",
+        "CityName": "Afyonkarahisar",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/2351e458-b5e0-4612-a29e-a3bab7d055c4.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/afyon_velense_hamur_asi__afyonkarahisar_velense_hamur_asi.json"
+    },
+    {
+        "name": "Afyon İlibada Sarması/Afyon İlibada Dolması/Afyonkarahisar İlibada Sarması/Afyonkarahisar İlibada Dolması",
+        "CityName": "Afyonkarahisar",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/8877e3b3-e008-44ce-baa2-306349213cdc.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/afyon_ilibada_sarmasiafyon_ilibada_dolmasiafyonkarahisar_ilibada_sarmasiafyonkarahisar_ilibada_dolmasi.json"
+    },
+    {
+        "name": "Afyonkarahisar Göce Köftesi / Afyon Göce Köftesi",
+        "CityName": "Afyonkarahisar",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/cf0fb714-4eca-4dfe-8763-b5ab8acd4a9d.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/afyonkarahisar_goce_koftesi__afyon_goce_koftesi.json"
+    },
+    {
+        "name": "Afyonkarahisar Hurma Baklavası / Afyon Hurma Baklavası",
+        "CityName": "Afyonkarahisar",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f9ed4974-8fd4-44d5-b5a4-880b4d484613.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/afyonkarahisar_hurma_baklavasi__afyon_hurma_baklavasi.json"
+    },
+    {
+        "name": "Afyonkarahisar Mercimekli Pilav / Afyon Mercimekli Pilav",
+        "CityName": "Afyonkarahisar",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/bb039b37-db70-463a-8f3e-1463e2ac9182.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/afyonkarahisar_mercimekli_pilav__afyon_mercimekli_pilav.json"
+    },
+    {
+        "name": "Afyonkarahisar Patatesli Ekmeği",
+        "CityName": "Afyonkarahisar",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/371.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/afyonkarahisar_patatesli_ekmegi.json"
+    },
+    {
+        "name": "Afyonkarahisar Çullama Köfte",
+        "CityName": "Afyonkarahisar",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/4e8ed2ed-0ff8-4587-a7b1-b379a4a85db5.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/afyonkarahisar_cullama_kofte.json"
+    },
+    {
+        "name": "Afyonkarahisar Övmesi / Afyon Övmesi",
+        "CityName": "Afyonkarahisar",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/729e1c2f-dd33-4e1e-b1c4-d2a2222810b8.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/afyonkarahisar_ovmesi__afyon_ovmesi.json"
+    },
+    {
+        "name": "Bayat Türkmen Kilimi",
+        "CityName": "Afyonkarahisar",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c4aa7017-7eec-4ca4-ba49-a2400a83931d.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bayat_turkmen_kilimi.json"
+    },
+    {
+        "name": "Dazkırı Halısı",
+        "CityName": "Afyonkarahisar",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/25318ed4-245a-48c8-a650-3149916f9a20.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/dazkiri_halisi.json"
+    },
+    {
+        "name": "Dinar Taptama Köfte / Dinar Taplama Köfte",
+        "CityName": "Afyonkarahisar",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5c2ba7be-f4ac-4d9d-a7c3-411794fd0141.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/dinar_taptama_kofte__dinar_taplama_kofte.json"
+    },
+    {
+        "name": "Emirdağ Dolgulu Köftesi",
+        "CityName": "Afyonkarahisar",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/39e688b2-a6f9-4bc3-8ddd-dea4c1fcf4e4.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/emirdag_dolgulu_koftesi.json"
+    },
+    {
+        "name": "Emirdağ Güveci",
+        "CityName": "Afyonkarahisar",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f5e9e858-beef-4eef-aaee-344d41043b0d.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/emirdag_guveci.json"
+    },
+    {
+        "name": "Emirdağ Kilimi",
+        "CityName": "Afyonkarahisar",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/9ee26055-1778-47c2-a6a9-68aa6b50e535.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/emirdag_kilimi.json"
+    },
+    {
+        "name": "Emirdağ Koyun Yoğurdu",
+        "CityName": "Afyonkarahisar",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d4bad299-7971-41d4-830c-908751f33fd1.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/emirdag_koyun_yogurdu.json"
+    },
+    {
+        "name": "Emirdağ Yumurtalı Pidesi",
+        "CityName": "Afyonkarahisar",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/965bf816-76b2-4caa-b74d-21d4773264fd.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/emirdag_yumurtali_pidesi.json"
+    },
+    {
+        "name": "Pazırık El Halısı",
+        "CityName": "Afyonkarahisar",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/77e593e9-8bae-4c21-b5da-6fde2f332aa4.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/pazirik_el_halisi.json"
+    },
+    {
+        "name": "Sandıklı Haşhaş Ezmesi",
+        "CityName": "Afyonkarahisar",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/052e738a-3ac0-48fc-9379-a973642fed4a.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/sandikli_hashas_ezmesi.json"
+    },
+    {
+        "name": "Sandıklı Kapama Yemeği",
+        "CityName": "Afyonkarahisar",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/361da980-73f0-43c8-91a2-f4e963c40cfa.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/sandikli_kapama_yemegi.json"
+    },
+    {
+        "name": "Sandıklı Kürek Helvası",
+        "CityName": "Afyonkarahisar",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/fd5601d1-71f2-4558-8ced-e08f2b448ba7.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/sandikli_kurek_helvasi.json"
+    },
+    {
+        "name": "Sandıklı Saç Eti",
+        "CityName": "Afyonkarahisar",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/905c7d32-6d7a-4682-97ad-b9e39f8102ae.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/sandikli_sac_eti.json"
+    },
+    {
+        "name": "Sultandağı Gılli Kirazı",
+        "CityName": "Afyonkarahisar",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/aaeaaae8-27af-4545-806e-a74d1c1598a5.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/sultandagi_gilli_kirazi.json"
+    },
+    {
+        "name": "Sultandağı Kirazı",
+        "CityName": "Afyonkarahisar",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e583060f-af45-445b-b4bb-a43985da862f.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/sultandagi_kirazi.json"
+    },
+    {
+        "name": "Süper İnce Kilim",
+        "CityName": "Afyonkarahisar",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/4f7d7a4a-4ede-48ff-b08f-fe79883f856c.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/super_ince_kilim.json"
+    },
+    {
+        "name": "Türkmen El Halısı",
+        "CityName": "Afyonkarahisar",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e8ebab55-6169-4ef9-a883-f2efb14c8776.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/turkmen_el_halisi.json"
+    },
+    {
+        "name": "Çay İlçesi Vişnesi",
+        "CityName": "Afyonkarahisar",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/92a6d925-e66e-4dab-aa8e-173cec5bdc63.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/cay_ilcesi_visnesi.json"
+    },
+    {
+        "name": "Şuhut Keşkeği",
+        "CityName": "Afyonkarahisar",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/399.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/suhut_keskegi.json"
+    },
+    {
+        "name": "Şuhut Patatesi",
+        "CityName": "Afyonkarahisar",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/00b3cfbb-4035-4885-94c3-a23f0d05b8b2.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/suhut_patatesi.json"
+    }
+]

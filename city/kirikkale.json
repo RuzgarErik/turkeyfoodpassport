@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Delice Doğal Kaynak Tuzu",
+        "CityName": "Kırıkkale",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0e7aab40-d616-4b31-80ee-3f0937e69b40.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/delice_dogal_kaynak_tuzu.json"
+    },
+    {
+        "name": "Kırıkkale Keskin Tava",
+        "CityName": "Kırıkkale",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/311.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kirikkale_keskin_tava.json"
+    },
+    {
+        "name": "Kırıkkale Kılıçlar Soğanı",
+        "CityName": "Kırıkkale",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/365.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kirikkale_kiliclar_sogani.json"
+    }
+]

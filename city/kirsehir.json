@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Cemele Biberi",
+        "CityName": "Kırşehir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5344c4de-2c33-43d1-bcd6-6e95642b2008.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/cemele_biberi.json"
+    },
+    {
+        "name": "Kaman Cevizi",
+        "CityName": "Kırşehir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/36d8b041-1d02-4d2b-bddc-4609238f14ee.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kaman_cevizi.json"
+    },
+    {
+        "name": "Kırşehir Ayva Boranısı",
+        "CityName": "Kırşehir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0339a5fc-da1a-4aff-aa1c-794b837e688f.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kirsehir_ayva_boranisi.json"
+    },
+    {
+        "name": "Kırşehir Höşmerim Tatlısı",
+        "CityName": "Kırşehir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/257.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kirsehir_hosmerim_tatlisi.json"
+    },
+    {
+        "name": "Kırşehir Süla Kabağı Yemeği",
+        "CityName": "Kırşehir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/58998910-f926-461f-8bda-64edb7835e9d.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kirsehir_sula_kabagi_yemegi.json"
+    },
+    {
+        "name": "Kırşehir Çirleme Yemeği",
+        "CityName": "Kırşehir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/65acc576-7a8b-422a-9a28-72b057c0f835.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kirsehir_cirleme_yemegi.json"
+    },
+    {
+        "name": "Kırşehir Çullaması",
+        "CityName": "Kırşehir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/256.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kirsehir_cullamasi.json"
+    }
+]

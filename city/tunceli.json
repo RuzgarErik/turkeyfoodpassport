@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Tunceli Sarımsağı",
+        "CityName": "Tunceli",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/756366fe-5e1e-43f8-a209-d6f814ebd61a.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/tunceli_sarimsagi.json"
+    },
+    {
+        "name": "Tunceli Şorbik Çorbası",
+        "CityName": "Tunceli",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/285.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/tunceli_sorbik_corbasi.json"
+    },
+    {
+        "name": "Çemişgezek Ulukale Dutu",
+        "CityName": "Tunceli",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/7275c305-672f-4c8e-a726-5a0343c668ce.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/cemisgezek_ulukale_dutu.json"
+    }
+]

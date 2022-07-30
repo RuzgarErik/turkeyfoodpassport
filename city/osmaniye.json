@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Kadirli Turpu",
+        "CityName": "Osmaniye",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b5551961-2bd5-4c2b-9436-ab17640a5bfc.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kadirli_turpu.json"
+    },
+    {
+        "name": "Karatepe Kilimi",
+        "CityName": "Osmaniye",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/59d6c169-810a-4acd-94a4-7d5d44955586.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/karatepe_kilimi.json"
+    },
+    {
+        "name": "Osmaniye Yer Fıstığı",
+        "CityName": "Osmaniye",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/54.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/osmaniye_yer_fistigi.json"
+    }
+]

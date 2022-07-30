@@ -1,0 +1,192 @@
+[
+    {
+        "name": "Afşin Koçovası Sarımsağı",
+        "CityName": "Kahramanmaraş",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/95af6b4f-f214-4812-8bf3-375bf7d160c7.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/afsin_kocovasi_sarimsagi.json"
+    },
+    {
+        "name": "Andırın Tirşiği",
+        "CityName": "Kahramanmaraş",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/8751d3ef-618e-409e-a261-30d445bb5b3e.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/andirin_tirsigi.json"
+    },
+    {
+        "name": "Kahramanmaraş Hartlap Bıçağı",
+        "CityName": "Kahramanmaraş",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f732aba2-bd99-4e7b-b0d3-aef111133ac0.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kahramanmaras_hartlap_bicagi.json"
+    },
+    {
+        "name": "Kahramanmaraş Oyma Çeyiz Sandığı",
+        "CityName": "Kahramanmaraş",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/8596c555-247a-4fab-832f-825cb5f4c043.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kahramanmaras_oyma_ceyiz_sandigi.json"
+    },
+    {
+        "name": "Kahramanmaraş Yemenisi",
+        "CityName": "Kahramanmaraş",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/339.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kahramanmaras_yemenisi.json"
+    },
+    {
+        "name": "Maraş Biberi",
+        "CityName": "Kahramanmaraş",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/43.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/maras_biberi.json"
+    },
+    {
+        "name": "Maraş Burma Bileziği",
+        "CityName": "Kahramanmaraş",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/9d45b6b2-72ce-492d-ae51-70d61fb2f714.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/maras_burma_bilezigi.json"
+    },
+    {
+        "name": "Maraş Camekânı",
+        "CityName": "Kahramanmaraş",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5da26177-03e7-47c9-b068-ebc07a31d9b3.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/maras_camekâni.json"
+    },
+    {
+        "name": "Maraş Dondurması",
+        "CityName": "Kahramanmaraş",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/344.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/maras_dondurmasi.json"
+    },
+    {
+        "name": "Maraş File Nakışı",
+        "CityName": "Kahramanmaraş",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/341.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/maras_file_nakisi.json"
+    },
+    {
+        "name": "Maraş Kelle Paçası",
+        "CityName": "Kahramanmaraş",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/dca471be-804e-4b9d-9d9a-d7dc388f3496.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/maras_kelle_pacasi.json"
+    },
+    {
+        "name": "Maraş Parmak /Sıkma Peyniri",
+        "CityName": "Kahramanmaraş",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/4ad3eddd-f659-4d75-b81a-9a6cec914b11.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/maras_parmak_sikma_peyniri.json"
+    },
+    {
+        "name": "Maraş Rahlesi",
+        "CityName": "Kahramanmaraş",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/863469c0-fb0d-4320-ab24-2778eae1f9d2.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/maras_rahlesi.json"
+    },
+    {
+        "name": "Maraş Ravanda Şerbeti",
+        "CityName": "Kahramanmaraş",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ed72ef26-c2ce-43dc-8168-c0a10e473658.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/maras_ravanda_serbeti.json"
+    },
+    {
+        "name": "Maraş Sumak Ekşisi Akıtı",
+        "CityName": "Kahramanmaraş",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/343.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/maras_sumak_eksisi_akiti.json"
+    },
+    {
+        "name": "Maraş Tarhanası",
+        "CityName": "Kahramanmaraş",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/154.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/maras_tarhanasi.json"
+    },
+    {
+        "name": "Maraş Çöreği",
+        "CityName": "Kahramanmaraş",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/361.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/maras_coregi.json"
+    },
+    {
+        "name": "Maraş İşi / Maraş Sim Sırma",
+        "CityName": "Kahramanmaraş",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/1aff6c52-e73b-4d1c-b617-6b05cd1972d4.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/maras_isi__maras_sim_sirma.json"
+    },
+    {
+        "name": "Çağlayancerit Cevizi",
+        "CityName": "Kahramanmaraş",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ceee054d-0c0d-4ae5-985b-71f836496c29.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/caglayancerit_cevizi.json"
+    }
+]

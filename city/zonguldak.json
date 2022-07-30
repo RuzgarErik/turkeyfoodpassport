@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Devrek Bastonu",
+        "CityName": "Zonguldak",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/71.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/devrek_bastonu.json"
+    },
+    {
+        "name": "Devrek Beyaz Baklavası / Devrek Baklavası",
+        "CityName": "Zonguldak",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b7ffacd4-acf1-4354-86bd-5f21430b3d05.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/devrek_beyaz_baklavasi__devrek_baklavasi.json"
+    },
+    {
+        "name": "Devrek Kömeci/Devrek Cevizli Kömeci",
+        "CityName": "Zonguldak",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f28555b8-14ba-443b-8ebc-9235109ffeae.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/devrek_komecidevrek_cevizli_komeci.json"
+    },
+    {
+        "name": "Karadeniz Ereğli Osmanlı Çileği",
+        "CityName": "Zonguldak",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/7ae0796c-3afe-4309-843f-37676567a0c8.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/karadeniz_eregli_osmanli_cilegi.json"
+    },
+    {
+        "name": "Çaycuma Manda Yoğurdu",
+        "CityName": "Zonguldak",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/46fcf696-4c1c-4b86-ac8e-5195e42b3181.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/caycuma_manda_yogurdu.json"
+    }
+]

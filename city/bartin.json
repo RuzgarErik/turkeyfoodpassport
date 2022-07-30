@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Bartın Ağda Tatlısı",
+        "CityName": "Bartın",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/cb2e6f58-0e28-4605-8897-1b080e67a21d.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bartin_agda_tatlisi.json"
+    },
+    {
+        "name": "Bartın Beyaz Baklavası",
+        "CityName": "Bartın",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5b7601ca-fffa-4815-b6bf-1fa213c21e05.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bartin_beyaz_baklavasi.json"
+    },
+    {
+        "name": "Bartın Gözlemesi",
+        "CityName": "Bartın",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/90969639-4195-4894-80df-4068abd25b81.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bartin_gozlemesi.json"
+    },
+    {
+        "name": "Bartın Kabak Burma Tatlısı / Bartın Kabak Burması",
+        "CityName": "Bartın",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/7af05ab1-749f-436a-90aa-3f9ad47bebaa.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bartin_kabak_burma_tatlisi__bartin_kabak_burmasi.json"
+    },
+    {
+        "name": "Bartın Pirinçli Mantısı",
+        "CityName": "Bartın",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f0de027b-9726-4865-887d-3ae5faa5c232.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bartin_pirincli_mantisi.json"
+    },
+    {
+        "name": "Bartın Tatlı Böreği",
+        "CityName": "Bartın",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f667b7eb-ee74-43af-90e3-c5d57989b53e.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bartin_tatli_boregi.json"
+    },
+    {
+        "name": "Bartın Yumurtalı Isput Yemeği",
+        "CityName": "Bartın",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5a0cf699-692b-4b64-ac30-7853b08e0d60.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bartin_yumurtali_isput_yemegi.json"
+    },
+    {
+        "name": "Bartın Çöven Ekmeği",
+        "CityName": "Bartın",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/4056d9fb-ed5c-4d59-a457-6fa0f05e381c.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bartin_coven_ekmegi.json"
+    },
+    {
+        "name": "Bartın İncir Dondurma Tatlısı / Bartın İncir Donduması",
+        "CityName": "Bartın",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/fb65a5e3-2f23-4f4e-83fe-53330dd4e1b1.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bartin_incir_dondurma_tatlisi__bartin_incir_dondumasi.json"
+    },
+    {
+        "name": "Bartın İşi Tel Sarma",
+        "CityName": "Bartın",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/916f8e85-a2c0-4964-8c3a-1104bbd019f2.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bartin_isi_tel_sarma.json"
+    },
+    {
+        "name": "Bartın İşi Telkırma",
+        "CityName": "Bartın",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/125.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bartin_isi_telkirma.json"
+    },
+    {
+        "name": "Kurucaşile Taş Sac",
+        "CityName": "Bartın",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/7c5c5693-c6b8-43c2-8570-3adcf329960f.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kurucasile_tas_sac.json"
+    }
+]

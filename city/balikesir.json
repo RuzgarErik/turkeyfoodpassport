@@ -1,0 +1,152 @@
+[
+    {
+        "name": "Ayvalık Zeytinyağı",
+        "CityName": "Balıkesir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f6ea9b58-f8dc-4505-8023-1da67e328582.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/ayvalik_zeytinyagi.json"
+    },
+    {
+        "name": "Balıkesir Höşmerim Tatlısı",
+        "CityName": "Balıkesir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ed37c4e8-c40e-4e17-bfab-93afd4b6cea6.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/balikesir_hosmerim_tatlisi.json"
+    },
+    {
+        "name": "Balıkesir Kuzu Eti",
+        "CityName": "Balıkesir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/314.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/balikesir_kuzu_eti.json"
+    },
+    {
+        "name": "Balıkesir Pullusu",
+        "CityName": "Balıkesir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/fc04fa98-d78e-4f57-9ad9-dfa7f62cf0ec.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/balikesir_pullusu.json"
+    },
+    {
+        "name": "Burhaniye Zeytinyağı",
+        "CityName": "Balıkesir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0bdf5700-49cc-4834-b811-01bf8b8de1b6.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/burhaniye_zeytinyagi.json"
+    },
+    {
+        "name": "Edremit Körfezi Yeşil Çizik Zeytini",
+        "CityName": "Balıkesir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/50db458c-9d7e-4a96-b536-a9ede275d4e0.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/edremit_korfezi_yesil_cizik_zeytini.json"
+    },
+    {
+        "name": "Edremit Zeytinyağı",
+        "CityName": "Balıkesir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/273.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/edremit_zeytinyagi.json"
+    },
+    {
+        "name": "Gönen İğne Oyası",
+        "CityName": "Balıkesir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b5117309-7adc-4f6d-9728-867d77c77df3.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gonen_igne_oyasi.json"
+    },
+    {
+        "name": "Kapıdağ Mor Soğanı",
+        "CityName": "Balıkesir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/362.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kapidag_mor_sogani.json"
+    },
+    {
+        "name": "Manyas Kelle Peyniri",
+        "CityName": "Balıkesir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/8dd23b09-999a-4a75-96b3-8928385b9adf.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/manyas_kelle_peyniri.json"
+    },
+    {
+        "name": "Marmara Adası Mermeri/ Marmara Mermeri / Marmara Beyazı",
+        "CityName": "Balıkesir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/387.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/marmara_adasi_mermeri_marmara_mermeri__marmara_beyazi.json"
+    },
+    {
+        "name": "Susurluk Ayranı",
+        "CityName": "Balıkesir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/238.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/susurluk_ayrani.json"
+    },
+    {
+        "name": "Susurluk Tostu",
+        "CityName": "Balıkesir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/239.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/susurluk_tostu.json"
+    },
+    {
+        "name": "Yağcıbedir El Halısı",
+        "CityName": "Balıkesir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/75cf3661-b78e-4dd9-9405-4d8533ee7c35.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/yagcibedir_el_halisi.json"
+    },
+    {
+        "name": "İvrindi Kelle Peyniri",
+        "CityName": "Balıkesir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/900ea6fc-ec53-49f7-9653-f83b42128e8c.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/ivrindi_kelle_peyniri.json"
+    }
+]

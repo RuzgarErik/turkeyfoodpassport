@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Deva-i Misk Helvası",
+        "CityName": "Edirne",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/276ec01a-2df3-4b9b-814c-2c7024fa2beb.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/deva-i_misk_helvasi.json"
+    },
+    {
+        "name": "Edirne Badem Ezmesi",
+        "CityName": "Edirne",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/cdf13031-1cb0-4dc3-8ca4-5e879c95b4a1.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/edirne_badem_ezmesi.json"
+    },
+    {
+        "name": "Edirne Beyaz Peyniri",
+        "CityName": "Edirne",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/82e2bd66-6f9d-4d29-843b-083c54be140b.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/edirne_beyaz_peyniri.json"
+    },
+    {
+        "name": "Edirne Mis Meyve Sabunu",
+        "CityName": "Edirne",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/691e534d-f4fc-4edb-88d8-9fd25c85da66.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/edirne_mis_meyve_sabunu.json"
+    },
+    {
+        "name": "Edirne Tava Ciğeri",
+        "CityName": "Edirne",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/128.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/edirne_tava_cigeri.json"
+    },
+    {
+        "name": "Keşan Satır Et",
+        "CityName": "Edirne",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/153.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kesan_satir_et.json"
+    },
+    {
+        "name": "Keşan Siğilli Bamyası",
+        "CityName": "Edirne",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b714ca5e-ce12-417f-a016-376008f6bbc9.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kesan_sigilli_bamyasi.json"
+    },
+    {
+        "name": "Meriç Kara Kavunu",
+        "CityName": "Edirne",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f83c560d-d645-4dcd-a485-775f5e617a10.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/meric_kara_kavunu.json"
+    },
+    {
+        "name": "İpsala Pirinci",
+        "CityName": "Edirne",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f725d4cc-a98b-4164-9dfd-acdff2b24347.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/ipsala_pirinci.json"
+    }
+]

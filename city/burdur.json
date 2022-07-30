@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Bucak Salebi",
+        "CityName": "Burdur",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/864caa9d-65c3-48cd-b2e7-21fffbda14e6.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bucak_salebi.json"
+    },
+    {
+        "name": "Burdur Ceviz Ezmesi",
+        "CityName": "Burdur",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/117.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/burdur_ceviz_ezmesi.json"
+    },
+    {
+        "name": "Burdur Şiş Köftesi",
+        "CityName": "Burdur",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/09d302f6-af01-48df-b69b-f6ebb723314f.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/burdur_sis_koftesi.json"
+    },
+    {
+        "name": "Dirmil Sipsisi",
+        "CityName": "Burdur",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/300d51ed-d0fd-4dfc-a3d1-037a0b2a295d.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/dirmil_sipsisi.json"
+    },
+    {
+        "name": "Karamanlı Cevizi",
+        "CityName": "Burdur",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0df54cca-d4cd-44c4-90b7-dd5f1eb3a328.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/karamanli_cevizi.json"
+    },
+    {
+        "name": "Karamanlı Kişnişi",
+        "CityName": "Burdur",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0d1b5c53-7dc8-4e71-a2ee-e83f3706fb87.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/karamanli_kisnisi.json"
+    },
+    {
+        "name": "Karamanlı Rezenesi",
+        "CityName": "Burdur",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/3f36719c-d5d6-4326-9d81-1e061ce5b6a1.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/karamanli_rezenesi.json"
+    },
+    {
+        "name": "Melli İnciri",
+        "CityName": "Burdur",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/370.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/melli_inciri.json"
+    },
+    {
+        "name": "Tefenni Rezenesi",
+        "CityName": "Burdur",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b44a79e3-0cfc-4ffc-a0ae-8a4864e2a798.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/tefenni_rezenesi.json"
+    }
+]

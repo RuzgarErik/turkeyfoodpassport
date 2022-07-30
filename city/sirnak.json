@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Cizre Luzine Tatlısı",
+        "CityName": "Şırnak",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/be1b56ca-e88f-458e-b85c-50bfb9ff3459.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/cizre_luzine_tatlisi.json"
+    },
+    {
+        "name": "Cizre Memilheva Kurabiyesi",
+        "CityName": "Şırnak",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b7f21854-a6b8-4c0c-91f2-2f959f15cf1f.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/cizre_memilheva_kurabiyesi.json"
+    },
+    {
+        "name": "Şımşıpe",
+        "CityName": "Şırnak",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/301.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/simsipe.json"
+    }
+]

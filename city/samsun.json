@@ -1,0 +1,152 @@
+[
+    {
+        "name": "Bafra Kaymaklı Lokum",
+        "CityName": "Samsun",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0a70ce11-2925-4eda-8fcc-618b6c7109e3.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bafra_kaymakli_lokum.json"
+    },
+    {
+        "name": "Bafra Nokulu",
+        "CityName": "Samsun",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/227.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bafra_nokulu.json"
+    },
+    {
+        "name": "Bafra Pidesi",
+        "CityName": "Samsun",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/119.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bafra_pidesi.json"
+    },
+    {
+        "name": "Bafra Zembili",
+        "CityName": "Samsun",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/7174b75d-3a70-4367-9eef-ad4e1fb84ec2.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bafra_zembili.json"
+    },
+    {
+        "name": "Samsun Kaz Tiridi",
+        "CityName": "Samsun",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/7e57dee9-1639-47c5-bc82-d2d6aabeda8a.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/samsun_kaz_tiridi.json"
+    },
+    {
+        "name": "Samsun Simidi",
+        "CityName": "Samsun",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/176.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/samsun_simidi.json"
+    },
+    {
+        "name": "Terme Pidesi",
+        "CityName": "Samsun",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e8dca363-b7a9-4bb6-a502-97f04adaf371.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/terme_pidesi.json"
+    },
+    {
+        "name": "Vezirköprü Semaveri",
+        "CityName": "Samsun",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/299.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/vezirkopru_semaveri.json"
+    },
+    {
+        "name": "Vezirköprü Susuz Bezi",
+        "CityName": "Samsun",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0a3d09a7-6a3a-4bd8-8f7c-a276e764bb25.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/vezirkopru_susuz_bezi.json"
+    },
+    {
+        "name": "Vezirköprü Tahtaköprü Kilimi",
+        "CityName": "Samsun",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/309e0eae-5074-4922-8b9f-622b77575acf.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/vezirkopru_tahtakopru_kilimi.json"
+    },
+    {
+        "name": "Yakakent Mantısı",
+        "CityName": "Samsun",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/251.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/yakakent_mantisi.json"
+    },
+    {
+        "name": "Yumurta Topuk Çarşamba Ayakkabısı / Çarşamba Ayakkabısı",
+        "CityName": "Samsun",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/68ad2ca4-e364-4855-9019-ff7091e2a49b.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/yumurta_topuk_carsamba_ayakkabisi__carsamba_ayakkabisi.json"
+    },
+    {
+        "name": "Çarşamba Kıvratması",
+        "CityName": "Samsun",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/7f2a2209-ba5d-4e10-8b02-880663ef8e96.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/carsamba_kivratmasi.json"
+    },
+    {
+        "name": "Çarşamba Pidesi",
+        "CityName": "Samsun",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0a0003c3-26dd-4f5e-b3ae-39d12e0da143.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/carsamba_pidesi.json"
+    },
+    {
+        "name": "Çarşamba Sekiz Köşe Kasketi / Çarşamba Kasketi",
+        "CityName": "Samsun",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ba5ed23e-b7cd-4338-97e4-dd7eaa684e11.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/carsamba_sekiz_kose_kasketi__carsamba_kasketi.json"
+    }
+]

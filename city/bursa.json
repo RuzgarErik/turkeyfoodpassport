@@ -1,0 +1,232 @@
+[
+    {
+        "name": "Bursa Bıçağı",
+        "CityName": "Bursa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/326.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bursa_bicagi.json"
+    },
+    {
+        "name": "Bursa Cantık",
+        "CityName": "Bursa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d219ffc8-e648-4df3-8661-fea9c9ce0a06.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bursa_cantik.json"
+    },
+    {
+        "name": "Bursa Cevizli Lokum",
+        "CityName": "Bursa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5243f171-0c88-4e99-ad84-1c4295bae82b.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bursa_cevizli_lokum.json"
+    },
+    {
+        "name": "Bursa Döner Kebabı",
+        "CityName": "Bursa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/28d8ac56-6379-44fc-9c62-86babd369703.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bursa_doner_kebabi.json"
+    },
+    {
+        "name": "Bursa Kestane Şekeri",
+        "CityName": "Bursa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/70639342-5a0d-4c32-8d01-0a11ca2e0961.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bursa_kestane_sekeri.json"
+    },
+    {
+        "name": "Bursa Pideli Köfte",
+        "CityName": "Bursa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/a4e351d5-3233-46fb-a37f-8d53333701cb.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bursa_pideli_kofte.json"
+    },
+    {
+        "name": "Bursa Siyah İnciri / Bursa Siyahı / Siyah Bursa İnciri",
+        "CityName": "Bursa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/391.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bursa_siyah_inciri__bursa_siyahi__siyah_bursa_inciri.json"
+    },
+    {
+        "name": "Bursa Süt Helvası",
+        "CityName": "Bursa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5d1c3f87-b18f-4e0f-b75c-8dd285c9a061.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bursa_sut_helvasi.json"
+    },
+    {
+        "name": "Bursa Tahinli Pide",
+        "CityName": "Bursa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ba27ee2b-56ca-4941-aa96-87cb1ff655ab.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bursa_tahinli_pide.json"
+    },
+    {
+        "name": "Bursa Üzüm Şırası",
+        "CityName": "Bursa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/576248be-7311-47f9-bb35-1bdbbcec2a5e.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bursa_uzum_sirasi.json"
+    },
+    {
+        "name": "Bursa İpeği / Bursa İpek İpliği",
+        "CityName": "Bursa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/dfaf28d3-a0bf-402f-a00b-24bcce3f0d01.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bursa_ipegi__bursa_ipek_ipligi.json"
+    },
+    {
+        "name": "Bursa Şeftalisi",
+        "CityName": "Bursa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/63b33df3-ab5e-4b0d-8133-ba22c6c1883d.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bursa_seftalisi.json"
+    },
+    {
+        "name": "Gemlik Atı",
+        "CityName": "Bursa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/bd2bbbfc-40bc-4e67-bc26-14fafa8b63bd.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gemlik_ati.json"
+    },
+    {
+        "name": "Gemlik Zeytini",
+        "CityName": "Bursa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/76.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gemlik_zeytini.json"
+    },
+    {
+        "name": "Gürsu Deveci Armudu",
+        "CityName": "Bursa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/02d734c6-bed8-4094-bf5d-e22488cb2397.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gursu_deveci_armudu.json"
+    },
+    {
+        "name": "Hasanağa Enginarı",
+        "CityName": "Bursa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c18d82d3-f8be-4713-b991-56f0a33852f5.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/hasanaga_enginari.json"
+    },
+    {
+        "name": "Karacabey Soğanı",
+        "CityName": "Bursa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/247.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/karacabey_sogani.json"
+    },
+    {
+        "name": "Kemalpaşa Tatlısı / Mustafakemalpaşa Peynir Tatlısı / Mustafakemalpaşa Tatlısı",
+        "CityName": "Bursa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/96e55e15-4e64-4867-ac04-adbb818e993a.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kemalpasa_tatlisi__mustafakemalpasa_peynir_tatlisi__mustafakemalpasa_tatlisi.json"
+    },
+    {
+        "name": "Müşküle İğne Oyası",
+        "CityName": "Bursa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b6b8fbde-eafe-4b8c-b5e7-7f3ea4a78141.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/muskule_igne_oyasi.json"
+    },
+    {
+        "name": "Orhangazi Gedelek Turşusu",
+        "CityName": "Bursa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/97314394-98c1-47e5-93da-f4e31339d8cf.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/orhangazi_gedelek_tursusu.json"
+    },
+    {
+        "name": "İnegöl Köfte",
+        "CityName": "Bursa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/78.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/inegol_kofte.json"
+    },
+    {
+        "name": "İznik Müşküle Üzümü",
+        "CityName": "Bursa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/23359b9b-c154-489c-8277-49a383cd6a74.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/iznik_muskule_uzumu.json"
+    },
+    {
+        "name": "İznik Çinisi",
+        "CityName": "Bursa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/137.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/iznik_cinisi.json"
+    }
+]

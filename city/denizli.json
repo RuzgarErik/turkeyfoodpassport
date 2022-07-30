@@ -1,0 +1,142 @@
+[
+    {
+        "name": "Babadağ Kekik Balı",
+        "CityName": "Denizli",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/90645bc9-ee15-475e-a0d3-0841f51f7da0.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/babadag_kekik_bali.json"
+    },
+    {
+        "name": "Buldan Bezi",
+        "CityName": "Denizli",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/8b12ad33-012d-4a29-b217-ec409caf15ec.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/buldan_bezi.json"
+    },
+    {
+        "name": "Buldan Kestanesi",
+        "CityName": "Denizli",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/a7585398-6809-40fe-ba10-298aed37d6b1.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/buldan_kestanesi.json"
+    },
+    {
+        "name": "Denizli Kekiği",
+        "CityName": "Denizli",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/8ba9e3d8-fc24-4b44-834e-12f7007df238.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/denizli_kekigi.json"
+    },
+    {
+        "name": "Denizli Leblebisi",
+        "CityName": "Denizli",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/134.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/denizli_leblebisi.json"
+    },
+    {
+        "name": "Denizli Traverteni",
+        "CityName": "Denizli",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/87ee49b2-d24c-486a-a076-549ff85712dd.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/denizli_traverteni.json"
+    },
+    {
+        "name": "Denizli Çalkarası Üzümü/Denizli Çalkarası",
+        "CityName": "Denizli",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/245474cf-b0d5-4152-a748-871fc58cd8f3.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/denizli_calkarasi_uzumudenizli_calkarasi.json"
+    },
+    {
+        "name": "Honaz Kirazı",
+        "CityName": "Denizli",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b417bd68-aa5c-4e3e-9e30-56fcb4580bac.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/honaz_kirazi.json"
+    },
+    {
+        "name": "Kale Biberi",
+        "CityName": "Denizli",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/139.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kale_biberi.json"
+    },
+    {
+        "name": "Tavas Baklavası",
+        "CityName": "Denizli",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/375.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/tavas_baklavasi.json"
+    },
+    {
+        "name": "Çameli Elmalı Bezi",
+        "CityName": "Denizli",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/57f084fb-1a30-4546-9aa1-6f14ea0ee192.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/cameli_elmali_bezi.json"
+    },
+    {
+        "name": "Çameli Fasulyesi",
+        "CityName": "Denizli",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/368.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/cameli_fasulyesi.json"
+    },
+    {
+        "name": "Çameli Kilimi",
+        "CityName": "Denizli",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/9922edbe-62dc-416a-962f-14af1c938d82.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/cameli_kilimi.json"
+    },
+    {
+        "name": "İsabey Çekirdeksiz Üzümü",
+        "CityName": "Denizli",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/81.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/isabey_cekirdeksiz_uzumu.json"
+    }
+]

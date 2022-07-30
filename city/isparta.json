@@ -1,0 +1,142 @@
+[
+    {
+        "name": "Isparta Gül Suyu",
+        "CityName": "Isparta",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/1895dac0-d8db-4711-a726-2e56400eb40b.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/isparta_gul_suyu.json"
+    },
+    {
+        "name": "Isparta Gülyağı",
+        "CityName": "Isparta",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/1903ea37-38aa-4c48-a0c0-317289a1ced6.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/isparta_gulyagi.json"
+    },
+    {
+        "name": "Isparta Gülü",
+        "CityName": "Isparta",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b988196a-48b3-4872-a995-f24854137b76.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/isparta_gulu.json"
+    },
+    {
+        "name": "Isparta Kabune Pilavı",
+        "CityName": "Isparta",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/355.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/isparta_kabune_pilavi.json"
+    },
+    {
+        "name": "Senirkent Banağı",
+        "CityName": "Isparta",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/404528f4-ab6c-4840-9bc3-033993cdfb24.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/senirkent_banagi.json"
+    },
+    {
+        "name": "Senirkent Dimrit Üzümü",
+        "CityName": "Isparta",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/950cf759-037d-446b-be9f-2d361a064b3d.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/senirkent_dimrit_uzumu.json"
+    },
+    {
+        "name": "Senirkent Gelin Fesi",
+        "CityName": "Isparta",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/aa335a89-c8f4-4d2a-8aa2-18321e08e19b.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/senirkent_gelin_fesi.json"
+    },
+    {
+        "name": "Senirkent Samsa Tatlısı",
+        "CityName": "Isparta",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/35da1635-0c60-4ebb-a715-92c24d04c290.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/senirkent_samsa_tatlisi.json"
+    },
+    {
+        "name": "Senirkent Üzüm Pekmezi",
+        "CityName": "Isparta",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/253b51e5-f976-4306-95c2-17543734cef1.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/senirkent_uzum_pekmezi.json"
+    },
+    {
+        "name": "Uluborlu Banağı",
+        "CityName": "Isparta",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/327.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/uluborlu_banagi.json"
+    },
+    {
+        "name": "Uluborlu Kirazı",
+        "CityName": "Isparta",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d484a6c9-b09b-4232-9dfd-d9715a8800eb.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/uluborlu_kirazi.json"
+    },
+    {
+        "name": "Uluborlu Çeki Oyası",
+        "CityName": "Isparta",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b4a0a601-eb26-4968-b8ad-e4f3b64e92c8.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/uluborlu_ceki_oyasi.json"
+    },
+    {
+        "name": "Yalvaç Hamursuzu",
+        "CityName": "Isparta",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d5c38406-695c-4f4d-bc62-14a1b0eba86f.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/yalvac_hamursuzu.json"
+    },
+    {
+        "name": "İnce Isparta (Hasgül) El Halısı",
+        "CityName": "Isparta",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/6f58f363-b65f-4007-bc6a-dd12e09672d0.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/ince_isparta_(hasgul)_el_halisi.json"
+    }
+]

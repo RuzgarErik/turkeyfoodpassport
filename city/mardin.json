@@ -1,0 +1,162 @@
+[
+    {
+        "name": "Mardin  İmlebbes",
+        "CityName": "Mardin",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/124.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/mardin__imlebbes.json"
+    },
+    {
+        "name": "Mardin Bulguru",
+        "CityName": "Mardin",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d13961eb-eb63-408d-8ad4-ab2b73ffd172.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/mardin_bulguru.json"
+    },
+    {
+        "name": "Mardin Kaburga Dolması",
+        "CityName": "Mardin",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b97ee458-bb02-42a2-8acd-cba7f479edaf.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/mardin_kaburga_dolmasi.json"
+    },
+    {
+        "name": "Mardin Kibe",
+        "CityName": "Mardin",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e7e4b6c8-40cd-44f8-9ef4-6e57dfe08147.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/mardin_kibe.json"
+    },
+    {
+        "name": "Mardin Kiliçesi / Mardin Kiliçe Çöreği",
+        "CityName": "Mardin",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0eb878f6-502e-4d17-9180-b469b6c66f51.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/mardin_kilicesi__mardin_kilice_coregi.json"
+    },
+    {
+        "name": "Mardin Sembusek",
+        "CityName": "Mardin",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/7f8955cc-08bd-4afe-9ab2-d5525122b55d.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/mardin_sembusek.json"
+    },
+    {
+        "name": "Mardin Taşı",
+        "CityName": "Mardin",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/36315786-7252-43c9-ac90-c5a3c878bd24.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/mardin_tasi.json"
+    },
+    {
+        "name": "Mardin İkbebet",
+        "CityName": "Mardin",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/edd8a544-6d4d-4e28-9951-ff2a573691fe.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/mardin_ikbebet.json"
+    },
+    {
+        "name": "Midyat Acuru",
+        "CityName": "Mardin",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d75b0a9e-808e-439a-ad75-9bedc2f9f2f0.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/midyat_acuru.json"
+    },
+    {
+        "name": "Midyat Kavunu",
+        "CityName": "Mardin",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/dce7ce85-a461-430f-b1f6-e78384bb1717.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/midyat_kavunu.json"
+    },
+    {
+        "name": "Midyat Tandır Ekmeği",
+        "CityName": "Mardin",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/1dbd6ae5-b885-4f7e-92dc-9e9809a4cd97.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/midyat_tandir_ekmegi.json"
+    },
+    {
+        "name": "Midyat Telkârisi",
+        "CityName": "Mardin",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/28e316fa-e891-44a5-a2c7-aa291cac67a8.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/midyat_telkârisi.json"
+    },
+    {
+        "name": "Midyat Turşusu / Midyat Acur Turşusu",
+        "CityName": "Mardin",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/11b463d6-60a4-4f81-86a5-95c2b412f188.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/midyat_tursusu__midyat_acur_tursusu.json"
+    },
+    {
+        "name": "Midyat Zeynebi Üzümü",
+        "CityName": "Mardin",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b19a2b36-dba2-4d14-81b7-3d19a8bb0f7e.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/midyat_zeynebi_uzumu.json"
+    },
+    {
+        "name": "Midyat İnciri",
+        "CityName": "Mardin",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c5c9d983-c2c5-4c32-8689-b058246ec379.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/midyat_inciri.json"
+    },
+    {
+        "name": "Ömerli Karfoki Üzümü",
+        "CityName": "Mardin",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0bf92a9d-0a2a-4924-8da3-9cd6abafdad2.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/omerli_karfoki_uzumu.json"
+    }
+]

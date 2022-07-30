@@ -1,0 +1,552 @@
+[
+    {
+        "name": "Akçabelen (Çetmi) Şeker Fasulyesi",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/994f8cae-92e9-457c-94b7-bc9304968a63.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/akcabelen_(cetmi)_seker_fasulyesi.json"
+    },
+    {
+        "name": "Akşehir Hersesi",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/81f185cf-b9a5-4242-986f-9874c690b24a.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/aksehir_hersesi.json"
+    },
+    {
+        "name": "Akşehir Kirazı",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/75.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/aksehir_kirazi.json"
+    },
+    {
+        "name": "Akşehir Peynir Baklavası",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/39e73f25-4120-4c26-9384-405ebc0a9d0d.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/aksehir_peynir_baklavasi.json"
+    },
+    {
+        "name": "Akşehir Tandır Kebabı",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/4c7ab2a8-bee4-48ce-bcfe-1870813c8542.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/aksehir_tandir_kebabi.json"
+    },
+    {
+        "name": "Bozkır Tahini",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/70fc7866-53eb-402e-a5b1-72ed2b92d98d.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bozkir_tahini.json"
+    },
+    {
+        "name": "Derbent Fasulyesi",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e13be049-fc5e-4dc9-8e9d-2d39fd7eb798.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/derbent_fasulyesi.json"
+    },
+    {
+        "name": "Ereğli Beyaz Kirazı",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/406.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/eregli_beyaz_kirazi.json"
+    },
+    {
+        "name": "Ereğli Koyun Yoğurdu",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b4ba5458-ef1b-4f2a-9e67-6be3eb037874.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/eregli_koyun_yogurdu.json"
+    },
+    {
+        "name": "Ereğli Siyah Havucu",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/216.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/eregli_siyah_havucu.json"
+    },
+    {
+        "name": "Ereğli Uzun Kabağı",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/167a2b18-6ea6-4dad-a538-1d11bc056fd2.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/eregli_uzun_kabagi.json"
+    },
+    {
+        "name": "Hüyük Çileği",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/1fce496f-ba99-4f5a-9667-6080f715208f.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/huyuk_cilegi.json"
+    },
+    {
+        "name": "Kadınhanı Tahinli Pidesi",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/171.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kadinhani_tahinli_pidesi.json"
+    },
+    {
+        "name": "Konya Bamya Çorbası",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d5961861-474a-45fe-9ba8-78cd986c5fac.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/konya_bamya_corbasi.json"
+    },
+    {
+        "name": "Konya Bütümet / Konya Orta",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f925e46b-18fe-4acc-92f9-99aa753a0e51.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/konya_butumet__konya_orta.json"
+    },
+    {
+        "name": "Konya Cimcik",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e2b8ccbb-c307-4444-9ec1-66452b5a0dce.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/konya_cimcik.json"
+    },
+    {
+        "name": "Konya Domalan Yemeği",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/a440020a-9a28-46ac-9067-95a55420114b.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/konya_domalan_yemegi.json"
+    },
+    {
+        "name": "Konya Ekmek Salması",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/2c279f48-4fbc-4fd9-9de7-7787c23c0b94.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/konya_ekmek_salmasi.json"
+    },
+    {
+        "name": "Konya Ekşili Kabak",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/12003e04-078a-4098-a833-12398591ad52.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/konya_eksili_kabak.json"
+    },
+    {
+        "name": "Konya Etli Düğün Pilavı",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b1068b27-8a4d-4bd7-94d7-255f7f5ee68e.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/konya_etli_dugun_pilavi.json"
+    },
+    {
+        "name": "Konya Etli Yaprak Sarması",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d8a44af0-fc2a-4b98-aaca-9c56fb685e2e.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/konya_etli_yaprak_sarmasi.json"
+    },
+    {
+        "name": "Konya Etliekmek",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/214.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/konya_etliekmek.json"
+    },
+    {
+        "name": "Konya Fırın Kebabı / Konya Fürun Kebabı",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/84dbb76a-3003-48e9-9737-ccd289769f4c.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/konya_firin_kebabi__konya_furun_kebabi.json"
+    },
+    {
+        "name": "Konya Haside Tatlısı / Konya Kara Helvası",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f529b679-9f46-4e23-a508-6b38ffe8d9b2.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/konya_haside_tatlisi__konya_kara_helvasi.json"
+    },
+    {
+        "name": "Konya Hassaten Lokma",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c4a702ab-db58-4935-8c9d-0013ef1ed64e.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/konya_hassaten_lokma.json"
+    },
+    {
+        "name": "Konya Ildız Kökü Yemeği",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e39968ff-0f13-4fea-a15f-8a16c67333eb.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/konya_ildiz_koku_yemegi.json"
+    },
+    {
+        "name": "Konya Kakırdaklı Börek",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/103f7c26-b0dd-4338-af32-637b0ea5ff5b.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/konya_kakirdakli_borek.json"
+    },
+    {
+        "name": "Konya Kara Erik Kavurması",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0249ccd6-1625-4b1d-9a99-3a4fec3be4d2.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/konya_kara_erik_kavurmasi.json"
+    },
+    {
+        "name": "Konya Kayısı Hoşafı / Konya Zerdali Hoşafı",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/95d032fa-6c23-4cca-a089-f5c7c7f1b720.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/konya_kayisi_hosafi__konya_zerdali_hosafi.json"
+    },
+    {
+        "name": "Konya Kenevir Helvası",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/660ac031-d2fe-4296-ab3c-33e80e974bbb.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/konya_kenevir_helvasi.json"
+    },
+    {
+        "name": "Konya Kikirdekli Kesme Çorbası",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/52f17ea9-01e9-4877-a95a-da29d14dd333.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/konya_kikirdekli_kesme_corbasi.json"
+    },
+    {
+        "name": "Konya Kuru Kabak Sarması",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/185cb823-5b2e-4bc8-a5f1-feedfaeefe5c.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/konya_kuru_kabak_sarmasi.json"
+    },
+    {
+        "name": "Konya Kömbesi",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/a0378fe2-0373-4153-8469-a93a4da2caa4.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/konya_kombesi.json"
+    },
+    {
+        "name": "Konya Kıtırlı Mantı",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e9e2e0b1-0959-4462-8995-e029ffd64fed.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/konya_kitirli_manti.json"
+    },
+    {
+        "name": "Konya Menekşeli Pilav",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/432032c6-86b0-4d0f-97f4-12a48a8ec61c.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/konya_menekseli_pilav.json"
+    },
+    {
+        "name": "Konya Ovmaç Çorbası",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e484f966-f542-4ca8-8b5a-1f159c011bff.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/konya_ovmac_corbasi.json"
+    },
+    {
+        "name": "Konya Paluzesi / Konya Palize",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/9598392f-6d05-4cb1-a72b-e63c3734cbc8.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/konya_paluzesi__konya_palize.json"
+    },
+    {
+        "name": "Konya Patlıcan Bayıldan",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/7216e010-8363-4150-8389-060264f3c980.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/konya_patlican_bayildan.json"
+    },
+    {
+        "name": "Konya Patlıcan Tiridi",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/baac6765-61d3-465a-a355-91cf1763b3b3.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/konya_patlican_tiridi.json"
+    },
+    {
+        "name": "Konya Peynir Şekeri",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/6d583d07-5d58-4ff3-a0a7-3eb6bf04fe6a.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/konya_peynir_sekeri.json"
+    },
+    {
+        "name": "Konya Reyhan Şerbeti",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ee1daeb9-4af6-40e9-8265-a5d616006f57.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/konya_reyhan_serbeti.json"
+    },
+    {
+        "name": "Konya Sac Arası",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e1d2ed5d-8760-49c7-87a8-b46e31390318.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/konya_sac_arasi.json"
+    },
+    {
+        "name": "Konya Tandır Çorbası",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/4993f217-b0c4-44b7-bb36-3a8743308771.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/konya_tandir_corbasi.json"
+    },
+    {
+        "name": "Konya Tandırda Çebiç",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/a30d4a4c-53bc-424c-b039-de02d5d00d6c.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/konya_tandirda_cebic.json"
+    },
+    {
+        "name": "Konya Tarhun Çorbası",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f4a5b526-6de4-46e4-afd4-636e687415bc.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/konya_tarhun_corbasi.json"
+    },
+    {
+        "name": "Konya Tutmaç Çorbası",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b808b79c-2340-41d9-b094-71560aa6149f.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/konya_tutmac_corbasi.json"
+    },
+    {
+        "name": "Konya Vişne Tiridi",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ad8350ec-367f-4dbf-816d-12169226aada.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/konya_visne_tiridi.json"
+    },
+    {
+        "name": "Konya Zerdesi",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/9bf3be44-7da8-4f60-b66c-692457ce782d.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/konya_zerdesi.json"
+    },
+    {
+        "name": "Konya Zülbiyesi / Konya Sülbiyesi",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f8d5c2d8-cda7-401f-a4d6-1dc3dfe04d2b.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/konya_zulbiyesi__konya_sulbiyesi.json"
+    },
+    {
+        "name": "Konya Çirli",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/772f7c70-08af-4cfc-9f68-5a622d9c1209.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/konya_cirli.json"
+    },
+    {
+        "name": "Konya Çullama",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f74f0869-ce14-4d56-b250-ea357f102c88.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/konya_cullama.json"
+    },
+    {
+        "name": "Konya Çöpleme",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d9068a99-18c6-4ff7-b863-7cdd88427b84.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/konya_copleme.json"
+    },
+    {
+        "name": "Konya İrmik Helvası",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c7f26e63-4540-42de-a108-af760a6d8770.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/konya_irmik_helvasi.json"
+    },
+    {
+        "name": "Konya Şalgam Gallesi",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/9f58d765-811e-4f69-a852-5060f0fe5819.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/konya_salgam_gallesi.json"
+    },
+    {
+        "name": "Çumra Kavunu",
+        "CityName": "Konya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/3678bfe8-cdde-4fa0-bc21-2148e051112d.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/cumra_kavunu.json"
+    }
+]

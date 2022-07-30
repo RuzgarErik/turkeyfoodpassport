@@ -1,0 +1,152 @@
+[
+    {
+        "name": "Bahçesaray Cevizi",
+        "CityName": "Van",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5efeed17-74c2-4a4a-9018-7269c46cae07.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bahcesaray_cevizi.json"
+    },
+    {
+        "name": "Erciş Üzümü",
+        "CityName": "Van",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/69884f1b-b953-4729-a714-cb6e2a73f3d8.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/ercis_uzumu.json"
+    },
+    {
+        "name": "Jirkan Kilimi",
+        "CityName": "Van",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c4f3cd8f-4b90-43c0-83b1-1592b29565d5.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/jirkan_kilimi.json"
+    },
+    {
+        "name": "Murtuğa",
+        "CityName": "Van",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/243.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/murtuga.json"
+    },
+    {
+        "name": "Tandırda Van Balığı / Tandırda Van İnci Kefali",
+        "CityName": "Van",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/cb56cc74-8dca-4fb0-9a3a-ea95ece83911.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/tandirda_van_baligi__tandirda_van_inci_kefali.json"
+    },
+    {
+        "name": "Van Ayran Aşı",
+        "CityName": "Van",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/3272da89-cc33-4bad-ba20-b825c8c544ef.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/van_ayran_asi.json"
+    },
+    {
+        "name": "Van Gül Reçeli",
+        "CityName": "Van",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/aadbcfc7-060e-4736-add3-e210e55aaf25.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/van_gul_receli.json"
+    },
+    {
+        "name": "Van Kahvaltısı",
+        "CityName": "Van",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/1706c3bc-7ef7-4635-874c-82343438c561.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/van_kahvaltisi.json"
+    },
+    {
+        "name": "Van Kavut",
+        "CityName": "Van",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/390.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/van_kavut.json"
+    },
+    {
+        "name": "Van Keledoşu",
+        "CityName": "Van",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/229.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/van_keledosu.json"
+    },
+    {
+        "name": "Van Otlu Peyniri",
+        "CityName": "Van",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/405.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/van_otlu_peyniri.json"
+    },
+    {
+        "name": "Van Pastası",
+        "CityName": "Van",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ed2b5b1c-a6ff-4cf6-9857-6f9def53140d.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/van_pastasi.json"
+    },
+    {
+        "name": "Van Savatlı Gümüş İşlemesi",
+        "CityName": "Van",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/242.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/van_savatli_gumus_islemesi.json"
+    },
+    {
+        "name": "Van Sengeseri",
+        "CityName": "Van",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c32388e6-8a15-4991-9b18-b7101f925837.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/van_sengeseri.json"
+    },
+    {
+        "name": "Çatak Cevizi",
+        "CityName": "Van",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/16dc29b7-5ef9-45f2-8705-7147975b6406.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/catak_cevizi.json"
+    }
+]

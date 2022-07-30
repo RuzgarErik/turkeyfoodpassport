@@ -1,0 +1,262 @@
+[
+    {
+        "name": "Akkışla Gilaburusu",
+        "CityName": "Kayseri",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/950a461e-6cab-440e-a755-0c259cb02df0.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/akkisla_gilaburusu.json"
+    },
+    {
+        "name": "Bünyan El Halısı",
+        "CityName": "Kayseri",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d6b7ed5c-0f9d-4b01-8b30-3eebbc7d77aa.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bunyan_el_halisi.json"
+    },
+    {
+        "name": "Bünyan Gilaburusu",
+        "CityName": "Kayseri",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/389.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bunyan_gilaburusu.json"
+    },
+    {
+        "name": "Develi Cıvıklısı",
+        "CityName": "Kayseri",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/20208617-1051-4782-9151-b8e36113cc18.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/develi_civiklisi.json"
+    },
+    {
+        "name": "Develi Gaceri",
+        "CityName": "Kayseri",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/defa7719-7430-409c-bcb9-a0a01b5e1b57.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/develi_gaceri.json"
+    },
+    {
+        "name": "Erkilet Kedi Bacağı",
+        "CityName": "Kayseri",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/8ccd5196-4efb-4502-93eb-45d0ab6fba2d.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/erkilet_kedi_bacagi.json"
+    },
+    {
+        "name": "Kayseri Cırgalan Biberi",
+        "CityName": "Kayseri",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ae425f59-ca98-485e-b0c0-576ece522856.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kayseri_cirgalan_biberi.json"
+    },
+    {
+        "name": "Kayseri Fırın Ağzı Kebabı",
+        "CityName": "Kayseri",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/de7aeea8-501d-4cae-b132-86d0024bae46.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kayseri_firin_agzi_kebabi.json"
+    },
+    {
+        "name": "Kayseri Gül Baklavası",
+        "CityName": "Kayseri",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/36a61e97-80f7-49fb-adb4-16a7104cc555.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kayseri_gul_baklavasi.json"
+    },
+    {
+        "name": "Kayseri Katmeri",
+        "CityName": "Kayseri",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/72a8dcbd-c2eb-46ff-8c76-26b6457a4fdf.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kayseri_katmeri.json"
+    },
+    {
+        "name": "Kayseri Kurşun Aşı Çorbası",
+        "CityName": "Kayseri",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/3130f51e-ed41-4e1d-a154-138e0ae37478.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kayseri_kursun_asi_corbasi.json"
+    },
+    {
+        "name": "Kayseri Mantısı",
+        "CityName": "Kayseri",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/113.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kayseri_mantisi.json"
+    },
+    {
+        "name": "Kayseri Nevzinesi",
+        "CityName": "Kayseri",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/301d1261-be13-45c5-a596-7074bcf2fae6.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kayseri_nevzinesi.json"
+    },
+    {
+        "name": "Kayseri Pastırması",
+        "CityName": "Kayseri",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/36.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kayseri_pastirmasi.json"
+    },
+    {
+        "name": "Kayseri Sucuğu",
+        "CityName": "Kayseri",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/35.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kayseri_sucugu.json"
+    },
+    {
+        "name": "Kayseri Tandır Böreği",
+        "CityName": "Kayseri",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/21268f04-7f73-4ab4-88b6-c51ca576fe55.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kayseri_tandir_boregi.json"
+    },
+    {
+        "name": "Kayseri Tepsi Mantısı",
+        "CityName": "Kayseri",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/1c668c0a-2645-47c1-8287-3337fdf76820.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kayseri_tepsi_mantisi.json"
+    },
+    {
+        "name": "Kayseri Yağ Mantısı",
+        "CityName": "Kayseri",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/4fdceb39-a2ef-4378-8d6c-bfa3e5b8ef8d.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kayseri_yag_mantisi.json"
+    },
+    {
+        "name": "Kayseri Yağlaması",
+        "CityName": "Kayseri",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/6240dd96-d702-486d-a3dd-78b61a76a854.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kayseri_yaglamasi.json"
+    },
+    {
+        "name": "Pınarbaşı Uzunyayla Çerkes Peyniri",
+        "CityName": "Kayseri",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/1905be0f-38d6-4d7a-9c11-48c9f3ebdc7b.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/pinarbasi_uzunyayla_cerkes_peyniri.json"
+    },
+    {
+        "name": "Soğanlı Bez Bebekleri",
+        "CityName": "Kayseri",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/64.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/soganli_bez_bebekleri.json"
+    },
+    {
+        "name": "Tomarza Kabak Çekirdeği",
+        "CityName": "Kayseri",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/8da93584-8ec8-4b6e-aae4-ec092e240ccf.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/tomarza_kabak_cekirdegi.json"
+    },
+    {
+        "name": "Yahyalı El Halısı",
+        "CityName": "Kayseri",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/59071c80-dbe6-4ed0-8b2e-7066513a5392.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/yahyali_el_halisi.json"
+    },
+    {
+        "name": "Yamula Patlıcanı",
+        "CityName": "Kayseri",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/574bc2ed-1ac1-427d-9bcb-47e3de47e2d3.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/yamula_patlicani.json"
+    },
+    {
+        "name": "Özvatan Çiçek Balı",
+        "CityName": "Kayseri",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0146dc5a-0c96-4440-bbb3-f2985a2f858a.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/ozvatan_cicek_bali.json"
+    },
+    {
+        "name": "İncesu Karaevrek Üzümü",
+        "CityName": "Kayseri",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/26b6a999-f032-4b25-a7a0-0892ab32e99b.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/incesu_karaevrek_uzumu.json"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Eldivan Yağlı Çöreği",
+        "CityName": "Çankırı",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/fd8aae61-a75c-4c02-a618-1486230d8ddf.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/eldivan_yagli_coregi.json"
+    },
+    {
+        "name": "Çankırı Cimcik Hamuru Çorbası",
+        "CityName": "Çankırı",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/2c8119b6-e815-4390-95a0-0eff10169f62.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/cankiri_cimcik_hamuru_corbasi.json"
+    },
+    {
+        "name": "Çankırı Höşmerim Tatlısı",
+        "CityName": "Çankırı",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/7c9ed324-1475-46de-8633-63b891abbe47.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/cankiri_hosmerim_tatlisi.json"
+    },
+    {
+        "name": "Çankırı Küpecik Peyniri",
+        "CityName": "Çankırı",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/87d6a437-bfad-4f6d-b17e-2793d5d0fc66.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/cankiri_kupecik_peyniri.json"
+    },
+    {
+        "name": "Çankırı Pıhtı",
+        "CityName": "Çankırı",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5e91edc7-837d-4103-a848-dec61a2753b0.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/cankiri_pihti.json"
+    },
+    {
+        "name": "Çankırı Sarımsaklı Et",
+        "CityName": "Çankırı",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/7c23fa20-e1dd-4176-8cf6-be0b5484cebe.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/cankiri_sarimsakli_et.json"
+    },
+    {
+        "name": "Çankırı Tutmaç Çorbası",
+        "CityName": "Çankırı",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/359e63e8-c7c0-45f5-9317-56736fc2665d.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/cankiri_tutmac_corbasi.json"
+    },
+    {
+        "name": "Çankırı Yoka (İnce) Ekmek Muskası",
+        "CityName": "Çankırı",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d29bbf46-2d1c-481e-994a-4678509df921.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/cankiri_yoka_(ince)_ekmek_muskasi.json"
+    },
+    {
+        "name": "Çankırı Yumurta Tatlısı",
+        "CityName": "Çankırı",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/280.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/cankiri_yumurta_tatlisi.json"
+    },
+    {
+        "name": "Şabanözü Bazlaması",
+        "CityName": "Çankırı",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/1480e9e3-1e67-410e-9769-c34a9dfd414e.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/sabanozu_bazlamasi.json"
+    }
+]

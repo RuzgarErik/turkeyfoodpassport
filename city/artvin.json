@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Hatila Balı",
+        "CityName": "Artvin",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/da66d682-187f-4f2e-8683-03c57c48dd11.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/hatila_bali.json"
+    },
+    {
+        "name": "Hopa Hamsili Ekmeği",
+        "CityName": "Artvin",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0a44fc14-97f4-4947-ac2b-6eb9db5a55ed.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/hopa_hamsili_ekmegi.json"
+    },
+    {
+        "name": "Hopa Laz Böreği",
+        "CityName": "Artvin",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/7099acc4-c735-41d7-b0af-79547ba06f68.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/hopa_laz_boregi.json"
+    },
+    {
+        "name": "Puçuko",
+        "CityName": "Artvin",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/303.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/pucuko.json"
+    },
+    {
+        "name": "Şavşat Ketesi",
+        "CityName": "Artvin",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/cc6a3c9d-2245-48e5-a30a-a8f85db2ba58.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/savsat_ketesi.json"
+    }
+]

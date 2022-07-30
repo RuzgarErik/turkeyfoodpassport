@@ -1,0 +1,472 @@
+[
+    {
+        "name": "Diyarbakır Armut Tatlısı",
+        "CityName": "Diyarbakır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b038e33e-94b5-470e-858e-088cd404aba4.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/diyarbakir_armut_tatlisi.json"
+    },
+    {
+        "name": "Diyarbakır Ayvalı Kavurma",
+        "CityName": "Diyarbakır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5ded46e0-7d78-41d2-890c-dd26e05aaeb5.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/diyarbakir_ayvali_kavurma.json"
+    },
+    {
+        "name": "Diyarbakır Ayvalı Köfte",
+        "CityName": "Diyarbakır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d35753b3-7824-4de7-a594-cdef42f77768.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/diyarbakir_ayvali_kofte.json"
+    },
+    {
+        "name": "Diyarbakır Babaganuç",
+        "CityName": "Diyarbakır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/a2421198-56df-42f8-8a54-0bb9274b1369.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/diyarbakir_babaganuc.json"
+    },
+    {
+        "name": "Diyarbakır Badem Ezmesi / Diyarbakır Lebzüniyesi",
+        "CityName": "Diyarbakır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5e20150b-fcf5-4d43-8b4c-b44667bf32cc.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/diyarbakir_badem_ezmesi__diyarbakir_lebzuniyesi.json"
+    },
+    {
+        "name": "Diyarbakır Boğazkere Üzümü",
+        "CityName": "Diyarbakır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/6f1e9250-c22f-4e31-adbc-fc488bec8adb.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/diyarbakir_bogazkere_uzumu.json"
+    },
+    {
+        "name": "Diyarbakır Burma Kadayıfı",
+        "CityName": "Diyarbakır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/220.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/diyarbakir_burma_kadayifi.json"
+    },
+    {
+        "name": "Diyarbakır Cimili Tatlısı",
+        "CityName": "Diyarbakır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e8de4639-69e4-4080-8d47-ff892d7294b5.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/diyarbakir_cimili_tatlisi.json"
+    },
+    {
+        "name": "Diyarbakır Ciğer Kebabı",
+        "CityName": "Diyarbakır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/09950ae2-a019-4d2e-9f6a-40c8552a6fc9.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/diyarbakir_ciger_kebabi.json"
+    },
+    {
+        "name": "Diyarbakır Dalak Dolması",
+        "CityName": "Diyarbakır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/7be01ae0-0115-416b-88db-680e479ab45b.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/diyarbakir_dalak_dolmasi.json"
+    },
+    {
+        "name": "Diyarbakır Duvaklı Pilavı",
+        "CityName": "Diyarbakır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/3f82ab84-36d0-4255-9c90-4308b3fe2c08.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/diyarbakir_duvakli_pilavi.json"
+    },
+    {
+        "name": "Diyarbakır Ekşili Dolması",
+        "CityName": "Diyarbakır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ac8e5d61-feb3-408a-8353-52ad134a4e3d.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/diyarbakir_eksili_dolmasi.json"
+    },
+    {
+        "name": "Diyarbakır Erikli Yaz Türlüsü",
+        "CityName": "Diyarbakır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/fe3a3cfe-873c-4d07-bae9-4bba7e678ac0.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/diyarbakir_erikli_yaz_turlusu.json"
+    },
+    {
+        "name": "Diyarbakır Et Eşkenesi Yemeği",
+        "CityName": "Diyarbakır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/1a1c7244-1da0-4f45-a6eb-dfc508294ad9.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/diyarbakir_et_eskenesi_yemegi.json"
+    },
+    {
+        "name": "Diyarbakır Gebol Yemeği",
+        "CityName": "Diyarbakır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5e37f811-d829-48f9-a85f-091977f88d92.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/diyarbakir_gebol_yemegi.json"
+    },
+    {
+        "name": "Diyarbakır Gendüme Aşı",
+        "CityName": "Diyarbakır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c95a0716-0909-49ed-bd75-96ee55c96924.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/diyarbakir_gendume_asi.json"
+    },
+    {
+        "name": "Diyarbakır Habenisk Çorbası",
+        "CityName": "Diyarbakır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/7edea5c4-6217-42ef-a7b8-d560aa0acb6b.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/diyarbakir_habenisk_corbasi.json"
+    },
+    {
+        "name": "Diyarbakır Hedik Yemeği",
+        "CityName": "Diyarbakır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/43b9f8c7-ac33-463c-8025-d29dae4f5c9d.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/diyarbakir_hedik_yemegi.json"
+    },
+    {
+        "name": "Diyarbakır Hırçikli Meftunesi",
+        "CityName": "Diyarbakır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/94551d87-80d5-4fa4-9781-182d15095f3c.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/diyarbakir_hircikli_meftunesi.json"
+    },
+    {
+        "name": "Diyarbakır Kabak Meftunesi",
+        "CityName": "Diyarbakır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/3a617f6b-c015-43fd-902e-a59eda454ca5.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/diyarbakir_kabak_meftunesi.json"
+    },
+    {
+        "name": "Diyarbakır Kaburga Dolması",
+        "CityName": "Diyarbakır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/810c7183-3f07-45fa-b358-b2fb74b423eb.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/diyarbakir_kaburga_dolmasi.json"
+    },
+    {
+        "name": "Diyarbakır Karpuzu",
+        "CityName": "Diyarbakır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/111.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/diyarbakir_karpuzu.json"
+    },
+    {
+        "name": "Diyarbakır Kemikli Kebabı",
+        "CityName": "Diyarbakır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5cc18e81-3a58-4ad3-9805-e198a14d504c.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/diyarbakir_kemikli_kebabi.json"
+    },
+    {
+        "name": "Diyarbakır Kenger Boranisi",
+        "CityName": "Diyarbakır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b3166197-2042-4fdf-8c75-6cf721ffa53e.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/diyarbakir_kenger_boranisi.json"
+    },
+    {
+        "name": "Diyarbakır Kengerli Bulgur Pilavı",
+        "CityName": "Diyarbakır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c44a99e7-6713-4d3c-a07e-1abdf730b2d7.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/diyarbakir_kengerli_bulgur_pilavi.json"
+    },
+    {
+        "name": "Diyarbakır Kibe Mumbar",
+        "CityName": "Diyarbakır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/678f86a6-891b-43f7-9c50-487d21c228e1.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/diyarbakir_kibe_mumbar.json"
+    },
+    {
+        "name": "Diyarbakır Kulak Çorbası",
+        "CityName": "Diyarbakır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/072eeb3b-9f6c-4c6c-a263-09f19e94538f.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/diyarbakir_kulak_corbasi.json"
+    },
+    {
+        "name": "Diyarbakır Kuru Dolması",
+        "CityName": "Diyarbakır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/43ad437f-080c-41cc-9e9f-33ee6b1c32b9.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/diyarbakir_kuru_dolmasi.json"
+    },
+    {
+        "name": "Diyarbakır Kürt Mustafa Çorbası",
+        "CityName": "Diyarbakır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/6c915801-b3cd-42f3-bcaa-aa324732c9ab.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/diyarbakir_kurt_mustafa_corbasi.json"
+    },
+    {
+        "name": "Diyarbakır Lebenisi",
+        "CityName": "Diyarbakır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5699ccc2-20fc-44b1-b53e-974496162d95.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/diyarbakir_lebenisi.json"
+    },
+    {
+        "name": "Diyarbakır Mastava Aşı Yemeği",
+        "CityName": "Diyarbakır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ed1f70fc-6833-47cc-afd1-5ec21cb570cb.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/diyarbakir_mastava_asi_yemegi.json"
+    },
+    {
+        "name": "Diyarbakır Meyir Çorbası",
+        "CityName": "Diyarbakır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/238af43f-81f0-44aa-b3b6-ff984d10a7bb.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/diyarbakir_meyir_corbasi.json"
+    },
+    {
+        "name": "Diyarbakır Nardan Aşı",
+        "CityName": "Diyarbakır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/53998552-33fa-4aec-9a84-5f8809007a67.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/diyarbakir_nardan_asi.json"
+    },
+    {
+        "name": "Diyarbakır Patlıcan Meftunesi",
+        "CityName": "Diyarbakır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/747a665e-a3c3-4963-bcff-0339830d4b38.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/diyarbakir_patlican_meftunesi.json"
+    },
+    {
+        "name": "Diyarbakır Patlıcanlı Kazan Kebabı",
+        "CityName": "Diyarbakır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/91e68839-8d1c-4867-a43f-69ec03798c48.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/diyarbakir_patlicanli_kazan_kebabi.json"
+    },
+    {
+        "name": "Diyarbakır Pencegoşt Pilavı",
+        "CityName": "Diyarbakır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/32d27f4a-1234-47b8-99b5-5d1a7dab0ab4.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/diyarbakir_pencegost_pilavi.json"
+    },
+    {
+        "name": "Diyarbakır Perdeli Ciğer Kebabı",
+        "CityName": "Diyarbakır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/46c1a9a9-6b25-4eb2-b777-2ea23de16038.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/diyarbakir_perdeli_ciger_kebabi.json"
+    },
+    {
+        "name": "Diyarbakır Simindirik Çorbası",
+        "CityName": "Diyarbakır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/3e5dbd8b-65e4-4cf4-97a7-f3fbf41aafdf.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/diyarbakir_simindirik_corbasi.json"
+    },
+    {
+        "name": "Diyarbakır Tavuk Eşkenesi",
+        "CityName": "Diyarbakır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d53b5a6e-346c-4c88-82b7-e8ec7e097c7a.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/diyarbakir_tavuk_eskenesi.json"
+    },
+    {
+        "name": "Diyarbakır Tirit Yemeği",
+        "CityName": "Diyarbakır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b03d7777-87ea-40f7-99cc-12ea0019ff20.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/diyarbakir_tirit_yemegi.json"
+    },
+    {
+        "name": "Diyarbakır Örgü Peyniri",
+        "CityName": "Diyarbakır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/170.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/diyarbakir_orgu_peyniri.json"
+    },
+    {
+        "name": "Diyarbakır Üsküre Kebabı / Diyarbakır Tas Kebabı",
+        "CityName": "Diyarbakır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/3cf672b0-9e1b-476b-8ae7-9ebff960dfbb.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/diyarbakir_uskure_kebabi__diyarbakir_tas_kebabi.json"
+    },
+    {
+        "name": "Diyarbakır İncaz Hoşafı",
+        "CityName": "Diyarbakır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/18ed5ce8-7aad-4c36-b75a-65f306ea6bb5.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/diyarbakir_incaz_hosafi.json"
+    },
+    {
+        "name": "Diyarbakır İçli Köftesi",
+        "CityName": "Diyarbakır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/75189b68-3f22-425f-b011-2823a30f891e.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/diyarbakir_icli_koftesi.json"
+    },
+    {
+        "name": "Diyarbakır Şehriyesi",
+        "CityName": "Diyarbakır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/7f3f8367-ada9-4238-9241-b4086e57739b.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/diyarbakir_sehriyesi.json"
+    },
+    {
+        "name": "Karacadağ Pirinci",
+        "CityName": "Diyarbakır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/34526f15-a21f-4375-92d8-26d65d948fcb.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/karacadag_pirinci.json"
+    },
+    {
+        "name": "Çermik Biberi",
+        "CityName": "Diyarbakır",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/a6936e65-b5c5-4c09-be19-8d1caff2aa65.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/cermik_biberi.json"
+    }
+]

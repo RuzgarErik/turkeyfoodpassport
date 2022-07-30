@@ -1,0 +1,212 @@
+[
+    {
+        "name": "Anamur Muzu",
+        "CityName": "Mersin",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/56.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/anamur_muzu.json"
+    },
+    {
+        "name": "Bozyazı Kavutu",
+        "CityName": "Mersin",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5f45401b-9d8a-44a2-a895-beb69342b52f.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bozyazi_kavutu.json"
+    },
+    {
+        "name": "Erdemli Lamas Limonu",
+        "CityName": "Mersin",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/7e933792-75f1-4b37-9e24-9a4797f78c4e.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/erdemli_lamas_limonu.json"
+    },
+    {
+        "name": "Erdemli Muzu",
+        "CityName": "Mersin",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/565c5520-59b0-40cf-91e8-17ddacd62e08.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/erdemli_muzu.json"
+    },
+    {
+        "name": "Gezende Eriği",
+        "CityName": "Mersin",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/dc746907-ce82-4c09-ae7d-8eb7ac32861d.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gezende_erigi.json"
+    },
+    {
+        "name": "Mersin Cezeryesi",
+        "CityName": "Mersin",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/97e47738-a00d-473f-be29-7918c54634b2.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/mersin_cezeryesi.json"
+    },
+    {
+        "name": "Mersin Kerebici",
+        "CityName": "Mersin",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/2375387b-ea2f-400e-8ac8-a7ece927fc35.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/mersin_kerebici.json"
+    },
+    {
+        "name": "Mersin Tantunisi",
+        "CityName": "Mersin",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/211.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/mersin_tantunisi.json"
+    },
+    {
+        "name": "Mut Kayısısı (Yaş Sofralık)",
+        "CityName": "Mersin",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/92.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/mut_kayisisi_(yas_sofralik).json"
+    },
+    {
+        "name": "Mut Zeytinyağı",
+        "CityName": "Mersin",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/367.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/mut_zeytinyagi.json"
+    },
+    {
+        "name": "Silifke Yoğurdu",
+        "CityName": "Mersin",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/1e7aa92b-e18b-487a-84bf-646771f00ac5.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/silifke_yogurdu.json"
+    },
+    {
+        "name": "Silifke Çileği",
+        "CityName": "Mersin",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/45f46bc7-264f-4262-8054-688e19e3c423.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/silifke_cilegi.json"
+    },
+    {
+        "name": "Tarsus Beyazı Üzüm (Topacık)",
+        "CityName": "Mersin",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/8a74a4cb-0b15-4db9-8fc8-acf49cda9168.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/tarsus_beyazi_uzum_(topacik).json"
+    },
+    {
+        "name": "Tarsus Biberiyesi",
+        "CityName": "Mersin",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/8a2aff91-2067-4981-b13a-775acc59fac6.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/tarsus_biberiyesi.json"
+    },
+    {
+        "name": "Tarsus Fındık Lahmacunu",
+        "CityName": "Mersin",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b21ce00e-8533-43b1-af88-13d90db9858e.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/tarsus_findik_lahmacunu.json"
+    },
+    {
+        "name": "Tarsus Humusu",
+        "CityName": "Mersin",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d5403b0e-4d39-46f9-9b03-4a3690d3256a.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/tarsus_humusu.json"
+    },
+    {
+        "name": "Tarsus Kebabı",
+        "CityName": "Mersin",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0ae56b71-d4b9-46ae-82ef-63b7f8a8d942.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/tarsus_kebabi.json"
+    },
+    {
+        "name": "Tarsus Sarıulak Zeytini",
+        "CityName": "Mersin",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/345.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/tarsus_sariulak_zeytini.json"
+    },
+    {
+        "name": "Tarsus Sarıulak Zeytinyağı",
+        "CityName": "Mersin",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/cc3bafd5-77dd-4dd0-9258-b3f52b4ab9a2.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/tarsus_sariulak_zeytinyagi.json"
+    },
+    {
+        "name": "Tarsus Yayla Bandırması",
+        "CityName": "Mersin",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f2dc9634-d229-44b0-98fd-eb51db40a491.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/tarsus_yayla_bandirmasi.json"
+    },
+    {
+        "name": "Tarsus Şalgamı",
+        "CityName": "Mersin",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e59f7a55-13a5-4409-b6d7-7b6603463a11.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/tarsus_salgami.json"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Aydıntepe Şeker Fasulyesi",
+        "CityName": "Bayburt",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/1ef5182b-8520-4f98-a36a-3465a7f6ac2b.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/aydintepe_seker_fasulyesi.json"
+    },
+    {
+        "name": "Bayburt Balı",
+        "CityName": "Bayburt",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/14b9f8f1-3e9c-4ce3-8057-709985e52eb3.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bayburt_bali.json"
+    },
+    {
+        "name": "Bayburt Ehramı",
+        "CityName": "Bayburt",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/2f7d6675-78f8-4395-8504-2770c7166a2f.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bayburt_ehrami.json"
+    },
+    {
+        "name": "Bayburt Ekşi Lahana",
+        "CityName": "Bayburt",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/af59b6e4-61ff-4251-80b3-9d0fbac6bf1c.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bayburt_eksi_lahana.json"
+    },
+    {
+        "name": "Bayburt Kara Pancar Yemeği",
+        "CityName": "Bayburt",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/6f31e9f8-664a-48db-9e08-4fee1e7e161d.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bayburt_kara_pancar_yemegi.json"
+    },
+    {
+        "name": "Bayburt Kavut Çorbası",
+        "CityName": "Bayburt",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/fafcabb8-74a7-46d8-8bca-8e1cdd60288d.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bayburt_kavut_corbasi.json"
+    },
+    {
+        "name": "Bayburt Ketesi",
+        "CityName": "Bayburt",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f97fefd3-523d-48b0-84bd-7fcba1beba80.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bayburt_ketesi.json"
+    },
+    {
+        "name": "Bayburt Lor Dolması",
+        "CityName": "Bayburt",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/292.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bayburt_lor_dolmasi.json"
+    },
+    {
+        "name": "Bayburt Süt Böreği",
+        "CityName": "Bayburt",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/8c7cca42-2cfc-4558-b2ed-a50fb2004b82.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bayburt_sut_boregi.json"
+    },
+    {
+        "name": "Bayburt Tatlı Çorba",
+        "CityName": "Bayburt",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/338.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bayburt_tatli_corba.json"
+    },
+    {
+        "name": "Bayburt Taşı",
+        "CityName": "Bayburt",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/374315f8-3001-4101-b99a-38b38aaad44e.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bayburt_tasi.json"
+    },
+    {
+        "name": "Bayburt Yalancı Dolma",
+        "CityName": "Bayburt",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/fbdb4c3a-51a9-4b2d-b24c-24b427aed20e.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bayburt_yalanci_dolma.json"
+    }
+]

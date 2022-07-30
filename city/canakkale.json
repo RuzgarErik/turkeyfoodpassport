@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Bayramiç Beyazı",
+        "CityName": "Çanakkale",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/157.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bayramic_beyazi.json"
+    },
+    {
+        "name": "Bayramiç Elması",
+        "CityName": "Çanakkale",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/203.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bayramic_elmasi.json"
+    },
+    {
+        "name": "Bayramiç Tahin Helvası",
+        "CityName": "Çanakkale",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/4ffcb75d-c601-456b-b0ba-43eb100fdae2.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bayramic_tahin_helvasi.json"
+    },
+    {
+        "name": "Bayramiç Zeytinyağı",
+        "CityName": "Çanakkale",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/517d0e7f-f698-48d1-b506-b2b0a8d04fc7.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bayramic_zeytinyagi.json"
+    },
+    {
+        "name": "Bozcaada Çavuş Üzümü",
+        "CityName": "Çanakkale",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/21a5a1c8-0a9a-4709-b9b8-499f1fd8df83.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bozcaada_cavus_uzumu.json"
+    },
+    {
+        "name": "Ezine Peyniri",
+        "CityName": "Çanakkale",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/86.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/ezine_peyniri.json"
+    },
+    {
+        "name": "Geyikli Zeytinyağı",
+        "CityName": "Çanakkale",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/76159b6c-df3a-4835-877d-dafdf2494b97.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/geyikli_zeytinyagi.json"
+    },
+    {
+        "name": "Lapseki Şeftalisi",
+        "CityName": "Çanakkale",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c6fbd8ab-dc83-42b5-9b42-9ea1890de2bd.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/lapseki_seftalisi.json"
+    },
+    {
+        "name": "Yenice Kırmızı Biberi",
+        "CityName": "Çanakkale",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/26309e90-469f-4c54-b28f-becda490b0b5.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/yenice_kirmizi_biberi.json"
+    },
+    {
+        "name": "Çanakkale El Halısı",
+        "CityName": "Çanakkale",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/6100951d-7926-4f2a-8ec7-152e5a88cfc1.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/canakkale_el_halisi.json"
+    }
+]

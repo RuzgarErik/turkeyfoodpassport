@@ -1,0 +1,192 @@
+[
+    {
+        "name": "Divriği Pilavı /Alatlı Pilavı",
+        "CityName": "Sivas",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/89a54552-cf67-4a74-a7f1-38808ed34b9f.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/divrigi_pilavi_alatli_pilavi.json"
+    },
+    {
+        "name": "Gemerek Gilaburusu",
+        "CityName": "Sivas",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/8baacd8a-80bb-4b4d-b4bb-eecceb63112e.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gemerek_gilaburusu.json"
+    },
+    {
+        "name": "Gürün Dut Pekmezi",
+        "CityName": "Sivas",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/7207304f-0ee2-480a-a204-e34988bf673f.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gurun_dut_pekmezi.json"
+    },
+    {
+        "name": "Kangal Balıklı Kaplıcası",
+        "CityName": "Sivas",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/8b08505b-4db5-4354-9c84-3e2e2b8b99d8.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kangal_balikli_kaplicasi.json"
+    },
+    {
+        "name": "Kangal Koyunu",
+        "CityName": "Sivas",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/175aed9d-93cf-4544-a780-fb919349f72a.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kangal_koyunu.json"
+    },
+    {
+        "name": "Koyulhisar Domatesi",
+        "CityName": "Sivas",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f8f08fb3-d992-40d6-8699-44341e3c2964.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/koyulhisar_domatesi.json"
+    },
+    {
+        "name": "Sivas Bıçağı",
+        "CityName": "Sivas",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/401.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/sivas_bicagi.json"
+    },
+    {
+        "name": "Sivas El Halısı",
+        "CityName": "Sivas",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/7d6af7e3-02a8-4d63-8a59-1d68bf0ac4a6.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/sivas_el_halisi.json"
+    },
+    {
+        "name": "Sivas Katmeri",
+        "CityName": "Sivas",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/402.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/sivas_katmeri.json"
+    },
+    {
+        "name": "Sivas Köftesi",
+        "CityName": "Sivas",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/140.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/sivas_koftesi.json"
+    },
+    {
+        "name": "Sivas Pastırması",
+        "CityName": "Sivas",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/1b754247-495d-43ca-a600-1556d128dd2b.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/sivas_pastirmasi.json"
+    },
+    {
+        "name": "Sivas Pezik Turşusu / Sivas Pezik Dal Turşusu",
+        "CityName": "Sivas",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5c5ec042-0d59-4195-b615-5f8a396ed649.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/sivas_pezik_tursusu__sivas_pezik_dal_tursusu.json"
+    },
+    {
+        "name": "Suşehri Kuru Fasulyesi",
+        "CityName": "Sivas",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ee40f3ba-6c25-4a01-8387-ec812063528f.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/susehri_kuru_fasulyesi.json"
+    },
+    {
+        "name": "Ulaş Etli Pidesi",
+        "CityName": "Sivas",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/2d66c8d6-5c13-4ce8-9953-7d34feef485c.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/ulas_etli_pidesi.json"
+    },
+    {
+        "name": "Ulaş Yaprak Döneri",
+        "CityName": "Sivas",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/6b8c48d2-cf7c-4d84-8a8f-e5fc7c9293bb.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/ulas_yaprak_doneri.json"
+    },
+    {
+        "name": "Yenihan Bebekleri",
+        "CityName": "Sivas",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/7294f70b-bbae-4a85-bf11-bb43bde062ca.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/yenihan_bebekleri.json"
+    },
+    {
+        "name": "Zara Balı",
+        "CityName": "Sivas",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/fe257e82-69cb-4f3c-a45c-cdb13ba7d6a5.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/zara_bali.json"
+    },
+    {
+        "name": "Zara Sac Ekmeği",
+        "CityName": "Sivas",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d83a1c5a-37f1-42f2-8754-09bf493c5c27.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/zara_sac_ekmegi.json"
+    },
+    {
+        "name": "Şarkışla Kilimi",
+        "CityName": "Sivas",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b4340c7d-3658-4342-a5e9-326273a26308.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/sarkisla_kilimi.json"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "name": "Ayancık Göynek Yakası",
+        "CityName": "Sinop",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/6c905b35-b821-4ce8-b579-64637aa4e668.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/ayancik_goynek_yakasi.json"
+    },
+    {
+        "name": "Ayancık Keten Bezi",
+        "CityName": "Sinop",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5077fd47-df55-4a5b-baa6-a93efb110fc4.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/ayancik_keten_bezi.json"
+    },
+    {
+        "name": "Boyabat Gazidere Domatesi",
+        "CityName": "Sinop",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b966f6af-188b-4437-ab9a-ac482b461f5f.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/boyabat_gazidere_domatesi.json"
+    },
+    {
+        "name": "Boyabat Sırık Kebabı",
+        "CityName": "Sinop",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e958bfa1-0b10-40cd-a29d-dfdfb017eeb4.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/boyabat_sirik_kebabi.json"
+    },
+    {
+        "name": "Boyabat Çemberi",
+        "CityName": "Sinop",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/126.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/boyabat_cemberi.json"
+    },
+    {
+        "name": "Durağan Mahraması",
+        "CityName": "Sinop",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/2eb012b5-318a-4b84-ab84-0ed43f59eb56.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/duragan_mahramasi.json"
+    },
+    {
+        "name": "Durağan Çemberi",
+        "CityName": "Sinop",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d2d333ea-c3d7-4073-a543-e69c4f35a044.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/duragan_cemberi.json"
+    },
+    {
+        "name": "Sinop Kestane Balı",
+        "CityName": "Sinop",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c8722e86-e797-4e24-b8a1-048d93343ed6.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/sinop_kestane_bali.json"
+    },
+    {
+        "name": "Sinop Kotrası",
+        "CityName": "Sinop",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/37d8bafd-0323-4578-b4cc-7c6de19baf44.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/sinop_kotrasi.json"
+    },
+    {
+        "name": "Sinop Mantısı",
+        "CityName": "Sinop",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/4a574d22-8fe2-48ce-9445-df1743e8edd6.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/sinop_mantisi.json"
+    },
+    {
+        "name": "Sinop Nokulu",
+        "CityName": "Sinop",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/284.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/sinop_nokulu.json"
+    }
+]

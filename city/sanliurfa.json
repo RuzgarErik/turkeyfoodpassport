@@ -1,0 +1,372 @@
+[
+    {
+        "name": "Birecik Patlıcanı",
+        "CityName": "Şanlıurfa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/217.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/birecik_patlicani.json"
+    },
+    {
+        "name": "Halfeti Karagül / Halfeti Siyah Gül",
+        "CityName": "Şanlıurfa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/1900a529-5d0c-44dd-a866-53232bf0676b.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/halfeti_karagul__halfeti_siyah_gul.json"
+    },
+    {
+        "name": "Karaköprü Narı",
+        "CityName": "Şanlıurfa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/698be03b-15f3-4d84-95e1-0821a8ba6b93.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/karakopru_nari.json"
+    },
+    {
+        "name": "Karaköprü Tat Karpuzu",
+        "CityName": "Şanlıurfa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d3d2be5b-5778-446a-968f-b61ad5fc9072.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/karakopru_tat_karpuzu.json"
+    },
+    {
+        "name": "Suruç Narı",
+        "CityName": "Şanlıurfa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/3b466220-67b2-41b2-b981-d7889ff86ce1.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/suruc_nari.json"
+    },
+    {
+        "name": "Urfa (Şanlıurfa) Frenk Çömleği",
+        "CityName": "Şanlıurfa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/253.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/urfa_(sanliurfa)_frenk_comlegi.json"
+    },
+    {
+        "name": "Urfa (Şanlıurfa) Külünçesi",
+        "CityName": "Şanlıurfa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/297.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/urfa_(sanliurfa)_kuluncesi.json"
+    },
+    {
+        "name": "Urfa (Şanlıurfa) Lahmacunu (Kıymalı Ekmeği)",
+        "CityName": "Şanlıurfa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/060bdf77-11d8-410b-93e2-55961183408e.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/urfa_(sanliurfa)_lahmacunu_(kiymali_ekmegi).json"
+    },
+    {
+        "name": "Urfa (Şanlıurfa) Patlıcanlı Kebabı",
+        "CityName": "Şanlıurfa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/9930be8a-34cd-4d7f-b1cb-bbc8269db1d4.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/urfa_(sanliurfa)_patlicanli_kebabi.json"
+    },
+    {
+        "name": "Urfa (Şanlıurfa) Pencer (Pazı) Boranısı ",
+        "CityName": "Şanlıurfa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/316.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/urfa_(sanliurfa)_pencer_(pazi)_boranisi_.json"
+    },
+    {
+        "name": "Urfa (Şanlıurfa) Su Kabağı Yemeği",
+        "CityName": "Şanlıurfa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/328.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/urfa_(sanliurfa)_su_kabagi_yemegi.json"
+    },
+    {
+        "name": "Urfa (Şanlıurfa) Üzlemeli Pilavı",
+        "CityName": "Şanlıurfa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/246.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/urfa_(sanliurfa)_uzlemeli_pilavi.json"
+    },
+    {
+        "name": "Urfa (Şanlıurfa) İsot Çömleği",
+        "CityName": "Şanlıurfa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/254.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/urfa_(sanliurfa)_isot_comlegi.json"
+    },
+    {
+        "name": "Urfa Ağzı Açık / Şanlıurfa Ağzı Açık",
+        "CityName": "Şanlıurfa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f9c1e9ee-5f48-4421-99ca-157c0873a245.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/urfa_agzi_acik__sanliurfa_agzi_acik.json"
+    },
+    {
+        "name": "Urfa Ciğer Kebabı",
+        "CityName": "Şanlıurfa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/8db06265-8b77-44a1-b583-d349032748a9.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/urfa_ciger_kebabi.json"
+    },
+    {
+        "name": "Urfa Eşkili",
+        "CityName": "Şanlıurfa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/215.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/urfa_eskili.json"
+    },
+    {
+        "name": "Urfa Haşhaş Kebabı / Şanlıurfa Haşhaş Kebabı",
+        "CityName": "Şanlıurfa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/275.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/urfa_hashas_kebabi__sanliurfa_hashas_kebabi.json"
+    },
+    {
+        "name": "Urfa Kazan Kebabı / Şanlıurfa Kazan Kebabı",
+        "CityName": "Şanlıurfa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ea0ecfec-19ba-4fbe-bdff-f413a9e2a2a2.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/urfa_kazan_kebabi__sanliurfa_kazan_kebabi.json"
+    },
+    {
+        "name": "Urfa Keme Boranısı Yemeği/Şanlıurfa Keme Boranısı Yemeği",
+        "CityName": "Şanlıurfa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ddf47489-4181-4cd1-b02d-50d53e0eaf77.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/urfa_keme_boranisi_yemegisanliurfa_keme_boranisi_yemegi.json"
+    },
+    {
+        "name": "Urfa Kıymalı Söğürme / Şanlıurfa Kıymalı Söğürme",
+        "CityName": "Şanlıurfa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d78c9aa9-d787-402f-8b33-f738f5a1a2d6.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/urfa_kiymali_sogurme__sanliurfa_kiymali_sogurme.json"
+    },
+    {
+        "name": "Urfa Lebenisi",
+        "CityName": "Şanlıurfa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/320.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/urfa_lebenisi.json"
+    },
+    {
+        "name": "Urfa Meyan Şerbeti (Biyanbalı)",
+        "CityName": "Şanlıurfa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/202.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/urfa_meyan_serbeti_(biyanbali).json"
+    },
+    {
+        "name": "Urfa Miftahi Tas Kebabı/ Şanlıurfa Miftahi Tas Kebabı",
+        "CityName": "Şanlıurfa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0a4819c5-5b03-415b-97ef-9e72afc8c8c1.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/urfa_miftahi_tas_kebabi_sanliurfa_miftahi_tas_kebabi.json"
+    },
+    {
+        "name": "Urfa Peyniri / Şanlıurfa Peyniri",
+        "CityName": "Şanlıurfa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/4c4c99ad-07eb-4398-94d3-d18116892ca0.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/urfa_peyniri__sanliurfa_peyniri.json"
+    },
+    {
+        "name": "Urfa Sac Kavurması / Şanlıurfa Sac Kavurması",
+        "CityName": "Şanlıurfa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/75393467-dc69-41c0-ba66-7a66ca1f29fe.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/urfa_sac_kavurmasi__sanliurfa_sac_kavurmasi.json"
+    },
+    {
+        "name": "Urfa Soğan Kebabı / Şanlıurfa Soğan Kebabı",
+        "CityName": "Şanlıurfa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/404.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/urfa_sogan_kebabi__sanliurfa_sogan_kebabi.json"
+    },
+    {
+        "name": "Urfa Tiriti (Şanlıurfa Tiriti)",
+        "CityName": "Şanlıurfa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/382.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/urfa_tiriti_(sanliurfa_tiriti).json"
+    },
+    {
+        "name": "Urfa Yumurtalı Köfte",
+        "CityName": "Şanlıurfa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/318.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/urfa_yumurtali_kofte.json"
+    },
+    {
+        "name": "Urfa Zerdesi (Şanlıurfa Zerdesi)",
+        "CityName": "Şanlıurfa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/296.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/urfa_zerdesi_(sanliurfa_zerdesi).json"
+    },
+    {
+        "name": "Urfa İçli Köftesi",
+        "CityName": "Şanlıurfa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/383.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/urfa_icli_koftesi.json"
+    },
+    {
+        "name": "Urfa Şıllık Tatlısı (Şanlıurfa Şıllık Tatlısı)",
+        "CityName": "Şanlıurfa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/232.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/urfa_sillik_tatlisi_(sanliurfa_sillik_tatlisi).json"
+    },
+    {
+        "name": "Şanlıurfa Açık Ekmeği (Urfa Açık Ekmeği)",
+        "CityName": "Şanlıurfa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/295.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/sanliurfa_acik_ekmegi_(urfa_acik_ekmegi).json"
+    },
+    {
+        "name": "Şanlıurfa Biberi",
+        "CityName": "Şanlıurfa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/33.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/sanliurfa_biberi.json"
+    },
+    {
+        "name": "Şanlıurfa Culha Dokuması",
+        "CityName": "Şanlıurfa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/727b6b31-266a-4bab-8e3b-80677e150f4c.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/sanliurfa_culha_dokumasi.json"
+    },
+    {
+        "name": "Şanlıurfa Sadeyağı (Urfa Yağı)",
+        "CityName": "Şanlıurfa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/363.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/sanliurfa_sadeyagi_(urfa_yagi).json"
+    },
+    {
+        "name": "Şanlıurfa Tırnaklı Ekmeği",
+        "CityName": "Şanlıurfa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/368919df-a65d-4c5c-b8e6-f6ce34253809.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/sanliurfa_tirnakli_ekmegi.json"
+    },
+    {
+        "name": "Şanlıurfa Çiğ Köfte",
+        "CityName": "Şanlıurfa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/109.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/sanliurfa_cig_kofte.json"
+    }
+]

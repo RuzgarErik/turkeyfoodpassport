@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Cimin Üzümü",
+        "CityName": "Erzincan",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/37.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/cimin_uzumu.json"
+    },
+    {
+        "name": "Erzincan Bakır İmalat Ve El İşlemeciliği Sanatı",
+        "CityName": "Erzincan",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/38.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/erzincan_bakir_imalat_ve_el_islemeciligi_sanati.json"
+    },
+    {
+        "name": "Erzincan Kesme Kadayıfı",
+        "CityName": "Erzincan",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c8d46562-35fe-4e28-98da-b258cce172ad.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/erzincan_kesme_kadayifi.json"
+    },
+    {
+        "name": "Erzincan Tulum Peyniri",
+        "CityName": "Erzincan",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/30.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/erzincan_tulum_peyniri.json"
+    },
+    {
+        "name": "Kemah Doğal Kaynak Tuzu",
+        "CityName": "Erzincan",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/a8d73814-4750-4654-8575-8d30eb9c417d.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kemah_dogal_kaynak_tuzu.json"
+    },
+    {
+        "name": "Kemaliye Dutu / Eğin Dutu",
+        "CityName": "Erzincan",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0596e176-1756-4bd6-91b9-0b1578587420.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kemaliye_dutu__egin_dutu.json"
+    },
+    {
+        "name": "Refahiye Balı",
+        "CityName": "Erzincan",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/6cc72f7a-3877-4535-ba38-22f5f92bedde.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/refahiye_bali.json"
+    }
+]

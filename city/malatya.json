@@ -1,0 +1,272 @@
+[
+    {
+        "name": "Akçadağ Halısı",
+        "CityName": "Malatya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/9d764feb-422c-4fdf-9ff4-41fc4071a0d8.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/akcadag_halisi.json"
+    },
+    {
+        "name": "Akçadağ Kömbesi",
+        "CityName": "Malatya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/df1d7592-c97d-43eb-8007-fb9215ba64f8.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/akcadag_kombesi.json"
+    },
+    {
+        "name": "Arapgir Dolaması",
+        "CityName": "Malatya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e397dd2e-919a-4816-9356-072022843b41.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/arapgir_dolamasi.json"
+    },
+    {
+        "name": "Arapgir Köhnü Üzümü",
+        "CityName": "Malatya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/09186706-fd76-4a95-b3c6-bbdfdfe8b964.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/arapgir_kohnu_uzumu.json"
+    },
+    {
+        "name": "Arapgir Manusa Dokuması",
+        "CityName": "Malatya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/bd9ef461-54c7-47b0-94fc-d4b004863cd2.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/arapgir_manusa_dokumasi.json"
+    },
+    {
+        "name": "Arapgir Mor Reyhanı",
+        "CityName": "Malatya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/266.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/arapgir_mor_reyhani.json"
+    },
+    {
+        "name": "Arapgir Pohmutu /Pohmut",
+        "CityName": "Malatya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/3ad3fdbb-3a5d-4099-8094-198b380c89f1.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/arapgir_pohmutu_pohmut.json"
+    },
+    {
+        "name": "Arapgir Tandır Kebabı",
+        "CityName": "Malatya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ed5c8124-fad6-4f9a-9e7d-b9eb342d44e1.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/arapgir_tandir_kebabi.json"
+    },
+    {
+        "name": "Battalgazi Haşhaşlı Dut Pestili",
+        "CityName": "Malatya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/adbb8760-29a5-465d-91cc-e4a6f36dc3fb.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/battalgazi_hashasli_dut_pestili.json"
+    },
+    {
+        "name": "Hekimhan Cevizi",
+        "CityName": "Malatya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/10afe7c4-2b6b-4e65-810c-b231c49be2fb.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/hekimhan_cevizi.json"
+    },
+    {
+        "name": "Malatya Analı Kızlı Köfte / Malatya Tiritli Köfte",
+        "CityName": "Malatya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/6509988d-b349-4c09-9a9d-cb6c92245974.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/malatya_anali_kizli_kofte__malatya_tiritli_kofte.json"
+    },
+    {
+        "name": "Malatya Banazı Karası Üzümü",
+        "CityName": "Malatya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c0b6def0-a512-4d3d-b01b-4c22f388bf51.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/malatya_banazi_karasi_uzumu.json"
+    },
+    {
+        "name": "Malatya Bilik Ekmeği",
+        "CityName": "Malatya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/fdc2bbb9-6f8e-438e-8eac-8053b62aac38.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/malatya_bilik_ekmegi.json"
+    },
+    {
+        "name": "Malatya Dalbastı Kirazı",
+        "CityName": "Malatya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/267.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/malatya_dalbasti_kirazi.json"
+    },
+    {
+        "name": "Malatya Erik Ekşisi",
+        "CityName": "Malatya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/73aa060c-55b2-4966-8c4e-b56aebb99832.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/malatya_erik_eksisi.json"
+    },
+    {
+        "name": "Malatya Kayısı Çekirdeği",
+        "CityName": "Malatya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/23497e4c-8e83-48c9-a7e3-174ed1c637f0.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/malatya_kayisi_cekirdegi.json"
+    },
+    {
+        "name": "Malatya Kayısısı",
+        "CityName": "Malatya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c263dcdf-3791-47a6-8aa8-d6450a2671dc.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/malatya_kayisisi.json"
+    },
+    {
+        "name": "Malatya Kağıt Kebabı",
+        "CityName": "Malatya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e3283cfb-aeb8-47c0-ac29-dca373f0ac56.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/malatya_kagit_kebabi.json"
+    },
+    {
+        "name": "Malatya Kurabiyesi",
+        "CityName": "Malatya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/9ed80f06-bb2c-4010-8dec-e140d1762ba0.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/malatya_kurabiyesi.json"
+    },
+    {
+        "name": "Malatya Köpük Pestili",
+        "CityName": "Malatya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c8b2a56e-a205-4f3d-9e75-d2fa3912ba35.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/malatya_kopuk_pestili.json"
+    },
+    {
+        "name": "Malatya Peyniri",
+        "CityName": "Malatya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/70c08cb1-207b-407d-bc04-6cef3137dab8.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/malatya_peyniri.json"
+    },
+    {
+        "name": "Malatya Pirpirimli Acılı Ayran / Malatya Semizotlu Acılı Ayran",
+        "CityName": "Malatya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/11bfcaaa-8579-4281-b295-83a99e27d9ae.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/malatya_pirpirimli_acili_ayran__malatya_semizotlu_acili_ayran.json"
+    },
+    {
+        "name": "Malatya Tandır Ekmeği",
+        "CityName": "Malatya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/94c49460-c119-4049-bf64-17328ef94517.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/malatya_tandir_ekmegi.json"
+    },
+    {
+        "name": "Malatya Tevek Yaprağı Sarması",
+        "CityName": "Malatya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/bc7eb8f0-b0dc-4538-808a-af08ce0f4019.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/malatya_tevek_yapragi_sarmasi.json"
+    },
+    {
+        "name": "Malatya Yassı Kadayıfı",
+        "CityName": "Malatya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5adb05a4-bfbe-407a-a70c-a3ac9faa6cae.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/malatya_yassi_kadayifi.json"
+    },
+    {
+        "name": "Malatya İçli Köftesi",
+        "CityName": "Malatya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/4d27b80a-2139-4f8c-a696-6e3730ed5f47.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/malatya_icli_koftesi.json"
+    },
+    {
+        "name": "Yeşilyurt Kiraz Yaprağı Sarma Köftesi / Yeşilyurt Kiraz Yaprağı Sarması",
+        "CityName": "Malatya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/2f443810-dc26-43b5-8966-64c4786b0341.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/yesilyurt_kiraz_yapragi_sarma_koftesi__yesilyurt_kiraz_yapragi_sarmasi.json"
+    }
+]

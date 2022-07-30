@@ -1,0 +1,132 @@
+[
+    {
+        "name": "Adapazarı Beyaz Kestane Kabağı",
+        "CityName": "Sakarya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/de709a41-ffc9-4f97-8e84-73e8c664a6c0.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/adapazari_beyaz_kestane_kabagi.json"
+    },
+    {
+        "name": "Adapazarı Dartılı Keşkek",
+        "CityName": "Sakarya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/168.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/adapazari_dartili_keskek.json"
+    },
+    {
+        "name": "Adapazarı Islama Köftesi",
+        "CityName": "Sakarya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/167.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/adapazari_islama_koftesi.json"
+    },
+    {
+        "name": "Adapazarı Kabak Tatlısı",
+        "CityName": "Sakarya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/bc20253e-b918-4e3d-bb29-3ab243baae83.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/adapazari_kabak_tatlisi.json"
+    },
+    {
+        "name": "Geyve Ayvası",
+        "CityName": "Sakarya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b75b8257-d0a2-4dee-b196-6b28537cacdf.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/geyve_ayvasi.json"
+    },
+    {
+        "name": "Kocaali Hurma Kurusu",
+        "CityName": "Sakarya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/4a17a41e-346c-4f40-b1a3-040ba15c4796.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kocaali_hurma_kurusu.json"
+    },
+    {
+        "name": "Pamukova Ceviz Ezmesi",
+        "CityName": "Sakarya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c014aba1-2353-43dc-abc9-6c34875e1d29.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/pamukova_ceviz_ezmesi.json"
+    },
+    {
+        "name": "Pamukova Kavunu",
+        "CityName": "Sakarya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e416dec8-9c77-4c5e-9f3a-74db52a86948.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/pamukova_kavunu.json"
+    },
+    {
+        "name": "Sakarya Abhaz (Abaza) Peyniri",
+        "CityName": "Sakarya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/87a69cb2-07eb-485e-a945-fc316e35bf02.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/sakarya_abhaz_(abaza)_peyniri.json"
+    },
+    {
+        "name": "Sakarya Süpürgesi",
+        "CityName": "Sakarya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/75f0b11c-ca87-46b5-b411-01e56bd7b04e.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/sakarya_supurgesi.json"
+    },
+    {
+        "name": "Taraklı Uğut Tatlısı",
+        "CityName": "Sakarya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/eceb4efb-9548-42b1-8bec-22d9eacca1ec.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/tarakli_ugut_tatlisi.json"
+    },
+    {
+        "name": "Taraklı Şimşir Kaşık",
+        "CityName": "Sakarya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/59d892fa-d6a9-42a4-827e-c7767439cffc.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/tarakli_simsir_kasik.json"
+    },
+    {
+        "name": "Taraklı Şimşir Tarak",
+        "CityName": "Sakarya",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/676c6c9e-9d3a-4c8a-aae1-218025f6b84b.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/tarakli_simsir_tarak.json"
+    }
+]

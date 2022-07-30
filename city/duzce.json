@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Akçakoca Mancarlı Pidesi",
+        "CityName": "Düzce",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/321.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/akcakoca_mancarli_pidesi.json"
+    },
+    {
+        "name": "Akçakoca Melengücceği Tatlısı",
+        "CityName": "Düzce",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/279.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/akcakoca_melenguccegi_tatlisi.json"
+    },
+    {
+        "name": "Akçakoca Sarı Fındığı",
+        "CityName": "Düzce",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/25968c18-242d-4a6b-8b91-b490d6b0155f.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/akcakoca_sari_findigi.json"
+    },
+    {
+        "name": "Düzce Acıkası",
+        "CityName": "Düzce",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/309.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/duzce_acikasi.json"
+    },
+    {
+        "name": "Düzce Fındıklı Tahin Helvası",
+        "CityName": "Düzce",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/06cf22ec-754f-4e35-b97f-6914cbba787d.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/duzce_findikli_tahin_helvasi.json"
+    },
+    {
+        "name": "Düzce Kestane Balı",
+        "CityName": "Düzce",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ba7af6e2-c974-48f6-a30f-e680035cc277.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/duzce_kestane_bali.json"
+    },
+    {
+        "name": "Düzce Kestane Kabağı",
+        "CityName": "Düzce",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/7629c1f0-6038-4000-9b72-cac12955503c.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/duzce_kestane_kabagi.json"
+    },
+    {
+        "name": "Düzce Köftesi",
+        "CityName": "Düzce",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/308.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/duzce_koftesi.json"
+    },
+    {
+        "name": "Düzce Şeker Kamışı Pekmezi",
+        "CityName": "Düzce",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e34de691-c227-4d2e-89e0-f61ea2fa44f8.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/duzce_seker_kamisi_pekmezi.json"
+    },
+    {
+        "name": "Düzce Şırası",
+        "CityName": "Düzce",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/a2229628-254b-4981-b8df-00edf3351635.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/duzce_sirasi.json"
+    },
+    {
+        "name": "Konuralp Pirinci",
+        "CityName": "Düzce",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ffdf0935-4df1-460a-91f9-7ad495c01318.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/konuralp_pirinci.json"
+    },
+    {
+        "name": "Yufkalı Konuralp Pilavı",
+        "CityName": "Düzce",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/21d2328c-443b-45f8-8271-f0c5e26946b4.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/yufkali_konuralp_pilavi.json"
+    }
+]

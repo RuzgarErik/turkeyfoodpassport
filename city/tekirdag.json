@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Hayrabolu Tatlısı",
+        "CityName": "Tekirdağ",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/48be2141-d9cb-420f-b818-b42cdc0f584f.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/hayrabolu_tatlisi.json"
+    },
+    {
+        "name": "Karacakılavuz Dimi Dokuması",
+        "CityName": "Tekirdağ",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d454d314-c508-42d0-b24f-eb058c45bd3b.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/karacakilavuz_dimi_dokumasi.json"
+    },
+    {
+        "name": "Malkara Eski Kaşar Peyniri",
+        "CityName": "Tekirdağ",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e865b819-8e39-4539-88c9-cf904119e580.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/malkara_eski_kasar_peyniri.json"
+    },
+    {
+        "name": "Tekirdağ Köftesi",
+        "CityName": "Tekirdağ",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d7c21a14-afe6-4668-910a-a868d01d5e83.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/tekirdag_koftesi.json"
+    },
+    {
+        "name": "Tekirdağ Peynir Helvası",
+        "CityName": "Tekirdağ",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/2bac4250-7de5-40c0-ab8a-114ee84b0dd2.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/tekirdag_peynir_helvasi.json"
+    },
+    {
+        "name": "Tekirdağ Yapıncak Salamura Asma Yaprağı",
+        "CityName": "Tekirdağ",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/48da2dec-9ffa-44df-90d9-c314a7f9fad3.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/tekirdag_yapincak_salamura_asma_yapragi.json"
+    },
+    {
+        "name": "Velimeşe Bozası",
+        "CityName": "Tekirdağ",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/86a07f14-1c6f-4b1d-a630-e39813452864.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/velimese_bozasi.json"
+    }
+]

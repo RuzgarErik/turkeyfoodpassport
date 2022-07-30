@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Alucra Oğlak Kebabı",
+        "CityName": "Giresun",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/6a83188b-d9fb-404c-badf-616ef8cf2275.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/alucra_oglak_kebabi.json"
+    },
+    {
+        "name": "Giresun Fındık Ezmesi",
+        "CityName": "Giresun",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/adc6ce27-1be9-476d-b3d9-3b9ecb489ea8.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/giresun_findik_ezmesi.json"
+    },
+    {
+        "name": "Giresun Isırganı",
+        "CityName": "Giresun",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/49ae191e-8b0d-4529-af38-9d2993651384.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/giresun_isirgani.json"
+    },
+    {
+        "name": "Giresun Kalınkara Fındığı /Giresun Karası",
+        "CityName": "Giresun",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/398a5b0c-3897-4db7-bf8e-3482762e7c75.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/giresun_kalinkara_findigi_giresun_karasi.json"
+    },
+    {
+        "name": "Giresun Sivri Fındığı",
+        "CityName": "Giresun",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/bafe5ac6-fb20-4b48-a405-ac6fb5ea30d5.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/giresun_sivri_findigi.json"
+    },
+    {
+        "name": "Giresun Tombul Fındığı",
+        "CityName": "Giresun",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0512bfd7-1d78-4f96-b77c-4e92191976b5.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/giresun_tombul_findigi.json"
+    },
+    {
+        "name": "Görele Dondurması",
+        "CityName": "Giresun",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/2db6e174-9c16-49d3-a62e-c03f18c4fe89.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gorele_dondurmasi.json"
+    },
+    {
+        "name": "Piraziz Elması",
+        "CityName": "Giresun",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/204.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/piraziz_elmasi.json"
+    },
+    {
+        "name": "Tamzara Dokuması",
+        "CityName": "Giresun",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c4a45da3-b335-4d80-8f5e-1ee45a2bb6bc.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/tamzara_dokumasi.json"
+    },
+    {
+        "name": "Çamoluk Şeker Kuru Fasulyesi",
+        "CityName": "Giresun",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/8c5a4429-3e9f-4e39-b307-c0e142b4268c.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/camoluk_seker_kuru_fasulyesi.json"
+    },
+    {
+        "name": "Çavuşlu Ekmeği",
+        "CityName": "Giresun",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/8f905dac-d2d3-48ba-a7c0-fce055969a22.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/cavuslu_ekmegi.json"
+    },
+    {
+        "name": "Şebinkarahisar Karadutu",
+        "CityName": "Giresun",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0cbbd0cc-e93b-49e9-a7a5-ae3b89633daa.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/sebinkarahisar_karadutu.json"
+    }
+]

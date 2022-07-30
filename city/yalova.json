@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Yalova Aronyası",
+        "CityName": "Yalova",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b069d998-cfab-4629-8748-0b007fe45e2c.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/yalova_aronyasi.json"
+    },
+    {
+        "name": "Yalova Kivisi",
+        "CityName": "Yalova",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/99097530-67ba-4b43-9e76-13546096c0e0.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/yalova_kivisi.json"
+    },
+    {
+        "name": "Çınarcık İşi",
+        "CityName": "Yalova",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/277.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/cinarcik_isi.json"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Eşme - Yörük Kilimi",
+        "CityName": "Uşak",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/4ce43043-5c1e-4108-a987-80cb91ea5ddd.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/esme_-_yoruk_kilimi.json"
+    },
+    {
+        "name": "Uşak Gelin Helvası / Uşak Gelin Tatlısı",
+        "CityName": "Uşak",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/483cf144-9979-4f35-b69f-0bc8ebce3bf4.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/usak_gelin_helvasi__usak_gelin_tatlisi.json"
+    },
+    {
+        "name": "Uşak Halısı",
+        "CityName": "Uşak",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ea5fac9d-8f29-4234-8e9e-edb3bf33d7d6.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/usak_halisi.json"
+    },
+    {
+        "name": "Uşak Helvası",
+        "CityName": "Uşak",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d5fe3231-b761-4386-8d09-a3db45caac9d.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/usak_helvasi.json"
+    },
+    {
+        "name": "Uşak Tarhanası",
+        "CityName": "Uşak",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/209.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/usak_tarhanasi.json"
+    }
+]

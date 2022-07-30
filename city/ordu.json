@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Akkuş Şeker Fasulyesi",
+        "CityName": "Ordu",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/156.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/akkus_seker_fasulyesi.json"
+    },
+    {
+        "name": "Kabataş Helvası",
+        "CityName": "Ordu",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/938f67e0-e404-4c3a-9f98-dd37f4c4ecb4.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kabatas_helvasi.json"
+    },
+    {
+        "name": "Ordu Kivisi",
+        "CityName": "Ordu",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/db11f083-e0bb-4a97-910c-a29260b9adf0.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/ordu_kivisi.json"
+    },
+    {
+        "name": "Ordu Perşembe Ceviz Helvası",
+        "CityName": "Ordu",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/592b4f3f-eed2-4095-8c87-a3b309ea8d8a.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/ordu_persembe_ceviz_helvasi.json"
+    },
+    {
+        "name": "Ordu Taflan Turşusu",
+        "CityName": "Ordu",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c9d879ba-4cce-4d50-b073-2a893ca5e920.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/ordu_taflan_tursusu.json"
+    },
+    {
+        "name": "Ordu Tostu",
+        "CityName": "Ordu",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/087d752e-6116-4ee0-b420-2510d28f9111.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/ordu_tostu.json"
+    },
+    {
+        "name": "Ordu Yayla Pancarı Turşusu / Ordu Dürme Turşusu",
+        "CityName": "Ordu",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/269.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/ordu_yayla_pancari_tursusu__ordu_durme_tursusu.json"
+    },
+    {
+        "name": "Yalıköy Köftesi",
+        "CityName": "Ordu",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/6124bb02-8727-448b-a0b1-8abd4f2d1afe.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/yalikoy_koftesi.json"
+    }
+]

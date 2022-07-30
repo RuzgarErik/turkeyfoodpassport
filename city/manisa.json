@@ -1,0 +1,212 @@
+[
+    {
+        "name": "Akhisar Domat Zeytini",
+        "CityName": "Manisa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/166.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/akhisar_domat_zeytini.json"
+    },
+    {
+        "name": "Akhisar Domat Zeytinyağı",
+        "CityName": "Manisa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b7b13c95-7771-4071-83a7-46406c9b5a73.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/akhisar_domat_zeytinyagi.json"
+    },
+    {
+        "name": "Akhisar Köfte ",
+        "CityName": "Manisa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/322.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/akhisar_kofte_.json"
+    },
+    {
+        "name": "Akhisar Uslu Zeytini",
+        "CityName": "Manisa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/1305f460-bc59-464d-a5e5-73ca6564ff39.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/akhisar_uslu_zeytini.json"
+    },
+    {
+        "name": "Akhisar Uslu Zeytinyağı",
+        "CityName": "Manisa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c314978b-3487-4028-85be-eeb1919003c5.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/akhisar_uslu_zeytinyagi.json"
+    },
+    {
+        "name": "Alaşehir Asma Yaprağı",
+        "CityName": "Manisa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/afa93a2b-2cf8-4908-af32-0cd5b26b0621.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/alasehir_asma_yapragi.json"
+    },
+    {
+        "name": "Alaşehir Ekmeği",
+        "CityName": "Manisa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/186af582-efc0-48a5-a1cc-830aede414b1.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/alasehir_ekmegi.json"
+    },
+    {
+        "name": "Alaşehir Kapaması / Alaşehir Kapatması",
+        "CityName": "Manisa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/749b9f3f-e210-402a-bc90-998470fc8092.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/alasehir_kapamasi__alasehir_kapatmasi.json"
+    },
+    {
+        "name": "Demirci Hünnabı",
+        "CityName": "Manisa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/dfc4d598-5399-453f-9816-74fab0970bd0.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/demirci_hunnabi.json"
+    },
+    {
+        "name": "Gördes El Halısı",
+        "CityName": "Manisa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/51345cd2-e544-4e42-bf51-eb8291415295.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gordes_el_halisi.json"
+    },
+    {
+        "name": "Kula El Halısı",
+        "CityName": "Manisa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/32f97191-b6af-4660-825d-29c951d5995f.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kula_el_halisi.json"
+    },
+    {
+        "name": "Kula Leblebisi",
+        "CityName": "Manisa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/7f92d0ff-41f9-4330-8719-83ffbf0e19b3.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kula_leblebisi.json"
+    },
+    {
+        "name": "Köprübaşı Çileği",
+        "CityName": "Manisa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/9bd8a938-45b4-47ab-8d0a-ef8d5e44709f.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/koprubasi_cilegi.json"
+    },
+    {
+        "name": "Kırkağaç Kavunu",
+        "CityName": "Manisa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/107.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kirkagac_kavunu.json"
+    },
+    {
+        "name": "Manisa Mesir Macunu",
+        "CityName": "Manisa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/bf8433d3-1ec7-4af5-a8c4-9c09e19946d2.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/manisa_mesir_macunu.json"
+    },
+    {
+        "name": "Manisa Sultani Çekirdeksiz Üzümü",
+        "CityName": "Manisa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/65621eb8-2c81-4c14-ba26-2280b19bf799.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/manisa_sultani_cekirdeksiz_uzumu.json"
+    },
+    {
+        "name": "Manisa Taban Simidi",
+        "CityName": "Manisa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/349.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/manisa_taban_simidi.json"
+    },
+    {
+        "name": "Salihli Kirazı",
+        "CityName": "Manisa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/66cfa714-7008-4e1d-b60f-67d14b5ce00e.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/salihli_kirazi.json"
+    },
+    {
+        "name": "Salihli Odun Köfte",
+        "CityName": "Manisa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/696d4eca-df6f-4e4b-863f-19966a99aa96.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/salihli_odun_kofte.json"
+    },
+    {
+        "name": "Saruhanlı Çekirdeksiz Beyaz Üzümü",
+        "CityName": "Manisa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/752739dc-4f66-4f5f-a438-4793d3b5142f.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/saruhanli_cekirdeksiz_beyaz_uzumu.json"
+    },
+    {
+        "name": "Yuntdağı El Halısı",
+        "CityName": "Manisa",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d305ef8a-9752-4899-adb8-7490d7a87ce7.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/yuntdagi_el_halisi.json"
+    }
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "name": "Erbaa Narince Bağ Yaprağı",
+        "CityName": "Tokat",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/258.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/erbaa_narince_bag_yapragi.json"
+    },
+    {
+        "name": "Niksar Cevizi",
+        "CityName": "Tokat",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/177.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/niksar_cevizi.json"
+    },
+    {
+        "name": "Tokat Bez Sucuk",
+        "CityName": "Tokat",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/1637f401-f9dd-46be-9698-338e5982949d.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/tokat_bez_sucuk.json"
+    },
+    {
+        "name": "Tokat Bileziği / Tokat Mengil Kolluğu",
+        "CityName": "Tokat",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/cefba917-b72d-4f0f-84d9-82d27f889332.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/tokat_bilezigi__tokat_mengil_kollugu.json"
+    },
+    {
+        "name": "Tokat Ekmeği",
+        "CityName": "Tokat",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/15e5ceff-2ee9-4845-9864-b6be8a9d1dfa.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/tokat_ekmegi.json"
+    },
+    {
+        "name": "Tokat Honçası",
+        "CityName": "Tokat",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/cb4604b1-7b13-4760-8093-b92628b61aa4.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/tokat_honcasi.json"
+    },
+    {
+        "name": "Tokat Kebabı",
+        "CityName": "Tokat",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/188.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/tokat_kebabi.json"
+    },
+    {
+        "name": "Tokat Narince Salamura Asma Yaprağı",
+        "CityName": "Tokat",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d9438537-cd4d-453f-9535-2f57914d94bd.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/tokat_narince_salamura_asma_yapragi.json"
+    },
+    {
+        "name": "Tokat Perpereli Küpesi / Tokat Pırpırlı Küpesi",
+        "CityName": "Tokat",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/179cbe08-48ce-483f-97b5-bf7d2ceba746.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/tokat_perpereli_kupesi__tokat_pirpirli_kupesi.json"
+    },
+    {
+        "name": "Tokat Yazması",
+        "CityName": "Tokat",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e305d63a-9dda-404b-8c64-80fd4962845b.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/tokat_yazmasi.json"
+    },
+    {
+        "name": "Tokat Yağlısı",
+        "CityName": "Tokat",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/9df26024-3867-4baf-876b-b3ecb8998d86.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/tokat_yaglisi.json"
+    },
+    {
+        "name": "Tokat Çöreği",
+        "CityName": "Tokat",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/74aa1f14-9b25-46c7-bb00-dc07df34221e.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/tokat_coregi.json"
+    },
+    {
+        "name": "Turhal Yoğurtmacı",
+        "CityName": "Tokat",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/181.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/turhal_yogurtmaci.json"
+    },
+    {
+        "name": "Zile Kömesi",
+        "CityName": "Tokat",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/224.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/zile_komesi.json"
+    },
+    {
+        "name": "Zile Pekmezi",
+        "CityName": "Tokat",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/118.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/zile_pekmezi.json"
+    }
+]

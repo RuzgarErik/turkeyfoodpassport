@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Ardahan Kaz Eti",
+        "CityName": "Ardahan",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/1ec63263-1506-4a2b-9094-3be77c4e8f22.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/ardahan_kaz_eti.json"
+    },
+    {
+        "name": "Ardahan Çiçek Balı",
+        "CityName": "Ardahan",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/213.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/ardahan_cicek_bali.json"
+    },
+    {
+        "name": "Damal Bebeği",
+        "CityName": "Ardahan",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d713e32f-b230-4b82-9751-ac81dbf2a73a.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/damal_bebegi.json"
+    },
+    {
+        "name": "Posof Elması / Badele Elması",
+        "CityName": "Ardahan",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/37270265-6c55-43f4-9bb4-ae05d1e16a5b.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/posof_elmasi__badele_elmasi.json"
+    },
+    {
+        "name": "Posof Fasulyesi",
+        "CityName": "Ardahan",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/7235ab7a-d830-4421-811a-b63780391b26.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/posof_fasulyesi.json"
+    }
+]

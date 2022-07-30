@@ -1,0 +1,352 @@
+[
+    {
+        "name": "Akyurt Fıtı Çorbası",
+        "CityName": "Ankara",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/55f3cc7f-2933-4ef8-8e65-13743a4cdfa6.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/akyurt_fiti_corbasi.json"
+    },
+    {
+        "name": "Akyurt Homaçası",
+        "CityName": "Ankara",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/dad570c8-f7d0-458f-bfd1-d398804d89bb.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/akyurt_homacasi.json"
+    },
+    {
+        "name": "Akyurt Soğuk Çorbası",
+        "CityName": "Ankara",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/9f9ae7ce-2bf5-49b6-9675-6374d25b15bf.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/akyurt_soguk_corbasi.json"
+    },
+    {
+        "name": "Akyurt Tandır Böreği",
+        "CityName": "Ankara",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/a03245df-a974-4fa8-a4c0-ab42a80052da.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/akyurt_tandir_boregi.json"
+    },
+    {
+        "name": "Akyurt Toyga Aşı / Akyurt Toyga Çorbası",
+        "CityName": "Ankara",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e49f22b3-5d0a-4ca1-997a-57e68691234f.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/akyurt_toyga_asi__akyurt_toyga_corbasi.json"
+    },
+    {
+        "name": "Akyurt Tutmaç Aşı /Çorbası",
+        "CityName": "Ankara",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/4cef65b7-ac6f-46a0-8961-9548c16120b3.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/akyurt_tutmac_asi_corbasi.json"
+    },
+    {
+        "name": "Ankara Andezit Taşı",
+        "CityName": "Ankara",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/86f36925-4d72-4aa2-8b38-9085fa2677a1.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/ankara_andezit_tasi.json"
+    },
+    {
+        "name": "Ankara Döneri",
+        "CityName": "Ankara",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c5846093-9951-459a-b5ba-7262026c4591.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/ankara_doneri.json"
+    },
+    {
+        "name": "Ankara Erkeç Pastırması",
+        "CityName": "Ankara",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/06dab4af-f27b-4af1-b42c-8fddc4daa73c.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/ankara_erkec_pastirmasi.json"
+    },
+    {
+        "name": "Ankara Seymen Kıyafeti / Ankara Seğmen Kıyafeti",
+        "CityName": "Ankara",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/659d2e3e-dbf3-4147-a9a9-57b79b1c3794.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/ankara_seymen_kiyafeti__ankara_segmen_kiyafeti.json"
+    },
+    {
+        "name": "Ankara Simidi",
+        "CityName": "Ankara",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/272c753e-4a83-4b7d-bca3-a7f3358b0d34.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/ankara_simidi.json"
+    },
+    {
+        "name": "Ankara Tava",
+        "CityName": "Ankara",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e16d9f96-6de1-4e76-abf7-1d287bd4d341.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/ankara_tava.json"
+    },
+    {
+        "name": "Ankara Tiftiği",
+        "CityName": "Ankara",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/71e71c6c-327b-4c47-a0df-0c60d1b0981a.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/ankara_tiftigi.json"
+    },
+    {
+        "name": "Ayaş Dutu",
+        "CityName": "Ankara",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/1d6a2804-72f1-46d1-ba03-ff43fd0d7285.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/ayas_dutu.json"
+    },
+    {
+        "name": "Beypazarı Cevizli Tatlı Sucuk",
+        "CityName": "Ankara",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/17653f9e-2610-45a7-9434-f20c136e1705.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/beypazari_cevizli_tatli_sucuk.json"
+    },
+    {
+        "name": "Beypazarı Dolması / Beypazarı Yaprak Sarması",
+        "CityName": "Ankara",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/42e15f4e-62ae-42a5-962e-c1a0a2af15a8.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/beypazari_dolmasi__beypazari_yaprak_sarmasi.json"
+    },
+    {
+        "name": "Beypazarı Havuç Lokumu",
+        "CityName": "Ankara",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/6a68cddd-bf3f-4852-b258-f5c449f64da3.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/beypazari_havuc_lokumu.json"
+    },
+    {
+        "name": "Beypazarı Kurusu",
+        "CityName": "Ankara",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/173.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/beypazari_kurusu.json"
+    },
+    {
+        "name": "Gölbaşı Sevgi Çiçeği",
+        "CityName": "Ankara",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/496d1534-003c-483d-8f55-a5e12e75ae81.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/golbasi_sevgi_cicegi.json"
+    },
+    {
+        "name": "Kalecik Ekmeği",
+        "CityName": "Ankara",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/aacfd753-0a5a-496d-b03c-da8561710367.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kalecik_ekmegi.json"
+    },
+    {
+        "name": "Kalecik Karası Üzümü",
+        "CityName": "Ankara",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/669b1d28-cd9f-4633-a0b4-8a3feac1f2c6.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kalecik_karasi_uzumu.json"
+    },
+    {
+        "name": "Kalecik Çöreği",
+        "CityName": "Ankara",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/1a54436e-7fb4-4912-a5bb-6174bf8258d9.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kalecik_coregi.json"
+    },
+    {
+        "name": "Kazan Kavunu",
+        "CityName": "Ankara",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/58ea4368-c2c2-4617-86aa-5dba61dde7f7.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kazan_kavunu.json"
+    },
+    {
+        "name": "Kızılcahamam Bazlaması",
+        "CityName": "Ankara",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/400.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kizilcahamam_bazlamasi.json"
+    },
+    {
+        "name": "Mamak Kutludüğün Ekşi Maya Ekmeği",
+        "CityName": "Ankara",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/aa09ceae-a693-40eb-a781-14275073d1ec.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/mamak_kutludugun_eksi_maya_ekmegi.json"
+    },
+    {
+        "name": "Mamak Ravak Yoğurdu",
+        "CityName": "Ankara",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/3a5f77a6-e322-4fcc-b860-09eb8d7eafc9.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/mamak_ravak_yogurdu.json"
+    },
+    {
+        "name": "Nallıhan Örtmesi",
+        "CityName": "Ankara",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/342.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/nallihan_ortmesi.json"
+    },
+    {
+        "name": "Nallıhan İğne Oyası",
+        "CityName": "Ankara",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/325.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/nallihan_igne_oyasi.json"
+    },
+    {
+        "name": "Polatlı Soğanı",
+        "CityName": "Ankara",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/4b9bb32d-1271-4f63-9492-198911b54431.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/polatli_sogani.json"
+    },
+    {
+        "name": "Çamlıdere Höşmerim Tatlısı",
+        "CityName": "Ankara",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/4d001917-3814-4f0d-956a-87d5982217dc.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/camlidere_hosmerim_tatlisi.json"
+    },
+    {
+        "name": "Çubuk Agat Taşı",
+        "CityName": "Ankara",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/260.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/cubuk_agat_tasi.json"
+    },
+    {
+        "name": "Çubuk Homaçası",
+        "CityName": "Ankara",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/1a4419ff-4c96-418b-aaa1-3cbc46370b2e.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/cubuk_homacasi.json"
+    },
+    {
+        "name": "Çubuk Turşusu",
+        "CityName": "Ankara",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/99.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/cubuk_tursusu.json"
+    },
+    {
+        "name": "Çubuk Vişnesi",
+        "CityName": "Ankara",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d9b1da5e-4f68-47cf-bf49-af05b434582e.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/cubuk_visnesi.json"
+    },
+    {
+        "name": "Şereflikoçhisar Tahinli Pidesi",
+        "CityName": "Ankara",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/56189c60-4f77-42c5-9ea7-da41c3cd0a8f.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/sereflikochisar_tahinli_pidesi.json"
+    }
+]

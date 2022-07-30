@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Kargı Tulum Peyniri",
+        "CityName": "Çorum",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/decd329d-1776-4599-bd4b-994675e209c6.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kargi_tulum_peyniri.json"
+    },
+    {
+        "name": "Oğuzlar Cevizi",
+        "CityName": "Çorum",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/68dd34f9-7d08-4ea2-91bb-6db374771d7f.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/oguzlar_cevizi.json"
+    },
+    {
+        "name": "Çorum Kuru Mantısı",
+        "CityName": "Çorum",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/5e3da7c7-7362-40e6-bd12-3851aa6114a5.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/corum_kuru_mantisi.json"
+    },
+    {
+        "name": "Çorum Leblebisi",
+        "CityName": "Çorum",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/42.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/corum_leblebisi.json"
+    },
+    {
+        "name": "İskilip Dolması",
+        "CityName": "Çorum",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d078150d-1529-40bb-8ea1-c476c793f001.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/iskilip_dolmasi.json"
+    },
+    {
+        "name": "İskilip Ramazan Keşkeği",
+        "CityName": "Çorum",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/919d3af2-0357-4de0-bf29-c9f006f305b4.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/iskilip_ramazan_keskegi.json"
+    },
+    {
+        "name": "İskilip Turşusu",
+        "CityName": "Çorum",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e9557f38-a9dd-4e3e-a528-dd94e7309903.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/iskilip_tursusu.json"
+    }
+]

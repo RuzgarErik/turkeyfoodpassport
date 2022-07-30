@@ -1,0 +1,132 @@
+[
+    {
+        "name": "Anzer Balı",
+        "CityName": "Rize",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/90a693f8-04aa-4c37-b992-cf2c4ed6ea3c.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/anzer_bali.json"
+    },
+    {
+        "name": "Ayder Balı",
+        "CityName": "Rize",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/7dd98973-f767-4bba-8e3a-6dfa13da7328.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/ayder_bali.json"
+    },
+    {
+        "name": "Derepazarı Pidesi",
+        "CityName": "Rize",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/324.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/derepazari_pidesi.json"
+    },
+    {
+        "name": "Hemşin Çorabı",
+        "CityName": "Rize",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/779ee9fe-cfbd-49ac-a910-e7da64a865c4.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/hemsin_corabi.json"
+    },
+    {
+        "name": "Rize Baston Ekmek",
+        "CityName": "Rize",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/3a7fba87-3f07-4520-8500-704a4a576148.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/rize_baston_ekmek.json"
+    },
+    {
+        "name": "Rize Bezi (Feretiko)",
+        "CityName": "Rize",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/98.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/rize_bezi_(feretiko).json"
+    },
+    {
+        "name": "Rize Enişte Lokumu",
+        "CityName": "Rize",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/84e1da6a-eb4b-48d4-9758-79abbe254651.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/rize_eniste_lokumu.json"
+    },
+    {
+        "name": "Rize Kavurması",
+        "CityName": "Rize",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/355eefc4-f03c-457c-b44b-8cec95e603a5.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/rize_kavurmasi.json"
+    },
+    {
+        "name": "Rize Muhlaması",
+        "CityName": "Rize",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/031f8611-8da4-4ed7-af7f-916aa40bd3a5.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/rize_muhlamasi.json"
+    },
+    {
+        "name": "Rize Pepeçurası",
+        "CityName": "Rize",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/f906f538-3b5f-4fa3-a51b-4c03c008da54.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/rize_pepecurasi.json"
+    },
+    {
+        "name": "Rize Simidi",
+        "CityName": "Rize",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/3c8c3e1e-4577-4e8e-aedf-49690716176e.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/rize_simidi.json"
+    },
+    {
+        "name": "Rize Çayı",
+        "CityName": "Rize",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/2fb62c74-a098-4c44-9a48-14f46d79a578.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/rize_cayi.json"
+    },
+    {
+        "name": "Çayeli Kuru Fasulye Yemeği",
+        "CityName": "Rize",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/312.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/cayeli_kuru_fasulye_yemegi.json"
+    }
+]

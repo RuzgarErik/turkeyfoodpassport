@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Batman Şam Böreği",
+        "CityName": "Batman",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/302.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/batman_sam_boregi.json"
+    },
+    {
+        "name": "Sason Çileği",
+        "CityName": "Batman",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/31ac49b9-3aaa-4b37-a9b6-0e3085bd04c9.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/sason_cilegi.json"
+    }
+]

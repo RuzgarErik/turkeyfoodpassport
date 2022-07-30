@@ -1,0 +1,112 @@
+[
+    {
+        "name": "Akçaabat Köftesi",
+        "CityName": "Trabzon",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/132.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/akcaabat_koftesi.json"
+    },
+    {
+        "name": "Hamsiköy Sütlacı",
+        "CityName": "Trabzon",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/53661dbf-5cb4-4e40-ab46-6c01604ebc38.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/hamsikoy_sutlaci.json"
+    },
+    {
+        "name": "Sürmene Bıçağı",
+        "CityName": "Trabzon",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/329.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/surmene_bicagi.json"
+    },
+    {
+        "name": "Sürmene Pidesi",
+        "CityName": "Trabzon",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/25e36c6f-c7a7-40ee-a568-047eaeecd943.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/surmene_pidesi.json"
+    },
+    {
+        "name": "Tonya Tereyağı",
+        "CityName": "Trabzon",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/380.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/tonya_tereyagi.json"
+    },
+    {
+        "name": "Trabzon Kazaziyesi",
+        "CityName": "Trabzon",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/231.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/trabzon_kazaziyesi.json"
+    },
+    {
+        "name": "Trabzon Telkariye Ve Hasırı",
+        "CityName": "Trabzon",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/68f9b2a7-a076-4f65-88a4-b1d3e589aa18.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/trabzon_telkariye_ve_hasiri.json"
+    },
+    {
+        "name": "Vakfıkebir Ekmeği",
+        "CityName": "Trabzon",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/372.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/vakfikebir_ekmegi.json"
+    },
+    {
+        "name": "Vakfıkebir Külek Peyniri",
+        "CityName": "Trabzon",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/35399f8e-8676-45a5-a768-4e9dd6dfcf85.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/vakfikebir_kulek_peyniri.json"
+    },
+    {
+        "name": "Yomra Elması",
+        "CityName": "Trabzon",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/16dc4a74-284a-4c58-97fd-446cefddedca.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/yomra_elmasi.json"
+    },
+    {
+        "name": "Çarşıbaşı Keşanı",
+        "CityName": "Trabzon",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/591356d2-bffc-43fb-90d6-c903fdf0925a.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/carsibasi_kesani.json"
+    }
+]

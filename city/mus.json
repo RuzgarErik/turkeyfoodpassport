@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Muş Köftesi",
+        "CityName": "Muş",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/2f299d8a-c029-4514-872e-fc66d555b59c.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/mus_koftesi.json"
+    },
+    {
+        "name": "Muş Çorti Aşı (Yemeği)",
+        "CityName": "Muş",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/409.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/mus_corti_asi_(yemegi).json"
+    },
+    {
+        "name": "Muş Çorti Turşusu",
+        "CityName": "Muş",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/294.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/mus_corti_tursusu.json"
+    }
+]

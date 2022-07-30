@@ -1,0 +1,332 @@
+[
+    {
+        "name": "Bergama El Halısı",
+        "CityName": "İzmir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/1931da67-8ef1-4fab-a53b-5aa2d3cbaa72.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bergama_el_halisi.json"
+    },
+    {
+        "name": "Bergama Graniti",
+        "CityName": "İzmir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/271.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bergama_graniti.json"
+    },
+    {
+        "name": "Bergama Kozak Çam Fıstığı",
+        "CityName": "İzmir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/146.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bergama_kozak_cam_fistigi.json"
+    },
+    {
+        "name": "Bergama Parşömeni/ Bergama Kâğıdı",
+        "CityName": "İzmir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/2e00a29b-cac3-4da7-b64a-dc8a6b338723.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bergama_parsomeni_bergama_kâgidi.json"
+    },
+    {
+        "name": "Bornova Kınalı Bamyası",
+        "CityName": "İzmir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/a307941a-67c5-4619-b960-8d1b15a24494.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bornova_kinali_bamyasi.json"
+    },
+    {
+        "name": "Bornova Misket Üzümü",
+        "CityName": "İzmir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/199f5c00-4762-490d-b77f-6374f2686450.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bornova_misket_uzumu.json"
+    },
+    {
+        "name": "Bozdağ Kestane Şekeri",
+        "CityName": "İzmir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/2f615ec7-1b24-4f30-9fd5-876d98856e50.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bozdag_kestane_sekeri.json"
+    },
+    {
+        "name": "Ege Pamuğu",
+        "CityName": "İzmir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c73e02b6-f4e3-4956-8cc3-c880fcd1e4cf.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/ege_pamugu.json"
+    },
+    {
+        "name": "Ege Sultani Üzümü",
+        "CityName": "İzmir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/61.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/ege_sultani_uzumu.json"
+    },
+    {
+        "name": "Ege İnciri",
+        "CityName": "İzmir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/80.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/ege_inciri.json"
+    },
+    {
+        "name": "Görece Nazar Boncuğu",
+        "CityName": "İzmir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/70.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gorece_nazar_boncugu.json"
+    },
+    {
+        "name": "Gümüldür Mandalinası (Gümüldür Mandarini)",
+        "CityName": "İzmir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/19917196-ed8f-4d6b-8b55-d252154eaff3.png"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/gumuldur_mandalinasi_(gumuldur_mandarini).json"
+    },
+    {
+        "name": "Güney Ege Zeytinyağları",
+        "CityName": "İzmir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/48900299-bbe1-48c9-b948-aa2c07051308.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/guney_ege_zeytinyaglari.json"
+    },
+    {
+        "name": "Kavacık Üzümü",
+        "CityName": "İzmir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/4eea4549-b069-4227-af05-50d85d8b92b8.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kavacik_uzumu.json"
+    },
+    {
+        "name": "Kemalpaşa Kirazı",
+        "CityName": "İzmir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/97a887ff-f83c-4023-8986-d4bbc30b822e.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kemalpasa_kirazi.json"
+    },
+    {
+        "name": "Kuzey Ege Zeytinyağları",
+        "CityName": "İzmir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/392.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kuzey_ege_zeytinyaglari.json"
+    },
+    {
+        "name": "Kınık Kuru Domatesi",
+        "CityName": "İzmir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/dce265e2-0790-45e9-b2de-960e3cb2e5c9.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/kinik_kuru_domatesi.json"
+    },
+    {
+        "name": "Seferihisar Mandalinası",
+        "CityName": "İzmir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/411b198d-e1e2-451d-9181-15b62063de75.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/seferihisar_mandalinasi.json"
+    },
+    {
+        "name": "Tire Beledi Dokuması",
+        "CityName": "İzmir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d4ec5c3f-0560-4b9f-91a3-330b404e3c89.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/tire_beledi_dokumasi.json"
+    },
+    {
+        "name": "Tire Şiş Köfte",
+        "CityName": "İzmir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0de7fac3-a5fe-4b53-b75c-d16011351d9e.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/tire_sis_kofte.json"
+    },
+    {
+        "name": "Urla Sakız Enginarı",
+        "CityName": "İzmir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/245.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/urla_sakiz_enginari.json"
+    },
+    {
+        "name": "Çavuşdağı Kuru Fasulyesi",
+        "CityName": "İzmir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d0ed3f46-6801-4b53-89d4-af9a90f28f59.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/cavusdagi_kuru_fasulyesi.json"
+    },
+    {
+        "name": "Çeşme Kavunu",
+        "CityName": "İzmir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/c81c5ce5-cfad-4b8a-9398-ea38b52b91b6.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/cesme_kavunu.json"
+    },
+    {
+        "name": "Ödemiş Köftesi",
+        "CityName": "İzmir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d00ba12d-759e-4bf9-b9a1-90b4b70817f0.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/odemis_koftesi.json"
+    },
+    {
+        "name": "Ödemiş Patatesi",
+        "CityName": "İzmir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/145943ed-0215-4fa7-85db-16106399c42d.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/odemis_patatesi.json"
+    },
+    {
+        "name": "Ödemiş Çekişte Zeytinyağı",
+        "CityName": "İzmir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/6f650cae-2510-40ef-a8da-14d85849214f.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/odemis_cekiste_zeytinyagi.json"
+    },
+    {
+        "name": "Ödemiş İpeği",
+        "CityName": "İzmir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/1b223d32-724a-423a-9100-1fce8e0f922c.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/odemis_ipegi.json"
+    },
+    {
+        "name": "İzmir Boyozu",
+        "CityName": "İzmir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/1b2825da-8d0d-4f07-8b3b-3fe112d20499.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/izmir_boyozu.json"
+    },
+    {
+        "name": "İzmir Gevreği",
+        "CityName": "İzmir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/924f30d0-291d-43f4-9bcf-8413e1515422.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/izmir_gevregi.json"
+    },
+    {
+        "name": "İzmir Kumrusu",
+        "CityName": "İzmir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/262.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/izmir_kumrusu.json"
+    },
+    {
+        "name": "İzmir Lokması",
+        "CityName": "İzmir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/210.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/izmir_lokmasi.json"
+    },
+    {
+        "name": "İzmir Tulum Peyniri",
+        "CityName": "İzmir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/a8a0c4f7-572d-4689-a456-58709940fb4c.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/izmir_tulum_peyniri.json"
+    },
+    {
+        "name": "İzmir Şambalisi",
+        "CityName": "İzmir",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/205.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/izmir_sambalisi.json"
+    }
+]

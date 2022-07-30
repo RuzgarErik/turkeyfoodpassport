@@ -1,0 +1,222 @@
+[
+    {
+        "name": "Aydın Kabak Tatlısı",
+        "CityName": "Aydın",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/b716f1b0-a72c-4dca-8e2e-42fefd25b2aa.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/aydin_kabak_tatlisi.json"
+    },
+    {
+        "name": "Aydın Kestanesi",
+        "CityName": "Aydın",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/180.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/aydin_kestanesi.json"
+    },
+    {
+        "name": "Aydın Memecik Zeytini",
+        "CityName": "Aydın",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/2162dd04-6c82-4c28-bc59-641faea27cb4.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/aydin_memecik_zeytini.json"
+    },
+    {
+        "name": "Aydın Memecik Zeytinyağı",
+        "CityName": "Aydın",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/2f61d5fe-f7f5-4d58-b3bc-50be2828eeb2.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/aydin_memecik_zeytinyagi.json"
+    },
+    {
+        "name": "Aydın Yamalak Sarısı Zeytini",
+        "CityName": "Aydın",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/12fab82d-cf57-4c67-b01b-3602f4d35d05.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/aydin_yamalak_sarisi_zeytini.json"
+    },
+    {
+        "name": "Aydın Çam Fıstığı",
+        "CityName": "Aydın",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/901fc71c-b21c-4673-8838-1f0cbe6b64f4.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/aydin_cam_fistigi.json"
+    },
+    {
+        "name": "Aydın İnciri",
+        "CityName": "Aydın",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/6f134d29-1255-4099-a1fc-84799f14186a.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/aydin_inciri.json"
+    },
+    {
+        "name": "Bozdoğan Cevizli Sucuğu",
+        "CityName": "Aydın",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0451f213-9af0-462f-8ea0-cbce38e36f45.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bozdogan_cevizli_sucugu.json"
+    },
+    {
+        "name": "Dalama Tandırı",
+        "CityName": "Aydın",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/16d84054-f298-400d-9cbb-f4608852d903.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/dalama_tandiri.json"
+    },
+    {
+        "name": "Dedebağ Keşkeği / Karacasu Keşkeği",
+        "CityName": "Aydın",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d2fac3b8-4289-4454-b2a3-f52a2c18e050.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/dedebag_keskegi__karacasu_keskegi.json"
+    },
+    {
+        "name": "Dikmen Çiçek Balı / Dikmen Kekik Balı",
+        "CityName": "Aydın",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/efdb6ad9-fa8d-4426-a57d-0d09cdca36b3.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/dikmen_cicek_bali__dikmen_kekik_bali.json"
+    },
+    {
+        "name": "Germencik Ekşili Tavuk",
+        "CityName": "Aydın",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/a50caffc-51e9-4ad4-a4ca-d12154e5a58c.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/germencik_eksili_tavuk.json"
+    },
+    {
+        "name": "Karacasu Pidesi",
+        "CityName": "Aydın",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/e325f007-cddf-4ee0-9daa-79891826b5fc.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/karacasu_pidesi.json"
+    },
+    {
+        "name": "Karacasu Çömleği",
+        "CityName": "Aydın",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/037063fe-9a97-4548-b8f0-03b07ed9ee34.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/karacasu_comlegi.json"
+    },
+    {
+        "name": "Nazilli Kar Helvası",
+        "CityName": "Aydın",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/354.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/nazilli_kar_helvasi.json"
+    },
+    {
+        "name": "Nazilli Pidesi",
+        "CityName": "Aydın",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/ad267fe0-d494-4c47-b4e3-e873a5f525a5.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/nazilli_pidesi.json"
+    },
+    {
+        "name": "Ortaklar Çöp Şiş",
+        "CityName": "Aydın",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/d176cfbd-73d0-403f-8f14-210e89161241.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/ortaklar_cop_sis.json"
+    },
+    {
+        "name": "Sultanhisar Çileği",
+        "CityName": "Aydın",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/a6c15e67-1834-490e-86a5-6bd8f10aaaf1.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/sultanhisar_cilegi.json"
+    },
+    {
+        "name": "Söke Körüklü Çizmesi",
+        "CityName": "Aydın",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/340.JPG"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/soke_koruklu_cizmesi.json"
+    },
+    {
+        "name": "Söke Tatlı Maya Ekmeği",
+        "CityName": "Aydın",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0eae7b02-7561-445f-ab85-09ad850d7a3e.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/soke_tatli_maya_ekmegi.json"
+    },
+    {
+        "name": "Çine Köftesi",
+        "CityName": "Aydın",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/397.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/cine_koftesi.json"
+    },
+    {
+        "name": "İncirliova Deve Sucuğu",
+        "CityName": "Aydın",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/8f608ff8-2f88-47c4-8eda-2edd7d1f7213.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/incirliova_deve_sucugu.json"
+    }
+]

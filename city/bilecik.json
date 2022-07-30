@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Bilecik Pazaryeri Helvası",
+        "CityName": "Bilecik",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/290.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bilecik_pazaryeri_helvasi.json"
+    },
+    {
+        "name": "Bilecik Şerbetçiotu",
+        "CityName": "Bilecik",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/41188f46-8a64-4364-aa0a-daa59d388557.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bilecik_serbetciotu.json"
+    },
+    {
+        "name": "Bozüyük Mercimekli Mantısı",
+        "CityName": "Bilecik",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/54e77add-c4d8-4ee8-8b46-d8417ad6553e.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/bozuyuk_mercimekli_mantisi.json"
+    },
+    {
+        "name": "Osmaneli Ayva Lokumu",
+        "CityName": "Bilecik",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/0e621582-9833-4a54-9fd0-3426f5210e46.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/osmaneli_ayva_lokumu.json"
+    },
+    {
+        "name": "Çukurören Biberi",
+        "CityName": "Bilecik",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/807d116e-9dd6-472c-8cd7-0bbff821e29f.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/cukuroren_biberi.json"
+    }
+]

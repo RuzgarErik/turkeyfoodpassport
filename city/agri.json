@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Ağrı Geven Balı",
+        "CityName": "Ağrı",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/20c10cf1-0e94-47b4-92c2-8e244c588897.jpeg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/agri_geven_bali.json"
+    },
+    {
+        "name": "Doğubayazıt Abdigör Köftesi",
+        "CityName": "Ağrı",
+        "code": [
+            {
+                "uri": "https://ci.turkpatent.gov.tr/Pictures/GeographicalSigns/310.jpg"
+            }
+        ],
+        "jsonURL": "http://ruzgarerik.com/turkeyfoodpassport/dogubayazit_abdigor_koftesi.json"
+    }
+]
